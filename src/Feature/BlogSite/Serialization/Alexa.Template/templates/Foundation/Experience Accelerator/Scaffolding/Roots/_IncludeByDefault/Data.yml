@@ -1,0 +1,18 @@
+﻿---
+ID: "5ed35bc1-7e84-4684-891f-9d6989a939af"
+Parent: "dad67b24-0baf-461f-9bfc-73dce99812cc"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Scaffolding/Roots/_IncludeByDefault/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160630T104543Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

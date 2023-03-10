@@ -1,0 +1,22 @@
+﻿---
+ID: "274d1852-4ce9-466e-8ed6-438725ddfcfd"
+Parent: "9d81c61a-0341-4312-816d-e5204385ea3c"
+Template: "9d81c61a-0341-4312-816d-e5204385ea3c"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Grid/_Grid Mapping/__Standard Values
+DB: master
+SharedFields:
+- ID: "ad84cc6b-32ef-49d8-9326-916976cb2520"
+  Hint: Grid Mapping
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257B8250F168-8C71-49AF-A4C2-F2C95D607CB8%257D"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170113T115517Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "ce23afcb-d5a4-4afe-963c-4ca0c4bb5fd4"
+Parent: "6ae084b6-4efe-43f0-84a3-3a9772d3d70f"
+Template: "6ae084b6-4efe-43f0-84a3-3a9772d3d70f"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Rendering Parameters/Load More/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160406T111107Z

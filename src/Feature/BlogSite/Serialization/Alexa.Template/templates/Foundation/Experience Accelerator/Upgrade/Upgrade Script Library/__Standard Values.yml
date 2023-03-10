@@ -1,0 +1,29 @@
+﻿---
+ID: "e3b2f75d-147e-409e-90d9-8bc959aa6e40"
+Parent: "9bb0f2ce-01e2-4ade-bf15-e4c60f1b61cb"
+Template: "9bb0f2ce-01e2-4ade-bf15-e4c60f1b61cb"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Upgrade/Upgrade Script Library/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/escalator_up.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {DD22F1B3-BD87-4DB2-9E7D-F7A496888D43}
+    {AB154D3D-1126-4AB4-AC21-8B86E6BD70EA}
+    {9BB0F2CE-01E2-4ADE-BF15-E4C60F1B61CB}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170111T104346Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

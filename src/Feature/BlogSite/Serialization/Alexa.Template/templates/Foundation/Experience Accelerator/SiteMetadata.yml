@@ -1,0 +1,18 @@
+﻿---
+ID: "1254d40b-c756-42eb-94ca-c9c359598e47"
+Parent: "9049da78-ccf3-4237-9dc3-689a7bdcf54b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Experience Accelerator/SiteMetadata
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210624T161315Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

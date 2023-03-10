@@ -1,0 +1,18 @@
+﻿---
+ID: "9153a0d5-ed6a-475d-82a2-783b63941ce4"
+Parent: "952f735e-9b14-4afc-abf7-62f6c00b86e0"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Dynamic Placeholders/Rendering Parameters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160426T075345Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "9c502d2a-1f72-46f4-919c-e36cda173a15"
+Parent: "de3fa58e-ef9d-4544-9f77-dcd1dbb05b64"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Radius Filter/General
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150901T122652Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,33 @@
+﻿---
+ID: "0be58935-f2ed-549a-b755-61a6a3e9e232"
+Parent: "550c7c09-ba1b-56aa-8c6d-b2f9f54b43b5"
+Template: "895a9705-a84a-52e6-a782-24339ee0054b"
+Path: "/sitecore/content/my-alexa-jss-app/home/graphql/sample-2/Page Components/sample-2-jss-main-ContentBlock-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ContentBlock-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084814Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "55429332-cedd-5aa1-9ab3-c739e13aba1b"
+      Hint: heading
+      Value: GraphQL Sample 2
+    - ID: "7dc4d0ab-370c-5b19-a89f-42c4a5b54637"
+      Hint: content
+      Value: |
+        <p>A child route here to illustrate the power of GraphQL queries. <a href="/graphql">Back to GraphQL route</a></p>
+        

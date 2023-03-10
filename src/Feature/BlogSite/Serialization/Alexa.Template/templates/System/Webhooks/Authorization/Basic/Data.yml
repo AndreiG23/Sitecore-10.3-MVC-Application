@@ -1,0 +1,14 @@
+﻿---
+ID: "be12cad2-d073-4612-9ce0-de3022bd30c8"
+Parent: "dfb3307f-1da6-4726-99df-ca3102db5d46"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Webhooks/Authorization/Basic/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210903T112506Z

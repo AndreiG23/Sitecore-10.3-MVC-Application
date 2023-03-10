@@ -1,0 +1,68 @@
+﻿---
+ID: "ac738629-a386-454b-b808-46895ff4020b"
+Parent: "3c0bf549-8617-4592-96a6-ca11e1a70f2a"
+Template: "3c0bf549-8617-4592-96a6-ca11e1a70f2a"
+Path: /sitecore/templates/BlogSite/Article/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{704FE69F-C9D5-4258-A9AA-E142CF4C36E8}">
+        <r
+          id="{BD064D75-D348-4DBE-BDF4-9C08C9FD4BB3}"
+          ph="phMain"
+          uid="{B78BC438-64A4-42A2-8196-2B8F314853C0}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T172541Z
+    - ID: "30fe4398-e488-445b-9091-15cff09b0a2d"
+      Hint: ArticleId
+      Value: $id
+    - ID: "333323d5-d8bf-4e96-846d-593111905693"
+      Hint: Title
+      Value: $title
+    - ID: "3a46ee32-0531-4c50-a17a-b6281191f268"
+      Hint: Image
+      Value: |
+        <image mediaid="{F10A9062-FC43-4DE3-B12B-A7C3C5601EAC}" />
+    - ID: "49d6e921-7edc-4c56-9b2c-fdc1e60b2cc9"
+      Hint: Category
+      Value: Design
+    - ID: "573fad53-7424-4429-8bc8-ee74786a49f1"
+      Hint: Description
+      Value: |
+        <span style="color: #373a3c; background-color: #f8f9fa;">Some quick example text to build on the Blog post title and make up the bulk of the card's content.</span>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6215ebdf-8c2d-4898-9096-b01795258571"
+      Hint: CreationDate
+      Value: $date
+    - ID: "ebf0f0da-37ba-41e7-be3c-bb49a674165f"
+      Hint: Tags
+      Value: Tag,Super Extra Long Tag,Extra Long Tag
+    - ID: "fc32a1be-0e82-42ba-97de-195ec8cc3304"
+      Hint: Content
+      Value: |
+        Bacon ipsum dolor amet pork chop salami ham aliqua anim incididunt. Ex reprehenderit sed sausage filet mignon aliquip. Elit beef fugiat est dolore. Meatball tri-tip eu dolor tenderloin pig duis culpa corned beef prosciutto bacon adipisicing enim. Pig sausage lorem irure ipsum fugiat jowl esse. Ea eiusmod capicola incididunt boudin kielbasa adipisicing short loin exercitation t-bone sirloin officia.
+        
+        Beef ribs prosciutto consequat venison, in ground round occaecat ham hock sed do elit. Culpa tempor turkey ut sirloin. Consequat boudin filet mignon est in non. Dolor bacon bresaola ut turkey, ipsum tail pork loin drumstick short ribs.
+        
+        Deserunt turkey in, landjaeger enim andouille drumstick buffalo ribeye corned beef. Pariatur turkey dolor in pork loin do ut, et pork. Sausage do pariatur chicken consectetur frankfurter landjaeger pork loin esse dolor corned beef ut kielbasa bacon cupidatat. Dolor eiusmod shoulder kevin kielbasa. Jowl pork belly ball tip adipisicing.
+        
+        Brisket cow turducken pariatur pork loin prosciutto. Cow veniam laborum jowl pancetta. Burgdoggen short loin tongue picanha excepteur beef tempor. Venison dolore ullamco, deserunt occaecat commodo ex turkey hamburger. Pancetta ham ut ullamco ipsum anim id short ribs short loin t-bone aliqua.
+        
+        Ground round reprehenderit biltong, shoulder shank veniam burgdoggen laborum spare ribs consectetur labore cillum landjaeger occaecat. Landjaeger ea ut aliquip, do beef ribs dolore t-bone shank incididunt et cupim bacon pork belly. Meatloaf t-bone irure non pancetta. Cillum esse tail aliqua boudin shank filet mignon kielbasa sausage mollit proident.

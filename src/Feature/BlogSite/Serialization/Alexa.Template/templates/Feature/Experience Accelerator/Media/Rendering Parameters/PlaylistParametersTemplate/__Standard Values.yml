@@ -1,0 +1,14 @@
+﻿---
+ID: "53ec5ea9-0745-4bf6-a991-44b489e60b53"
+Parent: "12d5bce9-a553-4fd0-88e3-0afaf1711b97"
+Template: "12d5bce9-a553-4fd0-88e3-0afaf1711b97"
+Path: /sitecore/templates/Feature/Experience Accelerator/Media/Rendering Parameters/PlaylistParametersTemplate/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120619T150759

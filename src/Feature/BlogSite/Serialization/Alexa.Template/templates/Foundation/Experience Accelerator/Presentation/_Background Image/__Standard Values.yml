@@ -1,0 +1,22 @@
+﻿---
+ID: "2ed3d279-2965-488d-9a18-0328124bbb7e"
+Parent: "f09cfb6d-7e3d-4c65-8aa8-85281a59940e"
+Template: "f09cfb6d-7e3d-4c65-8aa8-85281a59940e"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Presentation/_Background Image/__Standard Values
+DB: master
+SharedFields:
+- ID: "a9592843-f684-4a92-b2ce-ba3fea432a05"
+  Hint: Stretch mode
+  Value: "{B56A9527-EEA9-4780-A06B-F822782126A3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181011T114715Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

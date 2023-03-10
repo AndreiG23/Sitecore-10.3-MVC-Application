@@ -1,0 +1,14 @@
+﻿---
+ID: "af49cb22-72a2-4964-b7f7-abbfa5fff02c"
+Parent: "227dbe9b-0518-40a9-b831-b903a6ef0984"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/templates/Branches/System/Email/Messages/Call To Action Focus/$name/Message Root/Calls To Action/Call To Action
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200312T094701Z

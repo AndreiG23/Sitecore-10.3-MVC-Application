@@ -1,0 +1,28 @@
+﻿---
+ID: "cbfcd2a6-7f3d-409a-b894-b20ed4c6e441"
+Parent: "8ebc257e-be8c-4bce-889d-df4483d829a3"
+Template: "8ebc257e-be8c-4bce-889d-df4483d829a3"
+Path: /sitecore/templates/System/Email/Common Template/Parameter Templates/Footer/__Standard Values
+DB: master
+SharedFields:
+- ID: "3fe96a03-982e-4b28-b5da-9d01f3ab5d34"
+  Hint: Content Font Color
+  Value: #999
+- ID: "902b134f-ebf0-4eb6-b529-1fba36527a62"
+  Hint: Link Color
+  Value: #999
+- ID: "a4753e42-9357-419d-a643-9aed9981bfec"
+  Hint: Background Color
+  Value: #232323
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200313T094329Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

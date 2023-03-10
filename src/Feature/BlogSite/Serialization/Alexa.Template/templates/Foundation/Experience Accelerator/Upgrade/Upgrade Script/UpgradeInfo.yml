@@ -1,0 +1,18 @@
+﻿---
+ID: "a9ac2148-20ac-4913-adf8-ca24a3477498"
+Parent: "5205cd92-0242-45aa-bead-b5c6288f2138"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Upgrade/Upgrade Script/UpgradeInfo
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Upgrade Info
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170110T123933Z

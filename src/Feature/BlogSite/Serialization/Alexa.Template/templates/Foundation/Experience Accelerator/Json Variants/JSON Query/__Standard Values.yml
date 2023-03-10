@@ -1,0 +1,36 @@
+﻿---
+ID: "57ea81f4-ea98-4457-b1bd-93596e75bfd4"
+Parent: "97a895e7-dd2b-42bc-b366-dec64ea7f2cc"
+Template: "97a895e7-dd2b-42bc-b366-dec64ea7f2cc"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Json Variants/JSON Query/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {FCECE97C-5693-4B7C-BE42-B198E45AE316}
+    {3ECEDC1B-9F37-41F6-9F98-BA3C0BBA347A}
+    {F69D787D-0ECF-43D3-B9CB-35B303D5233A}
+    {430E92E0-6A2C-42F7-A5F4-51547D31934D}
+    {97A895E7-DD2B-42BC-B366-DEC64EA7F2CC}
+    {590D6149-951B-436B-A767-53F7210E4925}
+    {61B57D28-B376-4584-AF5F-F55279BCE6DD}
+    {C4D4361B-87CE-4640-A2C4-554838E0E417}
+    {2D7EB1AC-9DC7-417F-A61D-43BA1871DD85}
+    {86DE4395-C8EA-48E7-91A6-65F23204D0CC}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170426T103952Z
+    - ID: "45084238-befd-42d7-a6e1-69185e66b682"
+      Hint: Name
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

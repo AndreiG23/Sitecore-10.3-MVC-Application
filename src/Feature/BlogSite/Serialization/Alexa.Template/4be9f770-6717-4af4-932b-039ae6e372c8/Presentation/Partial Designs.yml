@@ -1,0 +1,14 @@
+﻿---
+ID: "98ab60c3-0fe5-467b-a6c7-abd981e30e7a"
+Parent: "be311027-a473-4a08-91b6-4f183eff040e"
+Template: "79c9fa01-5f6a-48b2-b459-05bbaa826a9d"
+Path: /sitecore/templates/Branches/Foundation/JSS Experience Accelerator/Scaffolding/JSS Tenant Folder/JSS Tenant Folder/JSS Tenant/JSS Site/Presentation/Partial Designs
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190121T115409Z

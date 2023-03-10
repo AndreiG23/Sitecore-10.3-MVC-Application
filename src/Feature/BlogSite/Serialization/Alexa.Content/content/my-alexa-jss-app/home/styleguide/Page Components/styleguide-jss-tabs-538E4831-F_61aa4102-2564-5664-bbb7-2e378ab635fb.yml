@@ -1,0 +1,31 @@
+﻿---
+ID: "61aa4102-2564-5664-bbb7-2e378ab635fb"
+Parent: "20d1d568-9889-5e99-b75c-162d8866b008"
+Template: "6bf1a0f2-8fe1-5664-a89b-62711153f5c1"
+Path: "/sitecore/content/my-alexa-jss-app/home/styleguide/Page Components/styleguide-jss-tabs-538E4831-F157-50BB-AC74-277FCAC9FDDB-0-Styleguide-Layout-Tabs-Tab-2"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Layout-Tabs-Tab-2"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084817Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8c4e0cce-7c00-5a1c-a562-e0d583295c72"
+      Hint: content
+      Value: "<p>Tab 2 contents!</p>"
+    - ID: "bc76b507-fbc3-53ee-adf7-d16efb95c9b4"
+      Hint: title
+      Value: Tab 2

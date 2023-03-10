@@ -1,0 +1,46 @@
+﻿---
+ID: "476e385f-3f6f-59f5-b37d-1d413332e64c"
+Parent: "20d1d568-9889-5e99-b75c-162d8866b008"
+Template: "7ecfaa07-93d3-51e5-b102-bfce45da5dce"
+Path: "/sitecore/content/my-alexa-jss-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-B73482E131E5A083D77A50554BC74A4758E29636DF6824F6E2F272EE778C28A095"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ItemLink-10"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05935a08-60b8-5d4b-ad4e-f67b41867c91"
+      Hint: localItemLink
+      Value: "{D0B7BEB2-A6A5-5938-8BD5-FD8CB84B17DB}"
+    - ID: "1b6822ef-49ba-5072-beb3-b462965417ea"
+      Hint: heading
+      Value: Item Link
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084816Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "5fb98da6-5189-5861-9006-a18fa3e61d20"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Item Links are a way to reference another content item to use data from it.
+            Referenced items may be shared.
+            To reference multiple content items, use a <em>Content List</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Item Link fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "c056f9e5-fb1f-544a-b259-76c9267964b7"
+      Hint: sharedItemLink
+      Value: "{5852EEB5-F3E1-58DE-AF83-B5EEDEC0901E}"

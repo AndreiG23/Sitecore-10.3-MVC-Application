@@ -1,0 +1,18 @@
+﻿---
+ID: "973a6da5-7fe2-4e81-bf9f-c6ef73d0de6d"
+Parent: "1b9272ca-8803-45e7-9d54-f4ceaba180ea"
+Template: "85adbf5b-e836-4932-a333-fe0f9fa1ed1e"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Page Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211020T132157Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

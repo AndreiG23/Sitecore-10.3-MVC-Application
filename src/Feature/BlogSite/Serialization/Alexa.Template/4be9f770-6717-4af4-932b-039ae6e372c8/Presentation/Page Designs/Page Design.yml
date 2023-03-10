@@ -1,0 +1,18 @@
+﻿---
+ID: "f3067e2c-68af-4ac6-a1bc-0f5eea9a7e19"
+Parent: "ab94fec8-3dca-40dc-86bc-8402fa98ac09"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/templates/Branches/Foundation/JSS Experience Accelerator/Scaffolding/JSS Tenant Folder/JSS Tenant Folder/JSS Tenant/JSS Site/Presentation/Page Designs/Page Design
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190121T133547Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

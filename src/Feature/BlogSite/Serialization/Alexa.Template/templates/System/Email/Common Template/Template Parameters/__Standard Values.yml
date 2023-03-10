@@ -1,0 +1,31 @@
+﻿---
+ID: "e853c60a-9ef8-40d0-9d93-ea80b1bce257"
+Parent: "04057e52-81de-4ecc-806a-e783fd62c763"
+Template: "04057e52-81de-4ecc-806a-e783fd62c763"
+Path: /sitecore/templates/System/Email/Common Template/Template Parameters/__Standard Values
+DB: master
+SharedFields:
+- ID: "09a31784-a4b3-4d75-a561-63565397edee"
+  Hint: Heading H2 Font Size
+  Value: 22px
+- ID: "0bac1fe0-f660-4065-be88-6d183b8d6f76"
+  Hint: Content Font Size
+  Value: 17px
+- ID: "65b9a133-7599-42e4-9b86-ac574e584542"
+  Hint: Heading H1 Font Size
+  Value: 42px
+- ID: "77b4c9b6-9e93-45c2-8789-675aabf9c646"
+  Hint: Font Family
+  Value: Arial
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200401T075447Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

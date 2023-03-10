@@ -1,0 +1,22 @@
+﻿---
+ID: "a3246fc0-b07a-4a03-a01f-bc1ee6cb3cc6"
+Parent: "fbf300cc-139a-44a9-9154-865573a11859"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/templates/Branches/System/Email/Messages/Call To Action Focus/$name/Message Root/Footers/Footer/Unsubscribe
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160817T035004Z
+    - ID: "7c79ff2c-9e24-4055-bcd2-f1e72093409f"
+      Hint: Link
+      Value: |
+        <link text="Unsubscribe" linktype="external" url="/sitecore modules/Web/EXM/Unsubscribe.aspx" anchor="" class="em_defaultlink" target="" />

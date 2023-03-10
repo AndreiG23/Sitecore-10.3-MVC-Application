@@ -1,0 +1,14 @@
+﻿---
+ID: "63f9b1f7-5d78-4053-8480-70874baf0dc4"
+Parent: "37229eac-e94c-4507-b543-6cb1f31294e4"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Page Content/Default Headless Promo Variant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211020T135004Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "1423a4b6-8b27-4a85-a284-c7b0d417b5c1"
+Parent: "f0e947ad-e83f-4273-985c-d9457718d585"
+Template: "783c9239-41c4-4d84-afe5-1060f582b617"
+Path: /sitecore/templates/Branches/System/Email/Messages/Two Column One CTA/$name/Message Root/Headers/Header
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200715T103333Z

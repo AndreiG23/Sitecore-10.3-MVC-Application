@@ -1,0 +1,36 @@
+﻿---
+ID: "0e938c3b-1b78-5d05-bfcd-091eb38f683b"
+Parent: "dcf92b87-cc5a-58f5-aec8-7c9209ca369b"
+Template: "48ee0644-9aad-5f94-81b5-c5c6e0b50467"
+Path: "/sitecore/content/my-alexa-jss-app/home/Page Components/home-jss-main-MyFirstComponent-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "MyFirstComponent-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01694a16-b6e5-5fcf-ba96-4a5271832fc2"
+      Hint: description
+      Value: |
+        <p>This is description for corona article</p>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084813Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "b22e279e-fab0-5035-b2de-04a953fd5bbe"
+      Hint: author
+      Value: Steve
+    - ID: "beff349a-4eae-53a9-88ed-b511f5d833b1"
+      Hint: title
+      Value: Corona Article

@@ -1,0 +1,14 @@
+﻿---
+ID: "224562f4-3041-4e45-9553-7149f3e365e8"
+Parent: "6d1cd897-1936-4a3a-a511-289a94c2a7b1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Dictionary/Dictionary entry/Data
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

@@ -1,0 +1,25 @@
+﻿---
+ID: "bf101e8d-0b7c-43bf-a6e4-6e2605271712"
+Parent: "7d431148-b2a1-452d-900f-7e36d864df02"
+Template: "7d431148-b2a1-452d-900f-7e36d864df02"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Roots/Renderings/Range Slider Filter Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {0A1787C2-96B5-4D40-8285-22564A5D8E03}
+    {7D431148-B2A1-452D-900F-7E36D864DF02}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160606T083127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

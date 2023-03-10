@@ -1,0 +1,14 @@
+﻿---
+ID: "7af28e37-8fb3-4e21-8393-f02d5c288d6b"
+Parent: "7f24de7a-205c-489b-b451-1cf506fa926a"
+Template: "7f24de7a-205c-489b-b451-1cf506fa926a"
+Path: /sitecore/templates/Feature/Experience Accelerator/Context/Rendering Parameters/Language Selector/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160808T065739Z

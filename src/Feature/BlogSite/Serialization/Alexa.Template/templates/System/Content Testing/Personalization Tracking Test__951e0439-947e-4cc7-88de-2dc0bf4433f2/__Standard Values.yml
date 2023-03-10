@@ -1,0 +1,26 @@
+﻿---
+ID: "f60d39e3-d71e-4670-9647-18ab0c0bdf5f"
+Parent: "951e0439-947e-4cc7-88de-2dc0bf4433f2"
+Template: "951e0439-947e-4cc7-88de-2dc0bf4433f2"
+Path: /sitecore/templates/System/Content Testing/Personalization Tracking Test Variable/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{6D00D695-0CAB-47D7-8929-A03EA002EB19}"
+- ID: "45ad36c2-be5b-4bfc-b2d2-32455c0bd653"
+  Hint: Test Type
+  Value: "{A174CE8E-E28D-4967-82CD-98C51EB2363E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110216T085635Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

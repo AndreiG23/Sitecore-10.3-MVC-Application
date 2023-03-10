@@ -1,0 +1,14 @@
+﻿---
+ID: "d1e970d4-0ba3-4886-9dd2-3dbb461803d0"
+Parent: "f7060a22-5840-47ff-99ba-dc6f2d9b1627"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/templates/Branches/System/Email/Messages/Two Column One CTA/$name/Message Root/Previews/Preview
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200715T103256Z

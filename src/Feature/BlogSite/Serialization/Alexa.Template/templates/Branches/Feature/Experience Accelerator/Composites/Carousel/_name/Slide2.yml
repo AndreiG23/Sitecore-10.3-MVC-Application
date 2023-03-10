@@ -1,0 +1,18 @@
+﻿---
+ID: "5fc96f57-a6c1-4bcb-aea1-8e7694cb493b"
+Parent: "7fa72cb2-ab57-4207-b1b5-48ef497810bc"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Composites/Carousel/$name/Slide2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170705T154230Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

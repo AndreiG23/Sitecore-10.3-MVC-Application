@@ -1,0 +1,23 @@
+﻿---
+ID: "de450003-7e10-437d-9666-a34126d10ecb"
+Parent: "1dc97094-8357-4335-8df5-3349193b1e02"
+Template: "1dc97094-8357-4335-8df5-3349193b1e02"
+Path: /sitecore/templates/Feature/Experience Accelerator/Accessibility/Skip Links Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{B7F6949A-6DDE-44FC-9E28-D8E2C2C8529E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180724T123703Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

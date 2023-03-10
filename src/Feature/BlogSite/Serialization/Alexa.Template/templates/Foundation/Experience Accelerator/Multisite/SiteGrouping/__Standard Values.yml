@@ -1,0 +1,23 @@
+﻿---
+ID: "72880b9f-ada1-45ab-a5fc-cabbee8387ed"
+Parent: "11f57d7b-cbb2-4647-b98c-71457564ba4f"
+Template: "11f57d7b-cbb2-4647-b98c-71457564ba4f"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Multisite/SiteGrouping/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{EDA823FC-BC7E-4EF6-B498-CD09EC6FDAEF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130207T141633
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

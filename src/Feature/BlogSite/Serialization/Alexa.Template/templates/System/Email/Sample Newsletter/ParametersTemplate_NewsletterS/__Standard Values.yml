@@ -1,0 +1,18 @@
+﻿---
+ID: "a9546c26-16de-468d-a8e5-8fab0db5a027"
+Parent: "fd7942b0-b35b-4331-aedc-929e2c64fa43"
+Template: "fd7942b0-b35b-4331-aedc-929e2c64fa43"
+Path: /sitecore/templates/System/Email/Sample Newsletter/ParametersTemplate_NewsletterSection/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/form_blue_delete.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160816T060246Z

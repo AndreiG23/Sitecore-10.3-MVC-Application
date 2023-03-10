@@ -1,0 +1,14 @@
+﻿---
+ID: "dbd77691-0752-492c-8e58-addd566fcf51"
+Parent: "5a5fdf21-4fb0-4316-9ac8-96200632e384"
+Template: "5a5fdf21-4fb0-4316-9ac8-96200632e384"
+Path: /sitecore/templates/Foundation/Experience Accelerator/SiteMetadata/Rendering Parameters/Meta rendering parameters/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150929T064843Z

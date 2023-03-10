@@ -1,0 +1,28 @@
+﻿---
+ID: "11aa0714-3346-493c-bad2-644ae917070b"
+Parent: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Presentation/Styles/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {C6DC7393-15BB-4CD7-B798-AB63E77EBAC4}
+    {6B8AABEF-D650-46E0-97D0-C0B04F7F016B}
+- ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
+  Hint: Type
+  Value: "checkbox-folder"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120821T112722Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

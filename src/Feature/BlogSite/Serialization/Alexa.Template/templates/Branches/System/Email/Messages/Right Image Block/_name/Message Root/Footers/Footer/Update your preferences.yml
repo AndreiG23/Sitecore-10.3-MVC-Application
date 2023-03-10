@@ -1,0 +1,22 @@
+﻿---
+ID: "91422871-f180-4cc9-a859-1b5c2471b4fc"
+Parent: "8b41e58e-1019-4305-908b-f87e15acfb72"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/templates/Branches/System/Email/Messages/Right Image Block/$name/Message Root/Footers/Footer/Update your preferences
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160817T035004Z
+    - ID: "7c79ff2c-9e24-4055-bcd2-f1e72093409f"
+      Hint: Link
+      Value: |
+        <link text="Update subscription preferences" linktype="external" url="/sitecore modules/Web/EXM/SubscriptionPreferences.ashx" anchor="" class="em_defaultlink" target="" />

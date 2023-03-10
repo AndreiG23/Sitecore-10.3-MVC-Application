@@ -1,0 +1,25 @@
+﻿---
+ID: "60cafb1c-44c0-4aba-a99e-47a6957a7b85"
+Parent: "2fcd032a-669b-4750-b617-2a38f95e0ea7"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/templates/Branches/System/Email/Messages/Two Column One CTA/$name
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/document.png
+- ID: "09ad7c00-a8de-46f7-bc54-e7572e38c136"
+  Hint: Body
+  Value: "{91202CF1-2802-4D43-B210-37452263C1D1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T072333Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "7e26a2f2-275d-44dd-a3a0-e94ef0329214"
+Parent: "4fa4acbb-04cb-46e7-ba54-09a4d38fd8de"
+Template: "8ccbef0d-6652-44b1-ad05-32e78120ceb8"
+Path: /sitecore/templates/Branches/System/Analytics/Marketing Automation/Activity Type/$name/Paths
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161222T150816Z

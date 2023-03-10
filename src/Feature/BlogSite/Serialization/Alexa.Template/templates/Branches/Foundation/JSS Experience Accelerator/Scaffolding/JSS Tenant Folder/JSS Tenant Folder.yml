@@ -1,0 +1,18 @@
+﻿---
+ID: "61ceff74-c73e-4dd7-8e4f-8e3cae3aee57"
+Parent: "0f1d019b-467f-42f6-b163-886bb93a1dae"
+Template: "ca170f6f-5ec2-4e0c-b4bb-c77b7931b168"
+Path: /sitecore/templates/Branches/Foundation/JSS Experience Accelerator/Scaffolding/JSS Tenant Folder/JSS Tenant Folder
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Headless Tenant Folder
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181113T125619Z

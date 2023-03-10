@@ -1,0 +1,14 @@
+﻿---
+ID: "77a982bf-75e9-4a69-a729-0260d6fe9db6"
+Parent: "3df44dfb-1292-4d31-837c-15042edb6609"
+Template: "3df44dfb-1292-4d31-837c-15042edb6609"
+Path: /sitecore/templates/Feature/Experience Accelerator/Composites/Rendering Parameters/Snippet/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171003T115046Z

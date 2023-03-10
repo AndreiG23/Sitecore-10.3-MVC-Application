@@ -1,0 +1,14 @@
+﻿---
+ID: "d9f3c5df-05f7-48ee-ad81-53956bdfa605"
+Parent: "ca29b86e-89e8-4f09-ab3b-b3252281b88f"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Navigation/Default Link Variant/$name/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160516T081519Z

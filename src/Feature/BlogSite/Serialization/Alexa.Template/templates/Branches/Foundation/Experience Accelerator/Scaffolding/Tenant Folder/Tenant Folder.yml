@@ -1,0 +1,14 @@
+﻿---
+ID: "b73bfcc1-71d9-45f3-a330-30ad703e3fbd"
+Parent: "77619ae2-b47a-4fb1-83e6-d0587a3e7dc7"
+Template: "4f539f2e-9cf9-4453-8e82-3d13ded12ab3"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Scaffolding/Tenant Folder/Tenant Folder
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160624T092852Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "ffdc8967-7e62-4d9f-9507-bf21b52a7290"
+Parent: "c2f44149-5204-4f9b-b3fc-ef6eafa172e9"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/templates/Branches/System/Email/Messages/Announcement/$name/Message Root/Footers/Footer/Privacy Policy
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160817T034925Z
+    - ID: "7c79ff2c-9e24-4055-bcd2-f1e72093409f"
+      Hint: Link
+      Value: |
+        <link text="Documentation" linktype="external" url="https://doc.sitecore.net/email_experience_manager" anchor="" class="em_defaultlink" target="" />

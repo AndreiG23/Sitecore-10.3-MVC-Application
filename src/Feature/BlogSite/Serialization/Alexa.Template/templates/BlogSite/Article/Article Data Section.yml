@@ -1,0 +1,18 @@
+﻿---
+ID: "ca9d52fa-f346-4bdc-b58d-21a0d88e4ef9"
+Parent: "3c0bf549-8617-4592-96a6-ca11e1a70f2a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/BlogSite/Article/Article Data Section
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T171940Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

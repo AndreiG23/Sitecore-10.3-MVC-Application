@@ -1,0 +1,18 @@
+﻿---
+ID: "0d4590eb-c925-4056-bdb9-222ec424247b"
+Parent: "30fcf06d-196a-4021-8544-c22a5e0b6b1c"
+Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Navigation/Link List/$name/Link 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171019T090759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

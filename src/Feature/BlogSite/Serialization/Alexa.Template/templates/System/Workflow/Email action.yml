@@ -1,0 +1,14 @@
+﻿---
+ID: "a37ff052-48bf-414e-bab8-ab1700d9b5e8"
+Parent: "6259ffd2-8226-4e31-96e7-64cd6b284a6d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/System/Workflow/Email action
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/16x16/mail.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

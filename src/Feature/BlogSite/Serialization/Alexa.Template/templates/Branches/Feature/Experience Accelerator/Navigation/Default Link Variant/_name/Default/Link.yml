@@ -1,0 +1,18 @@
+﻿---
+ID: "24ac2f19-5223-4c8c-b9e0-6d77e47739a2"
+Parent: "d9f3c5df-05f7-48ee-ad81-53956bdfa605"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Navigation/Default Link Variant/$name/Default/Link
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Link
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160516T081556Z

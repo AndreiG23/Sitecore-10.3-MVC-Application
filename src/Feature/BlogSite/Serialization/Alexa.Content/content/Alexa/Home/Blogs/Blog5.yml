@@ -1,0 +1,27 @@
+﻿---
+ID: "6e3104ee-d438-4d94-85fa-1c47789c2be4"
+Parent: "64cb7734-c43b-4472-855b-987f44f971fa"
+Template: "3c0bf549-8617-4592-96a6-ca11e1a70f2a"
+Path: /sitecore/content/Alexa/Home/Blogs/Blog5
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T182916Z
+    - ID: "30fe4398-e488-445b-9091-15cff09b0a2d"
+      Hint: ArticleId
+      Value: "{6E3104EE-D438-4D94-85FA-1C47789C2BE4}"
+    - ID: "333323d5-d8bf-4e96-846d-593111905693"
+      Hint: Title
+      Value: Blog post title
+    - ID: "3a46ee32-0531-4c50-a17a-b6281191f268"
+      Hint: Image
+      Value: |
+        <image mediaid="{3A489554-280C-4C6B-A0F2-356AC4B49E4A}" />
+    - ID: "6215ebdf-8c2d-4898-9096-b01795258571"
+      Hint: CreationDate
+      Value: 20181031T000000Z

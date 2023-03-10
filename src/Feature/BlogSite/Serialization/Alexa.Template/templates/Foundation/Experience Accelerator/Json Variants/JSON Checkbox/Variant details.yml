@@ -1,0 +1,18 @@
+﻿---
+ID: "45f23ce6-ab83-4259-b294-132671d530da"
+Parent: "fcece97c-5693-4b7c-be42-b198e45ae316"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Json Variants/JSON Checkbox/Variant details
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/gears.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T131925Z

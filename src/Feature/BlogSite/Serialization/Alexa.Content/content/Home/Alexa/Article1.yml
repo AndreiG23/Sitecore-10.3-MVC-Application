@@ -1,0 +1,82 @@
+﻿---
+ID: "6031ab1a-219a-4232-bd62-0b244e2abc42"
+Parent: "c2434982-0969-482f-8962-339d2f4fb8f7"
+Template: "5a6263cf-997f-41f1-a5e3-304d447e6286"
+Path: /sitecore/content/Home/Alexa/Article1
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{982E9E1F-E7F2-4C04-BBD9-D2F67F4AB71C}">
+          <p:d />
+        </r>
+        <r
+          uid="{0F549DDA-713C-4917-BF5E-3D49836B678E}">
+          <p:d />
+        </r>
+        <r
+          uid="{816A8A0B-7940-4E9D-BF60-892CEE79F4A6}">
+          <p:d />
+        </r>
+        <r
+          uid="{E3C0C83F-D0E4-4D2B-98F7-52DD177E36F2}"
+          p:before="*"
+          s:id="{87BBF24B-EA1B-44F4-B040-246F9FCCC60E}"
+          s:ph="phMain" />
+        <r
+          uid="{FADE7A97-50D5-4107-9B70-4A35010BB5E3}"
+          p:after="r[@uid='{E3C0C83F-D0E4-4D2B-98F7-52DD177E36F2}']"
+          s:id="{8F8F2232-369C-4B13-B150-4AC40C341386}"
+          s:ph="phMain" />
+        <r
+          uid="{0A38F06F-F82F-4582-B82E-4A8BF7DFF97D}"
+          p:after="*[1=2]"
+          s:id="{5C6A1EC8-F8B0-4571-93D6-EBEC6C550EE6}"
+          s:ph="phMain" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "123133f3-90d2-4b37-b760-7801774cdcd7"
+      Hint: Description
+      Value: |
+        <p style="color: #202122; background-color: #ffffff; margin: 0.5em 0px;"><strong>ASP.NET MVC</strong>&nbsp;is a&nbsp;<a href="https://en.wikipedia.org/wiki/Web_application_framework" class="mw-redirect" title="Web application framework" style="color: #3366cc; background: none;">web application framework</a>&nbsp;developed by Microsoft that implements the&nbsp;<a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" title="Model–view–controller" style="color: #3366cc; background: none;">model&ndash;view&ndash;controller</a>&nbsp;(MVC) pattern. It is no longer in active development. It is&nbsp;<a href="https://en.wikipedia.org/wiki/Open-source_software" title="Open-source software" style="color: #3366cc; background: none;">open-source software</a>, apart from the ASP.NET Web Forms component, which is&nbsp;<a href="https://en.wikipedia.org/wiki/Proprietary_software" style="color: #3366cc; background: none;">proprietary</a>.</p>
+        <p style="color: #202122; background-color: #ffffff; margin: 0.5em 0px;"><a href="https://en.wikipedia.org/wiki/ASP.NET_Core" title="ASP.NET Core" style="color: #3366cc; background: none;">ASP.NET Core</a>&nbsp;has since been released, which unified&nbsp;<a href="https://en.wikipedia.org/wiki/ASP.NET" title="ASP.NET" style="color: #3366cc; background: none;">ASP.NET</a>, ASP.NET MVC, ASP.NET Web API, and&nbsp;<a href="https://en.wikipedia.org/wiki/ASP.NET_Web_Pages" class="mw-redirect" title="ASP.NET Web Pages" style="color: #3366cc; background: none;">ASP.NET Web Pages</a>&nbsp;(a platform using only&nbsp;<a href="https://en.wikipedia.org/wiki/ASP.NET_Razor" title="ASP.NET Razor" style="color: #3366cc; background: none;">Razor</a>&nbsp;pages). MVC 6 was abandoned due to Core and is not expected to be released. Core is currently planned to merge into ".NET 5".</p>
+        <div>&nbsp;</div>
+    - ID: "12d6cac4-9ac1-447a-b685-7bc3f11c8503"
+      Hint: Title
+      Value: ASP.NET MVC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230227T124014Z
+    - ID: "289802e0-d7e4-4835-acd8-3a33ce65654c"
+      Hint: Author
+      Value: Ghiurcuta Andrei
+    - ID: "29518b91-1130-40d8-b698-87643c4bce60"
+      Hint: PostedDate
+      Value: 20230226T183000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6a94f4f3-bbdc-41b7-a600-a7781ed4562c"
+      Hint: BlogImage
+      Value: |
+        <image mediaid="{79779BFA-CAFE-4E8B-8801-250A52223D30}" />
+    - ID: "832508b9-d188-45ce-a268-ba8010597759"
+      Hint: BlogId
+      Value: 1
+    - ID: "87c1b0f3-c391-472e-aa3a-2d409343505d"
+      Hint: AuthorWikilink
+      Value: |
+        <link text="wikipedia" linktype="external" url="https://en.wikipedia.org/wiki/ASP.NET_MVC" anchor="" target="" />

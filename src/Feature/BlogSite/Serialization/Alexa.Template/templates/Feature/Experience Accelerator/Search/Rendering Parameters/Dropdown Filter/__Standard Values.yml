@@ -1,0 +1,17 @@
+﻿---
+ID: "64295b86-db64-4a64-8f06-6280b3d94c52"
+Parent: "c5ea4fed-f0fa-4e0f-a3ef-793577b375da"
+Template: "c5ea4fed-f0fa-4e0f-a3ef-793577b375da"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Rendering Parameters/Dropdown Filter/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140731T135557
+    - ID: "91ed9872-2007-47e9-bf01-1292c1b261b2"
+      Hint: SortOrder
+      Value: SortByNames

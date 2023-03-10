@@ -1,0 +1,18 @@
+﻿---
+ID: "b2960d81-4de1-4c3e-a0a7-20f544ad36d7"
+Parent: "b458c91a-d461-4601-baa1-f21db3ef9837"
+Template: "ad89c1f1-e991-48ef-8659-38ab13aa28f1"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/SearchDataFolder/$name/Date Filter/Default
+DB: master
+SharedFields:
+- ID: "734f9a5a-c02a-4d34-87e8-29c732d8eb67"
+  Hint: Facet
+  Value: "{87A830FB-4E2F-4F76-896B-F20CFA2374DD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160606T090415Z

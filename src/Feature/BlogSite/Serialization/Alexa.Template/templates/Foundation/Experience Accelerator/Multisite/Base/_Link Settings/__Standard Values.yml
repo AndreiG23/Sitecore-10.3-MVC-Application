@@ -1,0 +1,22 @@
+﻿---
+ID: "22cabdd0-ea97-4ca3-b2f2-65f9843cc2cb"
+Parent: "15b2dfa2-6f63-4d58-acce-f3cd69c3b310"
+Template: "15b2dfa2-6f63-4d58-acce-f3cd69c3b310"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Multisite/Base/_Link Settings/__Standard Values
+DB: master
+SharedFields:
+- ID: "e41d2d4b-4c5d-4467-a8d6-0cfa23577501"
+  Hint: Link Settings
+  Value: "{F2674FF9-1F17-4C49-8076-FF9F7D16B9CB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180712T070634Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

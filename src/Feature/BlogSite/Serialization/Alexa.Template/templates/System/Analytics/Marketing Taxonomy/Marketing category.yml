@@ -1,0 +1,18 @@
+﻿---
+ID: "8d311d6c-a688-4e83-b8b8-7e0d6715a56c"
+Parent: "7164fda6-0108-465b-a746-9b0b9a7e285f"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Marketing category
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180316T132257Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

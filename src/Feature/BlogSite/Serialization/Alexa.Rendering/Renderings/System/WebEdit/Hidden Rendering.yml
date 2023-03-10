@@ -1,0 +1,22 @@
+﻿---
+ID: "0777b05d-6ac0-44be-9605-052e0db5993d"
+Parent: "b4a0fb13-9758-427c-a7eb-1a406c045192"
+Template: "f1f1d639-4f54-40c2-8be0-81266b392ceb"
+Path: /sitecore/layout/Renderings/System/WebEdit/Hidden Rendering
+DB: master
+SharedFields:
+- ID: "78783f79-1411-4b91-958d-ad81f81e2485"
+  Hint: Path
+  Value: /xsl/system/webedit/hidden rendering.xslt
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20101209T143900
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

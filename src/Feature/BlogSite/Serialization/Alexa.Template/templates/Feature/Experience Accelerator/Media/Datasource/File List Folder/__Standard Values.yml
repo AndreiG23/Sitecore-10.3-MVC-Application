@@ -1,0 +1,25 @@
+﻿---
+ID: "f5a7b7cb-b446-4b17-8764-63665cab01ac"
+Parent: "c959e8ef-cd42-4967-83f6-bee092c0beae"
+Template: "c959e8ef-cd42-4967-83f6-bee092c0beae"
+Path: /sitecore/templates/Feature/Experience Accelerator/Media/Datasource/File List Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {97E0240B-B5FC-422B-8A72-44D2B00FACD6}
+    {C959E8EF-CD42-4967-83F6-BEE092C0BEAE}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071559Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

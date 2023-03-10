@@ -1,0 +1,22 @@
+﻿---
+ID: "b746d24c-8767-47e6-a092-aebea4ef647f"
+Parent: "1608bfa9-10b7-4f06-98cf-f1b5a64ea46b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Grid/Grid Theme
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/spreadsheed_column.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{78086CA4-8985-45EB-8AA7-B2948D2A0E06}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161221T155018Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "2037c21c-532e-4fa7-924b-ad739c55bedd"
+Parent: "5aa37700-c308-408d-b2ed-ea773cc94e25"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Experience Accelerator/Page Structure/Default Column Layout/Base Grid
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170130T093722Z

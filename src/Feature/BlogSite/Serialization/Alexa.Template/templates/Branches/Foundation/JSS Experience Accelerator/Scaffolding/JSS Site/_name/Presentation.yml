@@ -1,0 +1,22 @@
+﻿---
+ID: "1db2d249-8fdb-4d9f-a357-841d6a51abfa"
+Parent: "a0eecf65-09ad-4a10-ae46-7df70106cfe6"
+Template: "0a70fa73-8923-4a6e-abf3-4134f25f3221"
+Path: /sitecore/templates/Branches/Foundation/JSS Experience Accelerator/Scaffolding/JSS Site/$name/Presentation
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211004T130537Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

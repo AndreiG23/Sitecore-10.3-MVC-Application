@@ -1,0 +1,14 @@
+﻿---
+ID: "0dba1358-054e-44f4-8221-09f0af003e9b"
+Parent: "dbdf5dfd-f79b-4766-99b9-e29775d97328"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Scaffolding/Roots/Grid Setup/Grid Definition
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161220T114659Z

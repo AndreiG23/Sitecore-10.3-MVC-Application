@@ -1,0 +1,14 @@
+﻿---
+ID: "86dd2545-5440-4300-90fc-1f313f870c94"
+Parent: "639f03fa-bcb5-4007-86a2-213bc77d6da0"
+Template: "639f03fa-bcb5-4007-86a2-213bc77d6da0"
+Path: /sitecore/templates/System/Workflow/Webhooks/Webhook Validation Action/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211112T131225Z

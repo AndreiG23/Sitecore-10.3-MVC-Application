@@ -1,0 +1,14 @@
+﻿---
+ID: "3aa59f59-9e7a-4d06-9198-4bbaa588492f"
+Parent: "343f37da-5dc4-4eae-9c2b-ec3fe848cc51"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Theming/Component Themes/Component Theme Configuration/Themes configuration
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T125404Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "ee085fe7-064a-406a-9117-2ec1f2f3aef0"
+Parent: "a5d09e5b-67d8-48fd-a468-65670b9498a2"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Experience Accelerator/Generic Meta Rendering
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180312T143737Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

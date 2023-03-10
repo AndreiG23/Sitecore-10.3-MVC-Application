@@ -1,0 +1,25 @@
+﻿---
+ID: "b5c3019f-75a3-47ba-973e-7a32d1ceedd1"
+Parent: "bca27de4-a869-4282-b3fb-4fbd7ba1b87b"
+Template: "bca27de4-a869-4282-b3fb-4fbd7ba1b87b"
+Path: /sitecore/templates/Feature/Experience Accelerator/Creative Exchange/Creative Exchange File Storage/__Standard Values
+DB: master
+SharedFields:
+- ID: "18ee0052-accd-42ad-8d80-d60cb88d9950"
+  Hint: Name
+  Value: File Storage
+- ID: "5f32188e-d73c-47b8-97d4-7097070d8f46"
+  Hint: Destination Path
+  Value: $(creativeExchangeFolder)/FileStorage/$sxaSiteName
+- ID: "e648b9bd-e1a8-4786-95c4-829f722ddcd3"
+  Hint: Remove Directory
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161025T092135Z

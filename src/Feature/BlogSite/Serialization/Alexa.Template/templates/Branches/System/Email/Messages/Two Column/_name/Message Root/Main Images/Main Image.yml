@@ -1,0 +1,23 @@
+﻿---
+ID: "45c75fce-2aba-41e6-8df6-02a3a8086d59"
+Parent: "3556637f-2d82-4932-b90c-ebf22352104a"
+Template: "0f849f10-b19a-4b65-bc57-306ea6d2c9fb"
+Path: /sitecore/templates/Branches/System/Email/Messages/Two Column/$name/Message Root/Main Images/Main Image
+DB: master
+SharedFields:
+- ID: "f86d671c-53a6-4fa8-ae42-265ef9858ebb"
+  Hint: Image
+  Value: |
+    <image mediaid="{464639ED-0D02-49B4-A3C0-5A1C046FD73A}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200623T091605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

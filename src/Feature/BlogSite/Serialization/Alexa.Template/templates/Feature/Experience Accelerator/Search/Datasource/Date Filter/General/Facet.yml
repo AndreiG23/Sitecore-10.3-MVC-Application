@@ -1,0 +1,32 @@
+﻿---
+ID: "734f9a5a-c02a-4d34-87e8-29c732d8eb67"
+Parent: "e9c72864-c627-4b29-bf0a-37bd5f7dc592"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Date Filter/General/Facet
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "code:Sitecore.XA.Foundation.Search.CodeDataSource.Facets('{43A7D301-17C0-44FF-BF47-E0C4CF6C891E}'),Sitecore.XA.Foundation.Search|query:/sitecore/system/Settings/Buckets/Facets/*[@@id = '{87A830FB-4E2F-4F76-896B-F20CFA2374DD}' or @@id = '{7146F1A4-45FB-4CEC-9855-C95E9E595827}']"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droplink
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+  Hint: Shared
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+    Hint: Title
+    Value: Facet
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140923T160547

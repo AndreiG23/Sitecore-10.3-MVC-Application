@@ -1,0 +1,18 @@
+﻿---
+ID: "5b5f883e-c8e0-4dc1-8a24-3f45dd183cb8"
+Parent: "86a88d69-9a4d-4c0e-8068-ecf04470a8a4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Scaffolding/Actions/Base/AddItem/_Template/Action
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181113T070133Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

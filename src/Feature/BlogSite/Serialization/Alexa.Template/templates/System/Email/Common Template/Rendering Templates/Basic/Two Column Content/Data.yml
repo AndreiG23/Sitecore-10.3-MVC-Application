@@ -1,0 +1,14 @@
+﻿---
+ID: "23e2116b-b622-41e8-a289-fe1ef2d0a2da"
+Parent: "4c1b32a3-4c2f-4fdd-86aa-f2808ae969a9"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Email/Common Template/Rendering Templates/Basic/Two Column Content/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200716T083245Z

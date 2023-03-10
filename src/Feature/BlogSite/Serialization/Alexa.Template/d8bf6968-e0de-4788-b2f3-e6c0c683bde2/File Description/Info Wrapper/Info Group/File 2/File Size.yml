@@ -1,0 +1,14 @@
+﻿---
+ID: "a6e4ec3d-9bd2-453e-9ddc-b33a14b85f5e"
+Parent: "5abea314-0879-49fa-9bec-3cf3d8fb681e"
+Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
+Path: "/sitecore/templates/Branches/Feature/Experience Accelerator/Media/Default Media Link Variant/$name/Icon-Name-Date and Download link/File Description/Info Wrapper/Info Group/File 2/File Size"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161003T124848Z

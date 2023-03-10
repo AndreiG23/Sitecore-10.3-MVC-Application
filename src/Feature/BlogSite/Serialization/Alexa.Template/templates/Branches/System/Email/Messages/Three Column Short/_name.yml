@@ -1,0 +1,25 @@
+﻿---
+ID: "a1f62514-b183-4a76-8dec-091694e525b4"
+Parent: "182b4d7d-803a-43c6-b3e0-f1e61a606153"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/templates/Branches/System/Email/Messages/Three Column Short/$name
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/Document.png
+- ID: "09ad7c00-a8de-46f7-bc54-e7572e38c136"
+  Hint: Body
+  Value: "{EDD31000-136D-4019-B941-E57C662599B0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T072333Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

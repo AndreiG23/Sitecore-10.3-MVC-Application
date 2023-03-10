@@ -1,0 +1,22 @@
+﻿---
+ID: "4113c8fb-b6dd-44b2-bbe9-b89a6a86a91f"
+Parent: "fd58c821-8faa-4c51-b368-5fc25ca6aae0"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/templates/Branches/System/Email/Messages/Alternating Columns/$name
+DB: master
+SharedFields:
+- ID: "09ad7c00-a8de-46f7-bc54-e7572e38c136"
+  Hint: Body
+  Value: "{A5DC57FC-51B4-46F0-AF42-795A7A5E4AC2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T113102Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

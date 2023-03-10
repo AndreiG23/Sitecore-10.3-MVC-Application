@@ -1,0 +1,22 @@
+﻿---
+ID: "903f9146-83ad-4acc-9c33-863a81d02c41"
+Parent: "00a4d4a3-0125-4fd7-94ba-9e315dce65c8"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Presentation/Styles/$name/Divider
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T090819Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

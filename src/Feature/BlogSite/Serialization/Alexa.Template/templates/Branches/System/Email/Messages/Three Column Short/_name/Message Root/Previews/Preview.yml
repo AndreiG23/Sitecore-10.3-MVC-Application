@@ -1,0 +1,14 @@
+﻿---
+ID: "cabcf902-4909-4c60-bdb6-38317c829b5c"
+Parent: "efeebb30-b6c8-46e1-8007-3d41b3ac45bb"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/templates/Branches/System/Email/Messages/Three Column Short/$name/Message Root/Previews/Preview
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200619T091310Z

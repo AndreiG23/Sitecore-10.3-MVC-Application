@@ -1,0 +1,18 @@
+﻿---
+ID: "2ce0cbde-6993-4bb9-88df-2773ad8201cf"
+Parent: "bca1ee0d-e0ba-4d39-859e-a8a6774076cc"
+Template: "3f8a6a5d-7b1a-4566-8cd4-0a50f3030bd8"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Scaffolding/Tenant Folder/Tenant Folder/Tenant/Site Folder/Site/Home/Page
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160627T080659Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

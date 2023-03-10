@@ -1,0 +1,29 @@
+﻿---
+ID: "d5a75b63-02b2-4845-a765-d6310b32fe4f"
+Parent: "5205cd92-0242-45aa-bead-b5c6288f2138"
+Template: "5205cd92-0242-45aa-bead-b5c6288f2138"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Upgrade/Upgrade Script/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/stairs_up.png
+- ID: "16cf2fe9-1576-456b-8ff3-0002d03efb0d"
+  Hint: Mode
+  Value: "{224C5AD2-83D3-46DE-8452-DB91A2D9DBD7}"
+- ID: "ad057ae5-557e-42b9-a7ff-fc697bf9dbea"
+  Hint: DryRunSupported
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170110T151133Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

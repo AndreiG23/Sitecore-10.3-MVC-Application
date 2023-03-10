@@ -1,0 +1,14 @@
+﻿---
+ID: "92a521e9-38bd-4591-84db-31dfc002033d"
+Parent: "aab15f53-cc56-44e0-bfc6-1ed18ff81ffb"
+Template: "0d792404-79aa-483d-bb0c-50785f2e295b"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Creative Exchange/Creative Exchange/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161025T100417Z

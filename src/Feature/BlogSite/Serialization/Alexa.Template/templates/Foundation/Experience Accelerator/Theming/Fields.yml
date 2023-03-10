@@ -1,0 +1,18 @@
+﻿---
+ID: "716e80fa-e3a2-446d-82f3-9c667e92069e"
+Parent: "a587c7d8-bb4a-4887-9cec-f2d048dd07a1"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Theming/Fields
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180615T111239Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

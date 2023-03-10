@@ -1,0 +1,18 @@
+﻿---
+ID: "fc65dcdd-9db9-4f59-949f-26088f868a6b"
+Parent: "bab5890a-873a-4eba-82f5-4900f0abb50d"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/System/Email/Common Template/Parameter Templates/Basic
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200313T090638Z

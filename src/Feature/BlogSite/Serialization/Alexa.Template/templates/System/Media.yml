@@ -1,0 +1,10 @@
+﻿---
+ID: "d150df1b-01ba-45b7-aeb1-4ca5c2f20a64"
+Parent: "4bf98ef5-1d09-4dd1-9afe-795f9829fd44"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/System/Media
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

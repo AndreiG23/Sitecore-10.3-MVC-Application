@@ -1,0 +1,25 @@
+﻿---
+ID: "1aa55500-115e-4b45-a38b-e550f5b80a65"
+Parent: "b7f6949a-6dde-44fc-9e28-d8e2c2c8529e"
+Template: "b7f6949a-6dde-44fc-9e28-d8e2c2c8529e"
+Path: /sitecore/templates/Feature/Experience Accelerator/Accessibility/Skip Link/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "668126e9-5a1e-4553-974b-a26400b5bad7"
+    Hint: Content ID
+    Value: content
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "2147200a-cd2e-4196-91d5-e23c0724502d"
+      Hint: Title
+      Value: to main content
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180724T113816Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

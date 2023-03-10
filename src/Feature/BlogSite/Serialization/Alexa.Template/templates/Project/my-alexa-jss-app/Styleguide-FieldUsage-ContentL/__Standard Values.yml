@@ -1,0 +1,22 @@
+﻿---
+ID: "ee215f1b-6c8e-51b8-8269-e28da015129e"
+Parent: "4a748a73-428b-5b01-97bf-5c75442645a2"
+Template: "4a748a73-428b-5b01-97bf-5c75442645a2"
+Path: "/sitecore/templates/Project/my-alexa-jss-app/Styleguide-FieldUsage-ContentList/__Standard Values"
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084800Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

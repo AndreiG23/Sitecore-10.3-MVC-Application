@@ -1,0 +1,14 @@
+﻿---
+ID: "78ae4196-397c-4807-ab79-d8e2ad888df5"
+Parent: "60e329ce-0301-4a66-adb5-27c48df2623d"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Editing/Workflows
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T082923Z

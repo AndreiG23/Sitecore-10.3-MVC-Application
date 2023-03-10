@@ -1,0 +1,10 @@
+﻿---
+ID: "17537200-43df-4384-85ad-8c795bb461e6"
+Parent: "defc0749-9211-4abd-b0cc-08fc55fd7d0b"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Page Content/Default Headless Title Variant/$name/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

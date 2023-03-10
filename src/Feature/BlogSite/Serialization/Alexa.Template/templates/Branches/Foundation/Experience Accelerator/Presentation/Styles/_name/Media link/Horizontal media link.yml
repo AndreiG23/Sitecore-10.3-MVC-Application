@@ -1,0 +1,26 @@
+﻿---
+ID: "7cc9458f-befd-4ae4-a678-f5948962a5f4"
+Parent: "4b856d1b-b6c5-4315-90a6-ae5642dbdac2"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Presentation/Styles/$name/Media link/Horizontal media link
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "media-link-horizontal"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: "{B3D80586-1081-4C7C-835F-DD75B2681CC8}"
+- ID: "95579875-484e-41f0-b9c2-804eafaf3ccc"
+  Hint: IsVerifiedStyle
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170804T070107Z

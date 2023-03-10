@@ -1,0 +1,14 @@
+﻿---
+ID: "b460203e-13f7-4010-84ae-3d72ea085b28"
+Parent: "fee0a5dc-5022-41f7-88f3-c4ca896726d3"
+Template: "fee0a5dc-5022-41f7-88f3-c4ca896726d3"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Rendering Parameters/Radius Filter/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150831T131728Z

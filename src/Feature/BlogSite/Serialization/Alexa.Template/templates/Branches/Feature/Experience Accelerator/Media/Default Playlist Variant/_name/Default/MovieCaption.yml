@@ -1,0 +1,24 @@
+﻿---
+ID: "55920498-18a3-4eb9-8f3c-73ec61bc5817"
+Parent: "7d35f9ca-4377-4285-a505-426d0902a318"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Media/Default Playlist Variant/$name/Default/MovieCaption
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: MovieCaption
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "default-playlist"
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160524T071925Z

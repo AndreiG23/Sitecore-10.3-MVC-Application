@@ -1,0 +1,140 @@
+﻿---
+ID: "d2d0aa2c-c26f-4040-a638-ae7b453270c1"
+Parent: "412e7d1d-d9bc-4c2d-9793-9ff55f3e5174"
+Template: "3f12d78c-b7b7-4157-98fc-da3322ee1a5b"
+Path: /sitecore/templates/Branches/System/Email/Messages/Three Column Long/$name/Message Root
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: software/32x32/branch.png
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{7AE92CCA-8C93-491E-92A0-F25222C9746B}">
+        <r
+          cac="1"
+          ds=""
+          id="{69EB7A6D-ACEF-4D06-A923-804918AA245E}"
+          par=""
+          ph="head-area"
+          uid="{526AFB07-CE11-43CC-A8A1-4B906BC54FE6}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{B61BE60F-8E2B-4743-BC3E-B4AA1F0A4B97}"
+          id="{B86B69EC-4AF3-4F92-94F8-8DC2F06CB5FB}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Link Color=%23232323&amp;Align=center&amp;Padding=30px%2020px"
+          ph="preview-area"
+          uid="{208173F0-0A97-4D84-B6C2-D29389EC7B97}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{D6D732FE-262B-409A-81C6-AB2F3AA830F5}"
+          id="{027661AA-FEE2-4401-9D9A-207A3FCED8E8}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Align=center&amp;Padding"
+          ph="header-area"
+          uid="{C3E6FA12-DA1C-4F64-953A-87BBB3DA8F14}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{17B7C8B7-41A8-4E44-BE05-1E00ED4A9969}"
+          id="{DABFE2BE-8343-450D-85F4-0C05511ADF71}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Heading Font Color=%23232323&amp;Align=center&amp;Padding=30px%2020px%2030px"
+          ph="header-area"
+          uid="{61E7FE49-D236-40D5-A532-0B806DC07CB3}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{AE18578E-C309-4C2D-9CE1-2840912CC2C4}"
+          id="{7C38B48C-9107-41A0-A9C8-F45A89659C84}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Heading Font Color=%23232323&amp;Align=center&amp;Padding=0px%2020px%2030px"
+          ph="body-area"
+          uid="{F729A821-40AA-4C9B-9F35-D7971C863519}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{1B03C432-28D7-445A-8AFC-4C300CC41F45}"
+          id="{38788088-93B0-4FB6-A80A-F47BD8D37694}"
+          par="Background Color=%23232323&amp;Content Font Color=%23999&amp;Link Color=%23999&amp;Align=center&amp;Padding"
+          ph="footer-area"
+          uid="{534A00D1-4BDD-4E4E-80F2-BF76A2FF56B6}"
+          vbd="1"
+          vbp="1" />
+        <r
+          id="{B0694405-76FC-4A7A-95D2-C9E71F4F0269}"
+          ph="body-area"
+          uid="{47A3720E-983E-439B-834A-CE39960D5E9B}" />
+        <r
+          cac="1"
+          ds="{11F1CBD7-3DFD-4FCB-88FF-A6BB5C16BBDF}"
+          id="{D8A321E7-B69D-4441-B967-E35B0698082F}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Align=center&amp;Padding"
+          ph="/body-area/column-1-{47A3720E-983E-439B-834A-CE39960D5E9B}-0"
+          uid="{8C4B6C14-B738-4AC5-B32D-AC0BA382DFAA}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{7152C1D1-0AF0-4371-8312-2C9196B066E4}"
+          id="{D8A321E7-B69D-4441-B967-E35B0698082F}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Align=center&amp;Padding"
+          ph="/body-area/column-2-{47A3720E-983E-439B-834A-CE39960D5E9B}-0"
+          uid="{2E5B5D8E-4212-46A9-BBB6-9AE36E881796}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{E37DBA1F-3E3E-484E-914B-E87BC35931B7}"
+          id="{D8A321E7-B69D-4441-B967-E35B0698082F}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Align=center&amp;Padding"
+          ph="/body-area/column-3-{47A3720E-983E-439B-834A-CE39960D5E9B}-0"
+          uid="{32A60252-9E25-4129-9193-FDF06407EC6D}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{508B51C4-87CA-40C2-AD1C-54C1D5FD7A3F}"
+          id="{2A517EBD-B1B9-4887-9FE5-5D0773F7B2C7}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Link Color=%23999&amp;Button Color=%23232323&amp;Align=center&amp;Padding=30px%2020px%2030px"
+          ph="/body-area/column-1-{47A3720E-983E-439B-834A-CE39960D5E9B}-0"
+          uid="{7CE247CD-08D7-4702-8873-335F6CF59636}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{BEA2EA32-6108-45CF-BC66-618687CE2027}"
+          id="{2A517EBD-B1B9-4887-9FE5-5D0773F7B2C7}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Link Color=%23999&amp;Button Color=%23232323&amp;Align=center&amp;Padding=30px%2020px%2030px"
+          ph="/body-area/column-2-{47A3720E-983E-439B-834A-CE39960D5E9B}-0"
+          uid="{094D3FEE-D94A-498F-A803-99AEF7A2F66F}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{C131C23E-2476-4F34-B75F-E42C1F713F30}"
+          id="{2A517EBD-B1B9-4887-9FE5-5D0773F7B2C7}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Link Color=%23999&amp;Button Color=%23232323&amp;Align=center&amp;Padding=30px%2020px%2030px"
+          ph="/body-area/column-3-{47A3720E-983E-439B-834A-CE39960D5E9B}-0"
+          uid="{AF282E8B-0FD5-488B-BF7C-B18AEDBFE9BB}"
+          vbd="1"
+          vbp="1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T072928Z

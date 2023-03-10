@@ -1,0 +1,21 @@
+﻿---
+ID: "729303a4-229d-41c0-a501-7f0369a49b6c"
+Parent: "8e3a27c5-8f8e-4c08-bc0c-bfb12bfe0c1a"
+Template: "8e3a27c5-8f8e-4c08-bc0c-bfb12bfe0c1a"
+Path: /sitecore/templates/System/Webhooks/Events Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A08E202A-1709-4D7F-8946-3206E63BBE8B}
+    {8E3A27C5-8F8E-4C08-BC0C-BFB12BFE0C1A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210916T082420Z

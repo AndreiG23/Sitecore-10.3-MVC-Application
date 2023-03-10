@@ -1,0 +1,14 @@
+﻿---
+ID: "210c8670-c9c4-4c02-bc4a-b9689652b75e"
+Parent: "5bb19c24-5537-4a7a-b608-c73e442a23cf"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Security/Base
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170404T122520Z

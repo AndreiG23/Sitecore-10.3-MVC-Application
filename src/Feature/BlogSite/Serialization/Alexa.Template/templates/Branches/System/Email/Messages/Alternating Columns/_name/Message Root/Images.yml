@@ -1,0 +1,18 @@
+﻿---
+ID: "e53420d0-c99a-4fe0-a679-b35b26dc019c"
+Parent: "a5dc57fc-51b4-46f0-af42-795a7a5e4ac2"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Branches/System/Email/Messages/Alternating Columns/$name/Message Root/Images
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 88
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T094521Z

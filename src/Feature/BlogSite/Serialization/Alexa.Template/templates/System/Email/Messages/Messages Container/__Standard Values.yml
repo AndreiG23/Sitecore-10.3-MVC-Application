@@ -1,0 +1,37 @@
+﻿---
+ID: "d4129b02-fedd-4f05-8d5a-a12e595d2bab"
+Parent: "d8ad4b81-9269-4868-949f-37d1c28687e5"
+Template: "d8ad4b81-9269-4868-949f-37d1c28687e5"
+Path: /sitecore/templates/System/Email/Messages/Messages Container/__Standard Values
+DB: master
+SharedFields:
+- ID: "0c894aab-962b-4a84-b923-cb24b05e60d2"
+  Hint: __Ribbon
+  Value: "{144AD540-32DE-46E4-A9B1-E60E8C3D120B}"
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {8C18055A-EB1E-4358-BC12-26B4E2568910}
+    {FD58C821-8FAA-4C51-B368-5FC25CA6AAE0}
+    {89F09F47-6ACA-41A9-ACC6-2E33A0334C0C}
+    {56246CDE-5320-4C15-87E9-28DF4A0133D1}
+    {A0F3FEFA-D89D-4F5F-9406-E9D1FA7143DF}
+    {90A769C7-47DA-4042-9F49-413BABC66504}
+    {F868C724-50D0-4347-9C9B-BABB8DB705FE}
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Type: TreelistEx
+  Value: "{657D608B-D822-414D-ADF8-580C52C184D0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110815T141000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

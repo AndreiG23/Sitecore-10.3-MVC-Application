@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{EA4C47FB-2B1C-49D1-B7AB-F4FBE9D9EE5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{29A52D69-8F94-4C97-B748-B6B1BB206DC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{029040C4-1BB5-465C-96E2-569D9E267D8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FAQ", "FAQ", "{127E29E7-DC48-4AC5-BF81-1E4774F6F114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreiHelix.Feautre.FAQ", "src\Feature\FAQ\code\AndreiHelix.Feautre.FAQ.csproj", "{2C765DE8-A152-4683-9E45-9CB4FC2998F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{F3137A53-4180-4509-AC92-9CCF377562BB}"
+	ProjectSection(SolutionItems) = preProject
+		gulp-config.js = gulp-config.js
+		gulpfile.js = gulpfile.js
+		package.json = package.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlogSite", "BlogSite", "{E231696F-5C43-415F-AE63-92684AAFE19A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreiHelix.Feature.BlogSite", "src\Feature\BlogSite\code\AndreiHelix.Feature.BlogSite.csproj", "{2CBA70D7-6A5A-4024-8E76-83E79358BB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C765DE8-A152-4683-9E45-9CB4FC2998F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C765DE8-A152-4683-9E45-9CB4FC2998F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C765DE8-A152-4683-9E45-9CB4FC2998F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C765DE8-A152-4683-9E45-9CB4FC2998F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBA70D7-6A5A-4024-8E76-83E79358BB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBA70D7-6A5A-4024-8E76-83E79358BB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBA70D7-6A5A-4024-8E76-83E79358BB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBA70D7-6A5A-4024-8E76-83E79358BB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{127E29E7-DC48-4AC5-BF81-1E4774F6F114} = {29A52D69-8F94-4C97-B748-B6B1BB206DC6}
+		{2C765DE8-A152-4683-9E45-9CB4FC2998F9} = {127E29E7-DC48-4AC5-BF81-1E4774F6F114}
+		{E231696F-5C43-415F-AE63-92684AAFE19A} = {29A52D69-8F94-4C97-B748-B6B1BB206DC6}
+		{2CBA70D7-6A5A-4024-8E76-83E79358BB81} = {E231696F-5C43-415F-AE63-92684AAFE19A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AE8521E-670B-4D91-B1DC-5CB622107516}
+	EndGlobalSection
+EndGlobal

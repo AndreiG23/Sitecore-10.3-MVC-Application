@@ -1,0 +1,50 @@
+﻿---
+ID: "69eb7a6d-acef-4d06-a923-804918aa245e"
+Parent: "a688ef23-b1c3-4594-851a-22a0a4faebf3"
+Template: "f1f1d639-4f54-40c2-8be0-81266b392ceb"
+Path: /sitecore/layout/Renderings/System/Email/Set Page Title
+DB: master
+SharedFields:
+- ID: "3ad2506a-dc39-4b1e-959f-9d524addbf50"
+  Hint: VaryByParm
+  Type: Checkbox
+  Value: 1
+- ID: "3d08db46-2267-41b0-bc52-be69fd618633"
+  Hint: Cacheable
+  Type: Checkbox
+  Value: 1
+- ID: "78783f79-1411-4b91-958d-ad81f81e2485"
+  Hint: Path
+  Value: /sitecore modules/web/exm/xsl/Set Page Title.xslt
+- ID: "8aa9bb12-1a7b-4bc0-851a-25b7a1ff3a88"
+  Hint: Placeholder
+  Value: 
+- ID: "8b6d532b-6128-4486-a044-ca06d90948ba"
+  Hint: VaryByData
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "cff1e810-b68b-47fd-9b94-8e3582586a72"
+  Hint: Parameters Template
+  Value: "{0B1489D8-1FC8-4AE8-A364-CD860AA4DF0D}"
+- ID: "ddb5ef32-ff24-4c55-aac2-96162e910e8c"
+  Hint: Open Properties after Add
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Set Page Title
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090617T091513
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

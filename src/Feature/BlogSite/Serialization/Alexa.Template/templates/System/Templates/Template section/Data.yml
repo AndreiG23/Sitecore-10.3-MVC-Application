@@ -1,0 +1,14 @@
+﻿---
+ID: "389e8a5c-546f-4746-894d-cf74ed6f80c6"
+Parent: "e269fbb5-3750-427a-9149-7aa950b49301"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Templates/Template section/Data
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

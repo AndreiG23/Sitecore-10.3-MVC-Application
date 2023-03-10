@@ -1,0 +1,14 @@
+﻿---
+ID: "8453c078-6d17-4817-9230-91654afe69c6"
+Parent: "2d3805b9-3089-44f3-b952-d45c44add7f8"
+Template: "b91811f1-fa8b-47f8-b131-bd2c6d5ec805"
+Path: /sitecore/templates/Branches/Foundation/JSS Experience Accelerator/Scaffolding/JSS Tenant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181113T125532Z

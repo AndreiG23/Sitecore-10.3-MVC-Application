@@ -1,0 +1,18 @@
+﻿---
+ID: "22abae07-60a6-4f59-847c-2bbd32a838af"
+Parent: "8bc76193-2943-4737-8a86-a2d191dd1fa8"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Navigation/Default Navigation Variant/$name/Default
+DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "navigation-title"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160817T110201Z

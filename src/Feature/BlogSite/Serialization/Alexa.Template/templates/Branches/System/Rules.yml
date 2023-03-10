@@ -1,0 +1,14 @@
+﻿---
+ID: "6e75a5c6-42a1-4c7e-b0a0-3f658a659f1b"
+Parent: "c93c0945-607b-4916-b8d9-fe9f9ba783ca"
+Template: "85adbf5b-e836-4932-a333-fe0f9fa1ed1e"
+Path: /sitecore/templates/Branches/System/Rules
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120801T204144

@@ -1,0 +1,15 @@
+﻿---
+ID: "bf2b8da2-3cba-485d-8f85-3788b8afbdbf"
+Parent: "82cf4b07-ccdd-4da3-9acd-f5474d345372"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/System/Archiving/Archived item
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

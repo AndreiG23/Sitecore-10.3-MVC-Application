@@ -1,0 +1,22 @@
+﻿---
+ID: "1b1647b5-63cb-4a1b-bea3-d24d75fbdbee"
+Parent: "4537818f-8fda-46dc-96a1-b22d6e3529b6"
+Template: "4537818f-8fda-46dc-96a1-b22d6e3529b6"
+Path: /sitecore/templates/System/Email/Common Template/Parameter Templates/Header/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1c054a1-c41f-43b5-a597-1fcb4bdb6228"
+  Hint: Padding
+  Value: 30px 20px 30px
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200313T094354Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

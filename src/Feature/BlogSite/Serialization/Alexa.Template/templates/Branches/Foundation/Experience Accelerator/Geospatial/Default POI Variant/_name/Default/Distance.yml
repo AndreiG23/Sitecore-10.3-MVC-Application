@@ -1,0 +1,28 @@
+﻿---
+ID: "d2968ae1-7d7b-4f38-8d7c-9a5fd08633ad"
+Parent: "09180cd8-3ca2-4a92-b3b5-f4f057ba465c"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Geospatial/Default POI Variant/$name/Default/Distance
+DB: master
+SharedFields:
+- ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
+  Hint: Tag
+  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{ if o_geospatial }}
+    Distance: {{ o_geospatial.distance | math.round 1 }} {{ o_geospatial.unit }}
+    {{end}}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T133204Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

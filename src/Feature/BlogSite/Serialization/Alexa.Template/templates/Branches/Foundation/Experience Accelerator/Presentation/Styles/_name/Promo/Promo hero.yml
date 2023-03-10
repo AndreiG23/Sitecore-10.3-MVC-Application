@@ -1,0 +1,26 @@
+﻿---
+ID: "1c97fad3-0e59-41e3-bb27-ac89e628fa4e"
+Parent: "9616b989-a9b9-49d9-b16d-008c43028441"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Presentation/Styles/$name/Promo/Promo hero
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "promo-hero"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: "{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+- ID: "95579875-484e-41f0-b9c2-804eafaf3ccc"
+  Hint: IsVerifiedStyle
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150306T084125

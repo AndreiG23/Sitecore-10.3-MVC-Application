@@ -1,0 +1,14 @@
+﻿---
+ID: "4b9e53af-7b90-48fc-a7a3-2c255b7e9dda"
+Parent: "74a69144-4b78-447f-af96-d835d1c6b97d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Multisite/Base/_SiteMediaLibrary/Configuration
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170512T121519Z

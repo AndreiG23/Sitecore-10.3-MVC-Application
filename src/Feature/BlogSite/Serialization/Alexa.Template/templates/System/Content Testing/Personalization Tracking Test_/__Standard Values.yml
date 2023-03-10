@@ -1,0 +1,37 @@
+﻿---
+ID: "f505d7f3-379f-4c6c-a9b7-03cb745bca35"
+Parent: "ee4836e7-8b88-4196-a2e9-0166d5db5991"
+Template: "ee4836e7-8b88-4196-a2e9-0166d5db5991"
+Path: /sitecore/templates/System/Content Testing/Personalization Tracking Test Definition/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/document_find.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{72296CFA-6354-47AD-901A-17F1651E9505}"
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Type: Checkbox
+  Value: 1
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{2BAE793F-7392-4790-9E67-9C60B6BF7D7B}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110216T165543
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

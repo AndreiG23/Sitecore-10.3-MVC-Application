@@ -1,0 +1,30 @@
+﻿---
+ID: "547d006f-6a3c-44e1-9946-0006459dbe75"
+Parent: "5e32e75f-446a-412c-8ed8-922320ae9031"
+Template: "5e32e75f-446a-412c-8ed8-922320ae9031"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Grid/Grid Definition Items/Device children/Dropdown/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{CB3B3906-BE80-4D9B-A2A4-038193DA5422}"
+- ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
+  Hint: Type
+  Value: "checkbox-folder"
+- ID: "7bb96072-0860-41dc-a908-3ccfdf46d30f"
+  Hint: Allow Empty Value
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T081449Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

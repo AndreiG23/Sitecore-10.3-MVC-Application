@@ -1,0 +1,19 @@
+﻿---
+ID: "f3aabf6c-454d-4209-bb82-faf17eb9f83e"
+Parent: "1bf71895-bc29-47da-8b79-7fd5f88363d9"
+Template: "1bf71895-bc29-47da-8b79-7fd5f88363d9"
+Path: /sitecore/templates/Feature/Experience Accelerator/Media/Datasource/Playlist/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{75746D59-692E-47DB-A87C-B5D4B756A1EE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140521T084213Z

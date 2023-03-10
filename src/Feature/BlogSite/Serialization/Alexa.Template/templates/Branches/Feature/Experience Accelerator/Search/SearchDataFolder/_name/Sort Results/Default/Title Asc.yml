@@ -1,0 +1,21 @@
+﻿---
+ID: "91639e66-920f-4c5f-bda2-17875b98a32c"
+Parent: "36dc1b09-66c9-4820-b59e-901666cc113e"
+Template: "3e53ac1b-65e8-4ae2-8c5b-8baf9c3d655e"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/SearchDataFolder/$name/Sort Results/Default/Title Asc
+DB: master
+SharedFields:
+- ID: "73a7c430-816e-4481-b4c1-3ab8c2c1052b"
+  Hint: Direction
+  Value: "{71617747-9B14-4E49-8C1B-DBF4669B729F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160830T122336Z
+    - ID: "f3b01c7d-bd46-4972-ab13-4c9c95c4f23d"
+      Hint: Title
+      Value: Title Asc

@@ -1,0 +1,29 @@
+﻿---
+ID: "d169744b-6343-45d8-831e-658e8560e9cb"
+Parent: "a688ef23-b1c3-4594-851a-22a0a4faebf3"
+Template: "f1f1d639-4f54-40c2-8be0-81266b392ceb"
+Path: /sitecore/layout/Renderings/System/Email/Text Message
+DB: master
+SharedFields:
+- ID: "78783f79-1411-4b91-958d-ad81f81e2485"
+  Hint: Path
+  Value: /sitecore modules/web/exm/xsl/Text Message.xslt
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Text Message
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090910T122146
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

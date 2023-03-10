@@ -1,0 +1,14 @@
+﻿---
+ID: "3f659530-2328-44a4-95f0-9c8c488011d4"
+Parent: "f4371cd2-fd6d-4c4e-910d-8e1095c67b25"
+Template: "3a1dde20-0a86-492a-81ee-5f56c827fa94"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Geospatial/PoiTypes/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160823T083858Z

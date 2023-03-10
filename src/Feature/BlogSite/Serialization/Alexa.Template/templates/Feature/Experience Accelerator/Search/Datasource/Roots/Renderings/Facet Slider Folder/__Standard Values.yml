@@ -1,0 +1,25 @@
+﻿---
+ID: "fc9c045f-7b97-48e9-a670-7e4bb593d8ce"
+Parent: "ebb0b13d-ccf4-4bdf-8d3c-e2fdb4bb0240"
+Template: "ebb0b13d-ccf4-4bdf-8d3c-e2fdb4bb0240"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Roots/Renderings/Facet Slider Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {995CE2C7-319F-478B-84FE-22053AC85BB7}
+    {EBB0B13D-CCF4-4BDF-8D3C-E2FDB4BB0240}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160606T083024Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

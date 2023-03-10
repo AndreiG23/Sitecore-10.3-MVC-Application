@@ -1,0 +1,18 @@
+﻿---
+ID: "c7b3ec18-b099-4642-ae51-2dbdbde52d22"
+Parent: "9b59aeca-3d2b-4740-a634-f343e1edb8a8"
+Template: "783c9239-41c4-4d84-afe5-1060f582b617"
+Path: /sitecore/templates/Branches/System/Email/Messages/Announcement/$name/Message Root/Headers/Header
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-25"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T113054Z

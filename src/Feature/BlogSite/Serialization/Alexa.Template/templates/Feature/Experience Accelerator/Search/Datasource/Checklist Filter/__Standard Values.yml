@@ -1,0 +1,30 @@
+﻿---
+ID: "fe8351bc-a44b-4cab-a2e7-f6154e116371"
+Parent: "6e188261-e572-4330-b88a-88c68b0926e7"
+Template: "6e188261-e572-4330-b88a-88c68b0926e7"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Checklist Filter/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "247827a2-a3d1-4713-98a6-395c769a3912"
+      Hint: ShowLessText
+      Value: Show Less
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140805T112637
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b912c304-fab1-4856-bfb4-aae9b7ee79a1"
+      Hint: EmptyValueText
+      Value: "[empty]"
+    - ID: "ca2837bf-c80a-4bfe-8086-db1a8d01bc51"
+      Hint: ThresholdSectionSeparatorText
+      Value: Other
+    - ID: "df1206a2-4e9c-4642-ad5a-3e301b55568f"
+      Hint: ShowMoreText
+      Value: Show More

@@ -1,0 +1,14 @@
+﻿---
+ID: "09180cd8-3ca2-4a92-b3b5-f4f057ba465c"
+Parent: "30aca53e-2ac5-4522-a469-087012f5ff2f"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Geospatial/Default POI Variant/$name/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160518T113002Z

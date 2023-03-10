@@ -1,0 +1,18 @@
+﻿---
+ID: "b0463210-c9a2-4fe2-94f7-bf387f3c75f3"
+Parent: "53a2046f-62ba-434f-855f-f150ec020395"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Email/Common Template/Parameter Templates/Basic/Heading/Section Options
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160815T232126Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

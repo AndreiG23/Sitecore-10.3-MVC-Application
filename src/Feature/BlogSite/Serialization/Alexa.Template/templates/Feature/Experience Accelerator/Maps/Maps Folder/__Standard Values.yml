@@ -1,0 +1,25 @@
+﻿---
+ID: "a9d089da-b747-49ef-87fb-9db26cfcb630"
+Parent: "8302b292-e67b-4396-ba95-b4f8289249fc"
+Template: "8302b292-e67b-4396-ba95-b4f8289249fc"
+Path: /sitecore/templates/Feature/Experience Accelerator/Maps/Maps Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {0AACD498-CEA9-4E37-8CA0-61D1F024FB34}
+    {8302B292-E67B-4396-BA95-B4F8289249FC}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160708T103625Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

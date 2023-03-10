@@ -1,0 +1,17 @@
+﻿---
+ID: "bea2ea32-6108-45cf-bc66-618687ce2027"
+Parent: "4f78cc97-5cf0-4340-88b9-8d41fc9ca518"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/templates/Branches/System/Email/Messages/Three Column Long/$name/Message Root/Calls To Action/Call To Action 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06d4c9ad-7ab0-40c8-a73b-3e0685f809c3"
+      Hint: Content
+      Value: This is a left/right aligned body text area.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200617T094737Z

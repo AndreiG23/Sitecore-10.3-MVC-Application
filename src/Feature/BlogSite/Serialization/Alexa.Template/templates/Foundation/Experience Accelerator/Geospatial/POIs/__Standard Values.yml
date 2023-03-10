@@ -1,0 +1,25 @@
+﻿---
+ID: "29788d17-7291-431d-9d62-09eef125af2c"
+Parent: "8ca8b80d-a1ad-4b45-9f08-8839357e71d4"
+Template: "8ca8b80d-a1ad-4b45-9f08-8839357e71d4"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Geospatial/POIs/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {6EBB38CE-04FC-425C-895B-3C81FA4A7B5C}
+    {9716FAFC-C305-4C95-A92B-0C0DA8714634}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150715T113311Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

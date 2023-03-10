@@ -1,0 +1,14 @@
+﻿---
+ID: "9f1e2fc7-c7ff-4f36-babb-5bae209f1b78"
+Parent: "c9d3834a-27d0-4797-810a-7607608404f6"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Markup Decorator/Rendering Parameters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20170529T073724:636316402448225306Z"

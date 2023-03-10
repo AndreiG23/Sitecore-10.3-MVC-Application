@@ -1,0 +1,41 @@
+﻿---
+ID: "3ed31f2a-93be-40ca-a073-69cd9517d0ba"
+Parent: "fc72dedf-1ffd-409a-8172-52a2846ae4b1"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Experience Accelerator/Generic Meta Rendering/HTMLSnippet
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/html_tag2.png
+- ID: "13f89250-ad6b-4548-882e-118a12c18094"
+  Hint: Parameters Template
+  Value: "{5A5FDF21-4FB0-4316-9AC8-96200632E384}"
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Feature/Experience Accelerator/Generic Meta Rendering/HTML Snippet
+- ID: "94069f66-609c-48b0-8281-521c30fb269d"
+  Hint: Open Properties after Add
+  Value: 0
+- ID: "a2f5d9df-8cba-4a1d-99eb-51acb94cb057"
+  Hint: Page Editor Buttons
+  Type: Treelist
+  Value: "{7D0F2B30-301D-44F1-913C-BF5FC1672A6E}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "query:$site/*[@@name='Settings']/*[@@templatename='HTML Snippet Folder']|query:$sharedSites/*[@@name='Settings']/*[@@templatename='HTML Snippet Folder']"
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Sitecore.XA.Feature.GenericMetaRendering.Controllers.HtmlSnippetController,Sitecore.XA.Feature.GenericMetaRendering
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: HTML Snippet
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180307T151348Z

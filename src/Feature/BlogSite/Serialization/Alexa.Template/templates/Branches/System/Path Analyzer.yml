@@ -1,0 +1,14 @@
+﻿---
+ID: "a3b53ba5-49a3-49bc-bf9c-fef620c48cea"
+Parent: "c93c0945-607b-4916-b8d9-fe9f9ba783ca"
+Template: "85adbf5b-e836-4932-a333-fe0f9fa1ed1e"
+Path: /sitecore/templates/Branches/System/Path Analyzer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150715T024429Z

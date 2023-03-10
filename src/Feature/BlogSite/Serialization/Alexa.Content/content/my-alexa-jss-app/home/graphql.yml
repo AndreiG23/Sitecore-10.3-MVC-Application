@@ -1,0 +1,65 @@
+﻿---
+ID: "1323ccbf-7584-5d7a-9f34-8215a9388dda"
+Parent: "c3555e8d-2a51-5755-9282-ac6a4f0fb2ab"
+Template: "3b3d6494-bfab-5d05-93fe-f9997928fea8"
+Path: "/sitecore/content/my-alexa-jss-app/home/graphql"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{FB82986A-A6CD-53FD-AA1D-BC5036B6979B}"
+              p:after="p[@uid='{D59B3EB8-0F6E-5B1C-A0FB-B921A6D8C0A3}']"
+              s:rname="ContentBlock"
+              s:ds="{486295E6-D9F0-5760-ABCB-A8F9F4177325}"
+              s:id="{1349B314-3E7F-5AFB-8FA9-88A542A702EE}"
+              s:par=""
+              s:ph="/jss-main" />
+            <r
+              uid="{A9FBC7CC-F00B-58A2-873B-4C70C726476C}"
+              p:after="r[@uid='{FB82986A-A6CD-53FD-AA1D-BC5036B6979B}']"
+              s:rname="GraphQL-Layout"
+              s:id="{D766288C-1F00-5C6E-945F-4B24796A75F3}"
+              s:par=""
+              s:ph="/jss-main" />
+            <r
+              uid="{B6BBD1E2-C0B2-5C34-ADD3-858333393BFD}"
+              p:after="r[@uid='{A9FBC7CC-F00B-58A2-873B-4C70C726476C}']"
+              s:rname="GraphQL-IntegratedDemo"
+              s:ds="{A67270AD-DB28-5268-85E0-DEC5382D4794}"
+              s:id="{99E06E6C-E3BD-54DD-B9E9-EB0CB471395B}"
+              s:par=""
+              s:ph="/jss-main/jss-graphql-layout-{A9FBC7CC-F00B-58A2-873B-4C70C726476C}-0" />
+            <r
+              uid="{4E86EC75-DCF5-57A7-B43C-150ADD6BD099}"
+              p:after="*[1=2]"
+              s:rname="GraphQL-ConnectedDemo"
+              s:ds="{D6FE1AE9-8270-513F-A028-CD40176524F8}"
+              s:id="{17A4BE86-527C-5DFB-88AA-F3848E76F0D6}"
+              s:par=""
+              s:ph="/jss-main/jss-graphql-layout-{A9FBC7CC-F00B-58A2-873B-4C70C726476C}-0" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084813Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8bc143de-679c-5a78-8626-65e75f4d2962"
+      Hint: pageTitle
+      Value: GraphQL | Sitecore JSS

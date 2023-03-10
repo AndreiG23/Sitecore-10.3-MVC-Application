@@ -1,0 +1,14 @@
+﻿---
+ID: "b97e18ff-ca80-4acb-ae9b-2dcdd665f692"
+Parent: "3d223462-3f77-4439-a60b-b7ab665d8dd3"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Security/Base/_Role Name/Security
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170404T121231Z

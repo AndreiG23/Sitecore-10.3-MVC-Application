@@ -1,0 +1,24 @@
+﻿---
+ID: "b365c5f4-d5bf-4f4f-96e5-0a0a85b34b89"
+Parent: "ad89c1f1-e991-48ef-8659-38ab13aa28f1"
+Template: "ad89c1f1-e991-48ef-8659-38ab13aa28f1"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Date Filter/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140806T155738
+    - ID: "3dc2d905-c97a-4c68-a24f-67a8181441f3"
+      Hint: FromDateText
+      Value: From
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7b6f8374-8faa-4cc0-befe-b6de5d864fc1"
+      Hint: ToDateText
+      Value: To

@@ -1,0 +1,14 @@
+﻿---
+ID: "f8809ed8-6afd-4acc-b7a5-fa6860cf677c"
+Parent: "4750ce49-8aa9-4698-a52c-50aca2620a02"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Branches/System/Email/Messages/Right Image Block/$name/Message Root/Calls To Action
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T122537Z

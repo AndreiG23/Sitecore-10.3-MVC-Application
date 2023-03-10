@@ -1,0 +1,32 @@
+﻿---
+ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+Parent: "cd2a7c9e-2352-4086-bacc-e6e0504401c2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Presentation/Base/_Base Page Design/Designing/PartialDesigns
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "DataSource=query:$partialDesigns&IncludeTemplatesForSelection=Partial Design,Metadata Partial Design&IncludeTemplatesForDisplay=Partial Design,Metadata Partial Design,Partial Designs,Partial Design Folder"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multiroot Treelist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+  Hint: Shared
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+    Hint: Title
+    Value: Partial designs
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150206T093050Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "70a022af-0b9d-47cf-947e-7f2a66f5d047"
+Parent: "6922f86a-74b1-45d9-9cf5-57c04e72a243"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Html editor/HTML Size/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130301T153227

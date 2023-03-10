@@ -1,0 +1,23 @@
+﻿---
+ID: "c34491e0-e272-40d8-bf97-d58ec6f1c100"
+Parent: "4c1dc3cf-36d2-4484-ba4e-40af34d01e95"
+Template: "4c1dc3cf-36d2-4484-ba4e-40af34d01e95"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Json Variants/JSON Variants/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{2E1D7985-0BF1-469B-A00B-4F2AC443940C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T142930Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

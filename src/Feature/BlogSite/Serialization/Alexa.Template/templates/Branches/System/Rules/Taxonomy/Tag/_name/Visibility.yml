@@ -1,0 +1,14 @@
+﻿---
+ID: "b1ecd86c-5b13-4698-a27a-cbe89dc12393"
+Parent: "0c559214-e3b6-418e-9e1c-8af7b19fc20b"
+Template: "aa91a868-02f2-41d3-8b78-1cad91b4dcae"
+Path: /sitecore/templates/Branches/System/Rules/Taxonomy/Tag/$name/Visibility
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120807T115009

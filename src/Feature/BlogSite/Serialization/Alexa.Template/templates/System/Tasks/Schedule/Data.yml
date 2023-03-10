@@ -1,0 +1,14 @@
+﻿---
+ID: "81f4896f-38c2-4a26-ac7a-7009bfe0259b"
+Parent: "70244923-fa84-477c-8cbd-62f39642c42b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Tasks/Schedule/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130301T153227

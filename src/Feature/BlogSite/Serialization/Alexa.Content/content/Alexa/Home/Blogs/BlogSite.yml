@@ -1,0 +1,42 @@
+﻿---
+ID: "54a24faa-85d1-4157-bd84-9adedb81d940"
+Parent: "64cb7734-c43b-4472-855b-987f44f971fa"
+Template: "e36a902c-147b-4542-9281-7dffcaff70d2"
+Path: /sitecore/content/Alexa/Home/Blogs/BlogSite
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{704FE69F-C9D5-4258-A9AA-E142CF4C36E8}">
+        <r
+          ds=""
+          id="{A10F7C2A-2ACC-4F3F-94A1-DE2098F0CECE}"
+          par=""
+          ph="phMain"
+          uid="{BF552820-770E-450A-A515-5765BDFE0FF7}"
+          ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230307T082227Z
+    - ID: "2b54bc48-731d-4285-9cab-6a0641d87bb1"
+      Hint: Title
+      Value: Sitecore Powered Blog
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68d4d1de-74a9-47d7-bf9f-f1ba886a185c"
+      Hint: Description
+      Value: Sitecore promises to be the way of the future

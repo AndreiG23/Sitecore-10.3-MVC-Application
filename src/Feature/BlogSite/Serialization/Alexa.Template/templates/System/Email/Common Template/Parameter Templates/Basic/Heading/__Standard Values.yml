@@ -1,0 +1,21 @@
+﻿---
+ID: "b5035828-4009-4e90-bd67-9d0ecccb1f27"
+Parent: "53a2046f-62ba-434f-855f-f150ec020395"
+Template: "53a2046f-62ba-434f-855f-f150ec020395"
+Path: /sitecore/templates/System/Email/Common Template/Parameter Templates/Basic/Heading/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+- ID: "716fca01-4115-4691-9400-237f2938a42e"
+  Hint: Heading Font Color
+  Value: #232323
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160816T060246Z

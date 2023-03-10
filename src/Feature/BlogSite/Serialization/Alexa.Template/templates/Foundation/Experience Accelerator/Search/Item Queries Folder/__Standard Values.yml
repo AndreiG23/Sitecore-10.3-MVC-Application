@@ -1,0 +1,28 @@
+﻿---
+ID: "7c678003-69b6-45e4-8ff9-5ceea3e7f680"
+Parent: "5c76ad53-96cd-4b96-9690-dd9af2650171"
+Template: "5c76ad53-96cd-4b96-9690-dd9af2650171"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Search/Item Queries Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/find_again.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {E379CA4E-EC5D-4001-9489-C0A7CECA4C94}
+    {5C76AD53-96CD-4B96-9690-DD9AF2650171}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141125T132602Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\simon

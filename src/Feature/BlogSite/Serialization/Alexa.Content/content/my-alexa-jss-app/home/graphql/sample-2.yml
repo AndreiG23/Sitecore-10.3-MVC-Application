@@ -1,0 +1,42 @@
+﻿---
+ID: "cba83c5f-5e68-5ca8-9632-cb31a5a0b722"
+Parent: "1323ccbf-7584-5d7a-9f34-8215a9388dda"
+Template: "3b3d6494-bfab-5d05-93fe-f9997928fea8"
+Path: "/sitecore/content/my-alexa-jss-app/home/graphql/sample-2"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5C424448-2B30-5910-ABE7-5021B762D542}"
+              p:after="*[1=2]"
+              s:rname="ContentBlock"
+              s:ds="{0BE58935-F2ED-549A-B755-61A6A3E9E232}"
+              s:id="{1349B314-3E7F-5AFB-8FA9-88A542A702EE}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084814Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8bc143de-679c-5a78-8626-65e75f4d2962"
+      Hint: pageTitle
+      Value: Sample 2 Page Title

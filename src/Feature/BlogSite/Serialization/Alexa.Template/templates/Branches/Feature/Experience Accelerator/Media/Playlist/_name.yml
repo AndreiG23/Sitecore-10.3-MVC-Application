@@ -1,0 +1,18 @@
+﻿---
+ID: "ed2b5c28-8d77-4858-9ef4-e13aa814158e"
+Parent: "2d7e5f79-59b9-44aa-a60e-0db9eacbb561"
+Template: "1bf71895-bc29-47da-8b79-7fd5f88363d9"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Media/Playlist/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171023T083358Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

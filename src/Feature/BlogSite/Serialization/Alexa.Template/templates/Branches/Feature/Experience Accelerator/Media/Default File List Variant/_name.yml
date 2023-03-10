@@ -1,0 +1,14 @@
+﻿---
+ID: "182b323b-3807-44d9-971e-a3c5892484c8"
+Parent: "83becf6f-0518-4128-a395-8906981b7cb1"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Media/Default File List Variant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z

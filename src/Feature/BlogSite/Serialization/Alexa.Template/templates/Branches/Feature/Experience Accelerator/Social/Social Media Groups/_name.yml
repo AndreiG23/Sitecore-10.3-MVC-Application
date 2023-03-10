@@ -1,0 +1,14 @@
+﻿---
+ID: "0c61d3f5-59c2-40ad-b24f-d0dae93eac65"
+Parent: "4ddbdd69-8a15-4520-bed8-f7553139586b"
+Template: "b14bab5b-8965-466b-886b-1f93175bcab3"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Social/Social Media Groups/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160923T123027Z

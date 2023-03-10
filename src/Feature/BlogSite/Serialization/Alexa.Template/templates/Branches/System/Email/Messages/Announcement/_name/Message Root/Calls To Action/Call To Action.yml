@@ -1,0 +1,18 @@
+﻿---
+ID: "2e4d6665-9c3c-4ccb-ad1f-7b6d60332b91"
+Parent: "39c38396-f3db-4c9e-9af7-95217a7d9f22"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/templates/Branches/System/Email/Messages/Announcement/$name/Message Root/Calls To Action/Call To Action
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200311T113150Z

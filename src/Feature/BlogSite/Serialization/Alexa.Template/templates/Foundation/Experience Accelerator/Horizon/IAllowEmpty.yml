@@ -1,0 +1,18 @@
+﻿---
+ID: "7522f99e-0fff-4427-92f2-1b6142334358"
+Parent: "ce1605e0-62b2-4fc5-bb9a-477e37d42000"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Horizon/IAllowEmpty
+DB: master
+SharedFields:
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{D6BFBB08-CDDB-4677-8556-9402DA840D01}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20200708T083551:637297941515779306Z"

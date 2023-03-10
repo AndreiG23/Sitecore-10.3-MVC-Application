@@ -1,0 +1,23 @@
+﻿---
+ID: "ed069f09-d128-43d2-a040-ef1926a71f1e"
+Parent: "fd612519-1c44-48b7-a44a-d582e22c38dd"
+Template: "fd612519-1c44-48b7-a44a-d582e22c38dd"
+Path: /sitecore/templates/Feature/Experience Accelerator/Events/Event Types/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{6B8AABEF-D650-46E0-97D0-C0B04F7F016B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130404T124910Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

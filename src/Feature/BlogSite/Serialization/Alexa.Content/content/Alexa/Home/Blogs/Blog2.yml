@@ -1,0 +1,31 @@
+﻿---
+ID: "8d4ac0e7-882e-4e15-bf3f-2082d060f33b"
+Parent: "64cb7734-c43b-4472-855b-987f44f971fa"
+Template: "3c0bf549-8617-4592-96a6-ca11e1a70f2a"
+Path: /sitecore/content/Alexa/Home/Blogs/Blog2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T182916Z
+    - ID: "30fe4398-e488-445b-9091-15cff09b0a2d"
+      Hint: ArticleId
+      Value: "{8D4AC0E7-882E-4E15-BF3F-2082D060F33B}"
+    - ID: "333323d5-d8bf-4e96-846d-593111905693"
+      Hint: Title
+      Value: Super long blog post title
+    - ID: "3a46ee32-0531-4c50-a17a-b6281191f268"
+      Hint: Image
+      Value: |
+        <image mediaid="{D7CAE37F-07E3-4306-A74B-C8A34270170D}" />
+    - ID: "573fad53-7424-4429-8bc8-ee74786a49f1"
+      Hint: Description
+      Value: |
+        <span style="color: #373a3c; background-color: #f8f9fa;">Some quick example text to build on the Blog post title and make up the bulk of the card's content. Some quick example text to build on the Blog post title and make up the bulk of the card's content. Some quick example text to build on the Blog post title and make up the bulk of the card's content.</span>
+    - ID: "6215ebdf-8c2d-4898-9096-b01795258571"
+      Hint: CreationDate
+      Value: 20181201T000000Z

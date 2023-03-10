@@ -1,0 +1,47 @@
+﻿---
+ID: "92e4929c-6c1e-5496-ba4d-b81cab7cad05"
+Parent: "20d1d568-9889-5e99-b75c-162d8866b008"
+Template: "58a12fb7-a635-5997-a57c-d2fad38aefd2"
+Path: "/sitecore/content/my-alexa-jss-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Link-9"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0759a0af-ee33-536a-92dd-af9a53721f43"
+      Hint: internalLink
+      Value: |
+        <link id="{C3555E8D-2A51-5755-9282-AC6A4F0FB2AB}" linktype="internal" />
+    - ID: "1727acac-4fdd-5668-be62-9642764a4381"
+      Hint: emailLink
+      Value: |
+        <link linktype="mailto" text="Send an Email" url="mailto:foo@bar.com" />
+    - ID: "1b6822ef-49ba-5072-beb3-b462965417ea"
+      Hint: heading
+      Value: General Link
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084815Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "406dd2c4-617f-5935-b5bd-386988a7daaf"
+      Hint: externalLink
+      Value: |
+        <link linktype="external" text="Link to Sitecore" url="https://www.sitecore.com" />
+    - ID: "5fb98da6-5189-5861-9006-a18fa3e61d20"
+      Hint: description
+      Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>
+    - ID: "7f12f887-2917-5aec-bad8-dcd8fb5c28f4"
+      Hint: paramsLink
+      Value: |
+        <link class="font-weight-bold" target="_blank" title="&lt;a&gt; title attribute" linktype="external" text="Sitecore Dev Site" url="https://dev.sitecore.net" />

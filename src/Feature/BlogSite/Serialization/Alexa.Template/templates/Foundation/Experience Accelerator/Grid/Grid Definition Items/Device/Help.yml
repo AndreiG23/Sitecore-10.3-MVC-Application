@@ -1,0 +1,14 @@
+﻿---
+ID: "c4569fe2-c7aa-45ac-8701-8ae44a9d8b1e"
+Parent: "bca0e629-150f-41dd-893b-f4b65338c0b7"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Grid/Grid Definition Items/Device/Help
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170119T155725Z

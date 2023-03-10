@@ -1,0 +1,18 @@
+﻿---
+ID: "e0ddb194-62f5-4902-a698-58b0816512c2"
+Parent: "aac4c178-7449-4839-9890-b949fd49e001"
+Template: "f69d787d-0ecf-43d3-b9cb-35b303d5233a"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/JSON/Default JSON Results Variant/$name/Default/Content
+DB: master
+SharedFields:
+- ID: "3183d84b-d0b9-4e0c-8813-a82465ccbdc8"
+  Hint: Field Name
+  Value: Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170223T085343Z

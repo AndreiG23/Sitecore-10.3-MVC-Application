@@ -1,0 +1,14 @@
+﻿---
+ID: "0095cea4-cc92-425d-99cf-a562e4fe6f9c"
+Parent: "1c1b3966-95bd-4e97-b179-25e7720cec48"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/templates/Branches/System/Email/Messages/Two Column One CTA/$name/Message Root/Calls To Action/Call To Action
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200715T103433Z

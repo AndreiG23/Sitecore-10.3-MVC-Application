@@ -1,0 +1,25 @@
+﻿---
+ID: "d19148fd-9606-4c60-92fa-5a5fc6a93648"
+Parent: "966b041f-d956-4f71-a40a-68869a7ba6b9"
+Template: "966b041f-d956-4f71-a40a-68869a7ba6b9"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Navigation/Navigation Filter/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Control/32x32/popup_menu_b.png
+- ID: "ee62cfbf-5b46-4f64-8334-207b9bd3ff96"
+  Hint: Key
+  Value: $name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111214T105500
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

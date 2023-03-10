@@ -1,0 +1,22 @@
+﻿---
+ID: "392547a4-223f-4ed0-8386-347d455ae8b3"
+Parent: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/templates/Foundation/JavaScript Services/Json Rendering/__Standard Values
+DB: master
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: $name
+- ID: "c39a90ce-0035-41bb-90f6-3c8a6ea87797"
+  Hint: AddFieldEditorButton
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160906T181518Z

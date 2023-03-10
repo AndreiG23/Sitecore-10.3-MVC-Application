@@ -1,0 +1,21 @@
+﻿---
+ID: "2fcaa1e5-2b22-42ea-a527-f133278b8503"
+Parent: "7dfbcf4b-4f57-4c02-bc5f-d87256e7c4a7"
+Template: "7dfbcf4b-4f57-4c02-bc5f-d87256e7c4a7"
+Path: /sitecore/templates/System/Email/Common Template/Rendering Templates/Body Text/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "069217bf-ffdf-4791-bfff-a8757c87a22a"
+      Hint: Heading
+      Value: Body Text
+    - ID: "06d4c9ad-7ab0-40c8-a73b-3e0685f809c3"
+      Hint: Content
+      Value: |
+        This is your body text area. Use this section to describe the message<br class="em_hide" /> you are looking to covey to&nbsp;your&nbsp;recipient.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200309T115133Z

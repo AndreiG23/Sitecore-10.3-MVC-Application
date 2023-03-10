@@ -1,0 +1,55 @@
+﻿---
+ID: "4f5ba492-bf96-4818-8050-a5067fa7ee51"
+Parent: "2e281ca1-b5e3-452d-b65b-0fc70720a211"
+Template: "1a0c1fe0-7956-4020-981b-4cea3c4f114a"
+Path: /sitecore/templates/Branches/System/Path Analyzer/Site map group/$name/Page maps/English visits
+DB: master
+SharedFields:
+- ID: "0a6277ff-b5ba-490b-8441-986b4f519fbf"
+  Hint: Rule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{D7EFDB08-8321-4543-A8A6-6D8BB37E2448}">
+        <conditions>
+          <condition
+            id="{CFEC0A7B-E51D-42A7-B83C-AE516F069611}"
+            uid="98F12E8A41B24F959CEE2D39332D30B7"
+            Comparison="is case insensitive and equal to"
+            PreferredLanguage="en" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 0
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: English Language Experience
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140611T230153Z
+    - ID: "31fcbeb2-376a-481f-bb44-ef52301f33ca"
+      Hint: Description
+      Value: |
+        <p>This map shows the "English language" experience.</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "a44d8693-f962-4f76-8fb8-62525ce67ba1"
+      Hint: Name
+      Value: English language visits map

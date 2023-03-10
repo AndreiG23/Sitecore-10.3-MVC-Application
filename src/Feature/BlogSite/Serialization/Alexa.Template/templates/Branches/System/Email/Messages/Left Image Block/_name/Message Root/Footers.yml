@@ -1,0 +1,14 @@
+﻿---
+ID: "94e62c3b-5830-4d41-a160-20cc027d8eec"
+Parent: "d93c31c2-eccb-47fc-a1de-e904bc5909e9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Branches/System/Email/Messages/Left Image Block/$name/Message Root/Footers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T122450Z

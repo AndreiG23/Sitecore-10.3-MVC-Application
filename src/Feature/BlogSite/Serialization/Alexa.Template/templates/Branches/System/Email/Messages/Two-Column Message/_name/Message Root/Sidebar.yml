@@ -1,0 +1,32 @@
+﻿---
+ID: "dbe42be3-4da7-44fc-84ab-e10a750f818d"
+Parent: "9d5aef04-e57e-4bb6-97f9-fd42803aae87"
+Template: "05bbc0aa-69c3-4838-94b2-6a1d38961406"
+Path: "/sitecore/templates/Branches/System/Email/Messages/Two-Column Message/$name/Message Root/Sidebar"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: software/32x32/branch_delete.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sidebar
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090617T165728
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af7cd188-51b6-4f98-b8a5-7e724bee4a29"
+      Hint: Sidebar
+      Value: "<p>[Enter your sidebar text or image here]</p>"

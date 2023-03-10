@@ -1,0 +1,22 @@
+﻿---
+ID: "2aef2e09-3547-4e69-9622-5afa368f15a2"
+Parent: "afad617b-6245-4953-85c5-47ce8de51e8a"
+Template: "f0818351-eed1-453e-8325-684eeb1a827a"
+Path: /sitecore/templates/Branches/System/Email/Messages/Three Column Short/$name/Message Root/Footers/Footer/Update your preferences
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200619T091754Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c79ff2c-9e24-4055-bcd2-f1e72093409f"
+      Hint: Link
+      Value: |
+        <link text="Update subscription preferences" linktype="external" url="/sitecore modules/Web/EXM/SubscriptionPreferences.ashx" anchor="" class="em_defaultlink" target="" />

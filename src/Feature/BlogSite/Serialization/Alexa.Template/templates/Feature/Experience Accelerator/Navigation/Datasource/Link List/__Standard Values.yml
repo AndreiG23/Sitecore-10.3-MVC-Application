@@ -1,0 +1,19 @@
+﻿---
+ID: "e8541194-7f33-4123-9d75-e2fb12cf2c1f"
+Parent: "f7561ffc-c0d8-477f-b53d-2703a4060be1"
+Template: "f7561ffc-c0d8-477f-b53d-2703a4060be1"
+Path: /sitecore/templates/Feature/Experience Accelerator/Navigation/Datasource/Link List/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{E24E0789-A058-48BF-ABB6-C69C0E60B6B7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111206T112520

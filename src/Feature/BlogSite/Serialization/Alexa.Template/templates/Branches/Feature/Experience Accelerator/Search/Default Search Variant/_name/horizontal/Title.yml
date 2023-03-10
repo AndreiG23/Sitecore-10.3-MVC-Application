@@ -1,0 +1,21 @@
+﻿---
+ID: "95fb9a13-f622-4943-972c-1af62b4509ad"
+Parent: "9e3cc24d-8f7b-4f16-b9f6-ebe5cc2a10ba"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/Default Search Variant/$name/horizontal/Title
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160817T085915Z

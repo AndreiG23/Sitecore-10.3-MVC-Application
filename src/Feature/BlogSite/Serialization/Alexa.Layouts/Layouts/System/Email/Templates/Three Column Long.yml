@@ -1,0 +1,21 @@
+﻿---
+ID: "26bc23ec-50ef-41a2-b950-80e8a371eae0"
+Parent: "3c68bb95-44cd-4943-971f-42f050985444"
+Template: "3a45a723-64ee-4919-9d41-02fd40fd1466"
+Path: /sitecore/layout/Layouts/System/Email/Templates/Three Column Long
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/window_delete.png
+- ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
+  Hint: Path
+  Value: /sitecore modules/Web/EXM/layouts/Templates/Thee Column Long.aspx
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190715T120354Z

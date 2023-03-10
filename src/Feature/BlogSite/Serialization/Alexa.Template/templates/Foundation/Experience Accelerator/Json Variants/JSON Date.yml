@@ -1,0 +1,24 @@
+﻿---
+ID: "3ecedc1b-9f37-41f6-9f98-ba3c0bba347a"
+Parent: "f5ffab16-5e15-448f-a4b9-70b39066d409"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Json Variants/JSON Date
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/calendar_clock.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {F69D787D-0ECF-43D3-B9CB-35B303D5233A}
+    {1E15019A-2934-4F6B-8772-84E8EA77039C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170221T131839Z

@@ -1,0 +1,28 @@
+﻿---
+ID: "d3f1e18f-9d53-4271-b362-0cc725842b61"
+Parent: "da967deb-1465-4931-8fb9-ea3dad70ba36"
+Template: "c69ed3f6-b8f3-4962-8787-7452fec943cd"
+Path: /sitecore/content/Alexa/Home/WebsiteSettings/LocalSettings
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/window_gear.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20ffa03b-20de-4620-820a-f05ca4eab1c1"
+      Hint: Copyright
+      Value: Copyright 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230302T092659Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b78b0f9a-b554-4797-8a72-d6e6dad74ee3"
+      Hint: WebsiteHeading
+      Value: <h1>Welcome to <strong>Alexa</strong> website powered by XP 10.3</h1>

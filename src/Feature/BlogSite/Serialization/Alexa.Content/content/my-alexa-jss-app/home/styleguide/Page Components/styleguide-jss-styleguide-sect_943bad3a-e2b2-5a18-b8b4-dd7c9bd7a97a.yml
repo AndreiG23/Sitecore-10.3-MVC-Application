@@ -1,0 +1,52 @@
+﻿---
+ID: "943bad3a-e2b2-5a18-b8b4-dd7c9bd7a97a"
+Parent: "20d1d568-9889-5e99-b75c-162d8866b008"
+Template: "4a748a73-428b-5b01-97bf-5c75442645a2"
+Path: "/sitecore/content/my-alexa-jss-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b6822ef-49ba-5072-beb3-b462965417ea"
+      Hint: heading
+      Value: Content List
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084816Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "5fb98da6-5189-5861-9006-a18fa3e61d20"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "a91a195a-43a8-595b-9248-310935bf715d"
+      Hint: localContentList
+      Type: Treelist
+      Value: |
+        {07D05398-BBC7-5763-9F2A-F07FBB488EDF}
+        {B37C26C5-43FA-5F88-9CD2-1F0AAC79ED86}
+    - ID: "ae36fb25-3359-57a6-82ff-9b9031dd1090"
+      Hint: sharedContentList
+      Type: Treelist
+      Value: |
+        {4EC48696-1B68-5E77-8ADA-F6A6624854C4}
+        {ED6C1986-0873-502A-B7A3-BC16B89C12EE}

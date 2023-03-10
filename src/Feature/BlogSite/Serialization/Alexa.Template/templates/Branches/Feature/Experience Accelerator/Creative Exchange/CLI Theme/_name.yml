@@ -1,0 +1,14 @@
+﻿---
+ID: "a51fb415-dfb0-4b7b-b1e1-0e0a0774b65e"
+Parent: "edc4f1b3-621d-4ecb-962a-9b5bba00cc44"
+Template: "f7653f31-6f17-4daa-9217-8e116babc927"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Creative Exchange/CLI Theme/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190823T105421Z

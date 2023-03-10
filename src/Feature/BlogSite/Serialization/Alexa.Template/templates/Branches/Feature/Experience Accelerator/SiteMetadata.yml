@@ -1,0 +1,14 @@
+﻿---
+ID: "0f50c26e-92c7-4094-9599-fbc726577f3b"
+Parent: "a83132ae-5009-43c4-9f69-7425f489f5b7"
+Template: "85adbf5b-e836-4932-a333-fe0f9fa1ed1e"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/SiteMetadata
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160701T083322Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "4e97ca61-756b-480c-9472-4ba7bccd0e4b"
+Parent: "c7b1fcf6-60ca-4b96-9425-25eb4b2bb1af"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Branches/System/Email/Messages/Image Focus/$name/Message Root/Footers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T103206Z

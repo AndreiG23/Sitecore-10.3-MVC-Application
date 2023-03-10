@@ -1,0 +1,14 @@
+﻿---
+ID: "8f66d1e0-deba-4d68-8713-dd982c1abde4"
+Parent: "67759d75-62e4-4945-8199-913bbecd1879"
+Template: "1ad02405-7207-4962-ba96-6d6c3ba30ba7"
+Path: /sitecore/templates/Branches/System/Analytics/Profile/$name/Profile Cards
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110126T110559

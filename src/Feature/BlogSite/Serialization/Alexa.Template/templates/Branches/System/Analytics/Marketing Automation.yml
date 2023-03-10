@@ -1,0 +1,18 @@
+﻿---
+ID: "794f2028-5e4c-4a7c-8764-79f4e8c603d5"
+Parent: "3e635c68-a2aa-47cd-a297-7da9b05d56fe"
+Template: "85adbf5b-e836-4932-a333-fe0f9fa1ed1e"
+Path: /sitecore/templates/Branches/System/Analytics/Marketing Automation
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161222T143624Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

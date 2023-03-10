@@ -1,0 +1,18 @@
+﻿---
+ID: "dbb876bf-2b28-4885-9073-1e83a37be5da"
+Parent: "b99b5d85-64f1-4c19-8bfc-f96726bfe2e2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Path Analyzer/ExperienceMap/Options
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150710T001120Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

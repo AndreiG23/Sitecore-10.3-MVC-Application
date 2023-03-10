@@ -1,0 +1,35 @@
+﻿---
+ID: "eceddfe2-9199-4bd5-aa5b-7749e7366d80"
+Parent: "292ccfcd-7790-4692-856b-76014b8038e7"
+Template: "292ccfcd-7790-4692-856b-76014b8038e7"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Scaffolding/Roots/SiteSetupRoot/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {EA8A3F26-9CCD-443A-95F5-71B868A94BD0}
+    {1773ECCE-3F78-4201-8095-CAE3574E8EDE}
+    {6545C81F-C30F-4B58-97D9-EF85B890F70A}
+    {5AE7EE87-FBEB-4648-818F-9B17E13B4C89}
+    {37397CC6-D9E3-4F3E-B320-1EF5CC76CC2E}
+    {621318AC-63E9-48B1-B5A9-5BCF31D0E41A}
+    {F83E50FA-251D-4051-B61E-6E2E44BFBE4D}
+    {088928CF-558E-40EC-87F3-342AA9E66757}
+    {341738AA-44FE-490E-90FF-7010A3C2463B}
+    {F8C52120-D0EA-4D00-9DE3-B49FE12A3F1E}
+    {51437C06-212C-4C0F-B3B2-FA5B0486AB49}
+    {7A7E57B9-9C6D-4A22-B5FD-F7B214DDE574}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160627T072319Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

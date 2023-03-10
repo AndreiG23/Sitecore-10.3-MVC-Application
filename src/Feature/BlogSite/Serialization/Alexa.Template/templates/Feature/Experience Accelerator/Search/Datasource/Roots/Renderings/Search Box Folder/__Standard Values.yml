@@ -1,0 +1,25 @@
+﻿---
+ID: "d77692bf-82ca-4959-a745-5a9debd2ae12"
+Parent: "da1cfa5b-8fab-4e8a-baa3-3b1f8d198efd"
+Template: "da1cfa5b-8fab-4e8a-baa3-3b1f8d198efd"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Roots/Renderings/Search Box Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {1C04FD61-1D87-4590-ACFE-9CC186865AB3}
+    {DA1CFA5B-8FAB-4E8A-BAA3-3B1F8D198EFD}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160603T084355Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

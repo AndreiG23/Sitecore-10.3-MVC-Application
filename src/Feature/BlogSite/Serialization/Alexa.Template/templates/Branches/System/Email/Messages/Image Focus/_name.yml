@@ -1,0 +1,22 @@
+﻿---
+ID: "e44b686c-f73c-4ee4-8b57-55bd6f4bf21d"
+Parent: "90a769c7-47da-4042-9f49-413babc66504"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/templates/Branches/System/Email/Messages/Image Focus/$name
+DB: master
+SharedFields:
+- ID: "09ad7c00-a8de-46f7-bc54-e7572e38c136"
+  Hint: Body
+  Value: "{C7B1FCF6-60CA-4B96-9425-25EB4B2BB1AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T104128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "4ca2f825-0cf6-4a25-98ea-f16fd1ce469a"
+Parent: "e4d919e6-341c-44f5-8f10-438919e4c424"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Classification/Goal classification/Classification
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141031T095719Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

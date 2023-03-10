@@ -1,0 +1,63 @@
+﻿---
+ID: "f6bb8dc9-842c-4c4d-b76a-42c15ee3421b"
+Parent: "eda823fc-bc7e-4ef6-b498-cd09ec6fdaef"
+Template: "eda823fc-bc7e-4ef6-b498-cd09ec6fdaef"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Multisite/Site Definition/__Standard Values
+DB: master
+SharedFields:
+- ID: "301e719a-6f65-4874-b565-a953a7b5ac83"
+  Hint: OtherProperties
+  Value: 
+- ID: "3c090b55-86f4-40e1-932e-47bf73a91491"
+  Hint: AllowDebug
+  Type: Checkbox
+  Value: 1
+- ID: "42ddbe59-96df-4c83-bb22-0f739a603b3d"
+  Hint: FilteredItemsCacheSize
+  Value: 2
+- ID: "57083780-c9f7-4bba-aba2-143a071589e5"
+  Hint: ViewStateCacheSize
+  Value: 0
+- ID: "5fff3cc5-490c-4469-9c45-4c98eb7421a0"
+  Hint: XslCacheSize
+  Value: 5
+- ID: "79438ede-2dc8-4487-9df3-2805150e4eb0"
+  Hint: EnablePreview
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "bdda404f-9835-456a-84d2-6e9cfe6b5909"
+  Hint: HtmlCacheSize
+  Value: 10
+- ID: "c2613027-60cf-4791-affb-74c9f5fa3da5"
+  Hint: CacheHtml
+  Type: Checkbox
+  Value: 1
+- ID: "c29e1680-67ed-4d32-b45b-977fb002f838"
+  Hint: EnableWebEdit
+  Type: Checkbox
+  Value: 1
+- ID: "d394f72d-670f-45d1-a590-ab8977ec20f2"
+  Hint: EnableDebugger
+  Type: Checkbox
+  Value: 1
+- ID: "f19277fe-1b85-4b0a-8c26-5e74d766b3a3"
+  Hint: Language
+  Value: en
+- ID: "fc111cc5-5dee-4268-ba67-e2b32053f52a"
+  Hint: RegistryCacheSize
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130207T142000
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

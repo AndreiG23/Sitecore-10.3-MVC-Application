@@ -1,0 +1,18 @@
+﻿---
+ID: "45d82cf0-e533-4589-b8e7-a919b4cda647"
+Parent: "10335194-8652-470a-9445-fd7c4fb21b4e"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Foundation/JSS Experience Accelerator
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Headless Experience Accelerator
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20181120T112034:636783096344590407Z"

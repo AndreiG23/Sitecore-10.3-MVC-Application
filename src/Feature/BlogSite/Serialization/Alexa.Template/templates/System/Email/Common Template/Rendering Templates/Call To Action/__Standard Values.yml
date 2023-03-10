@@ -1,0 +1,22 @@
+﻿---
+ID: "0a065458-b2bc-453e-8e17-5bd0c0e1f555"
+Parent: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Template: "ff7f82ea-a147-4bc3-90d1-318c92aa8740"
+Path: /sitecore/templates/System/Email/Common Template/Rendering Templates/Call To Action/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06d4c9ad-7ab0-40c8-a73b-3e0685f809c3"
+      Hint: Content
+      Value: |
+        Use this area to explain what your call to action is asking<br class="em_hide" /> your recipient&nbsp;to&nbsp;do
+    - ID: "1d883dbc-01a8-4da0-a95d-080bdc5bf39d"
+      Hint: Link
+      Value: |
+        <link text="Click here" linktype="external" url="https://sitecore.com/" anchor="" class="em_defaultlink" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200309T115244Z

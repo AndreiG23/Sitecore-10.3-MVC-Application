@@ -1,0 +1,30 @@
+﻿---
+ID: "08dca117-1e6d-4a53-a0b5-4b85739c5a7e"
+Parent: "6354d18e-54e9-45ad-9ec7-510769db4809"
+Template: "6354d18e-54e9-45ad-9ec7-510769db4809"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Rendering Variants/VariantReference/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {1151B2A9-08AF-4F4D-A892-C2CC9A92EA6A}
+    {DC4EBC23-A470-4B5D-8DF8-4A55FA823BB4}
+    {FCD285DA-9AB2-4C8D-B185-5A7487A9BA1B}
+    {6354D18E-54E9-45AD-9EC7-510769DB4809}
+    {070A64FA-5F1B-40CC-83CB-3CE05D1895FC}
+    {ACA5C9A3-CDA0-49B6-893F-1D4A7CB595B0}
+    {6ECA12E9-F4D5-4F6E-9C3C-6DF716BC593B}
+    {98B41352-5A4B-4067-B924-18A4B50F0A53}
+- ID: "6a018521-3d58-4cdd-98fc-88be689650d5"
+  Hint: PassThroughField
+  Value: $name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141014T092027Z

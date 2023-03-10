@@ -1,0 +1,14 @@
+﻿---
+ID: "ae6b71e4-56dd-4bf9-9026-426811c866ed"
+Parent: "a5dc57fc-51b4-46f0-af42-795a7a5e4ac2"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Branches/System/Email/Messages/Alternating Columns/$name/Message Root/Footers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T094718Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "dfd4810e-5847-4479-b7dd-11d7f71cea49"
+Parent: "a9135a64-c3a3-4746-b740-fd6eb2579aa5"
+Template: "a9135a64-c3a3-4746-b740-fd6eb2579aa5"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Rendering Parameters/Sort Results/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140728T152135

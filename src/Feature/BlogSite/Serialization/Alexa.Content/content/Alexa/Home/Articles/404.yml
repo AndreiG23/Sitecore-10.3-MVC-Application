@@ -1,0 +1,53 @@
+﻿---
+ID: "2520223a-6e5e-489f-96d2-8d0841e45e08"
+Parent: "93d3ffd5-3bfd-429f-aafb-4f8060928ffe"
+Template: "5a6263cf-997f-41f1-a5e3-304d447e6286"
+Path: /sitecore/content/Alexa/Home/Articles/404
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{982E9E1F-E7F2-4C04-BBD9-D2F67F4AB71C}">
+          <p:d />
+        </r>
+        <r
+          uid="{6738F709-7DF0-4741-A8AD-B733D4F20160}"
+          s:id="{5AE8DB9B-33AB-40F8-8DC7-5C26EADA8FAF}"
+          s:ph="phMain" />
+        <r
+          uid="{0F549DDA-713C-4917-BF5E-3D49836B678E}">
+          <p:d />
+        </r>
+        <r
+          uid="{816A8A0B-7940-4E9D-BF60-892CEE79F4A6}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "123133f3-90d2-4b37-b760-7801774cdcd7"
+      Hint: Description
+      Value: <strong>This Error is shown when you don't wrote the url correctly</strong>
+    - ID: "12d6cac4-9ac1-447a-b685-7bc3f11c8503"
+      Hint: Title
+      Value: Error 404 Page not found
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230302T123910Z
+    - ID: "29518b91-1130-40d8-b698-87643c4bce60"
+      Hint: PostedDate
+      Value: 20230302T000000Z
+    - ID: "832508b9-d188-45ce-a268-ba8010597759"
+      Hint: BlogId
+      Value: "{2520223A-6E5E-489F-96D2-8D0841E45E08}"

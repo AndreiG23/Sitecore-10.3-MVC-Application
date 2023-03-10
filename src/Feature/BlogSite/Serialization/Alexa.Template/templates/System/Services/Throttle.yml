@@ -1,0 +1,14 @@
+﻿---
+ID: "e4812e6a-f820-41b4-b364-f21b9be73a86"
+Parent: "0bcfeba0-30e5-47e5-8d0f-70ed4d847eef"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/System/Services/Throttle
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171211T160525Z

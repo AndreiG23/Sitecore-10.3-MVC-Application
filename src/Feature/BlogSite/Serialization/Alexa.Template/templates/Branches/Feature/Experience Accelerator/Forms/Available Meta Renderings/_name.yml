@@ -1,0 +1,23 @@
+﻿---
+ID: "40798bb8-b28c-40a3-8af4-3269741b10f2"
+Parent: "d24e4b1b-a325-433c-a22e-9381cc4a36f7"
+Template: "bf70a40b-6d0e-4639-9862-24bb8946094b"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Forms/Available Meta Renderings/$name
+DB: master
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{24374313-44B3-4E9C-9C55-C4194019D1B3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160711T085207Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

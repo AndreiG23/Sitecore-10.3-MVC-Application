@@ -1,0 +1,57 @@
+﻿---
+ID: "c3555e8d-2a51-5755-9282-ac6a4f0fb2ab"
+Parent: "cfe195da-f1cc-5474-994a-a523cb9b7af4"
+Template: "3b3d6494-bfab-5d05-93fe-f9997928fea8"
+Path: "/sitecore/content/my-alexa-jss-app/home"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4372D66F-0E56-5074-8976-FB5702B1FF7A}"
+              p:after="p[@uid='{D59B3EB8-0F6E-5B1C-A0FB-B921A6D8C0A3}']"
+              s:rname="MyFirstComponent"
+              s:ds="{0E938C3B-1B78-5D05-BFCD-091EB38F683B}"
+              s:id="{3CA82DFD-B320-5C30-96A9-2ACF6C012E30}"
+              s:par=""
+              s:ph="/jss-main" />
+            <r
+              uid="{CD4F1800-3F39-42DC-973C-BB4866CC8F39}"
+              p:after="r[@uid='{4372D66F-0E56-5074-8976-FB5702B1FF7A}']"
+              s:ds="{38DD50B6-6791-434B-B2EB-D207D38665AD}"
+              s:id="{4A68DCB9-8F2B-55F8-B118-68024CCA1D96}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear on publish"
+              s:ph="jss-main" />
+            <r
+              uid="{7418112D-B1C0-53FE-9256-B807B16FE3F4}"
+              p:after="*[1=2]"
+              s:rname="ContentBlock"
+              s:ds="{A7F67758-E503-58D0-994F-4E843DE85D86}"
+              s:id="{1349B314-3E7F-5AFB-8FA9-88A542A702EE}"
+              s:par=""
+              s:ph="/jss-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084813Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "8bc143de-679c-5a78-8626-65e75f4d2962"
+      Hint: pageTitle
+      Value: Welcome to Sitecore JSS

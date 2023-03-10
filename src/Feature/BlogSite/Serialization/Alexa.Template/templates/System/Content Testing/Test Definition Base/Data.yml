@@ -1,0 +1,18 @@
+﻿---
+ID: "20af5edf-2d5b-4f27-a9ea-bdd8e732fed6"
+Parent: "3a0cfb2b-3671-4532-9700-a20ed704e97b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Content Testing/Test Definition Base/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20101130T151251
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

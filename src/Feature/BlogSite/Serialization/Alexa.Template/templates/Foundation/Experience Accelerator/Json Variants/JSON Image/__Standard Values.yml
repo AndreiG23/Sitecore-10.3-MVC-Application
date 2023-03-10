@@ -1,0 +1,17 @@
+﻿---
+ID: "0830aaea-4c6c-4700-a0e1-f8095bc4a639"
+Parent: "590d6149-951b-436b-a767-53f7210e4925"
+Template: "590d6149-951b-436b-a767-53f7210e4925"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Json Variants/JSON Image/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170309T153442Z
+    - ID: "f11bc7e7-7ced-4700-9f64-2e46250ee789"
+      Hint: Mode
+      Value: "{A6C7833C-F202-4FD7-B584-9359436DAD8B}"

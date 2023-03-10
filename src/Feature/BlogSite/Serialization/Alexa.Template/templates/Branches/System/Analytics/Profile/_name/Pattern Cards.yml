@@ -1,0 +1,18 @@
+﻿---
+ID: "d7192472-9456-4b1a-ae1c-6a904200e561"
+Parent: "67759d75-62e4-4945-8199-913bbecd1879"
+Template: "0771b0a2-5bcf-4f87-91de-13474618b6bf"
+Path: /sitecore/templates/Branches/System/Analytics/Profile/$name/Pattern Cards
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20110210T132658

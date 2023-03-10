@@ -1,0 +1,37 @@
+﻿---
+ID: "4ab99d80-d352-4ca0-a204-80a27fac03dd"
+Parent: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Rendering Variants/VariantField/__Standard Values
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: $name
+- ID: "7310794a-15c4-4b69-bebe-29e084aff571"
+  Hint: UseFieldRenderer
+  Type: Checkbox
+  Value: 1
+- ID: "83798d75-df25-4c28-9327-e8bac2b75292"
+  Hint: __Insert Rules
+  Type: TreelistEx
+  Value: "{B1D2EBE4-45A6-4517-B559-BC702BA82E5B}"
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+- ID: "fe56eae5-d6a1-4703-92f7-4862da6deac8"
+  Hint: RenderIfEmpty
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141007T094333Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

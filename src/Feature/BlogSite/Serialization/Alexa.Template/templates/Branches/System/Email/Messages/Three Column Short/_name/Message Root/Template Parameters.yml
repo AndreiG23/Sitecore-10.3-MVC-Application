@@ -1,0 +1,14 @@
+﻿---
+ID: "8fe29d5c-34e1-4c90-9013-9d783cd978a9"
+Parent: "edd31000-136d-4019-b941-e57c662599b0"
+Template: "04057e52-81de-4ecc-806a-e783fd62c763"
+Path: /sitecore/templates/Branches/System/Email/Messages/Three Column Short/$name/Message Root/Template Parameters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200619T092659Z

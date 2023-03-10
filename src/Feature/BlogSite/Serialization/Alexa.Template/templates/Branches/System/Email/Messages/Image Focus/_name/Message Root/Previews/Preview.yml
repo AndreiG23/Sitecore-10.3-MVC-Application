@@ -1,0 +1,18 @@
+﻿---
+ID: "dab81c6f-50a5-4187-bd28-5992b811a11f"
+Parent: "f56e1b2f-6d28-4b83-94f7-010477eca1fc"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/templates/Branches/System/Email/Messages/Image Focus/$name/Message Root/Previews/Preview
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200309T134908Z

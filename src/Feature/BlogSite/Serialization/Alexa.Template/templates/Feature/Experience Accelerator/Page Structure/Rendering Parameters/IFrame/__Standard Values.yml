@@ -1,0 +1,14 @@
+﻿---
+ID: "d8558cc4-b2ce-4728-8acd-a048a1225198"
+Parent: "0da12d47-6de2-4dfe-b4d0-f513489bfea1"
+Template: "0da12d47-6de2-4dfe-b4d0-f513489bfea1"
+Path: /sitecore/templates/Feature/Experience Accelerator/Page Structure/Rendering Parameters/IFrame/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120629T130349

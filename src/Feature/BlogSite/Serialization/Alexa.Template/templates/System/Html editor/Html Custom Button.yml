@@ -1,0 +1,22 @@
+﻿---
+ID: "90844a48-c3a2-4c0e-8a02-7777ffb6080a"
+Parent: "2ffb6e47-f751-474d-b6bf-90aa17393d55"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/System/Html editor/Html Custom Button
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "577f1689-7de4-4ad2-a15f-7fdc1759285f"
+    Hint: __Long description
+    Value: Custom button for the HTML editor
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: Custom button for the HTML editor
+  Versions:
+  - Version: 1

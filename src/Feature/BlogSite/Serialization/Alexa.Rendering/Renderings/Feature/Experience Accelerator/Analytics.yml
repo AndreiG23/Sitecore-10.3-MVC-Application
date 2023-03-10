@@ -1,0 +1,18 @@
+﻿---
+ID: "056febc0-062f-4e78-a8a4-ee3c23a83b27"
+Parent: "53179e7e-602c-4b52-8334-b79a27bf0b89"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/Experience Accelerator/Analytics
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171002T095358Z

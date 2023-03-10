@@ -1,0 +1,18 @@
+﻿---
+ID: "edf60493-3ac7-4698-89cd-1ee4d6192576"
+Parent: "cd8c1f58-a666-461a-8c91-34c121a235ba"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Page Content/Default Promo Variant/$name/Default/Promo Text/Promo Body/Promo Text
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134859Z

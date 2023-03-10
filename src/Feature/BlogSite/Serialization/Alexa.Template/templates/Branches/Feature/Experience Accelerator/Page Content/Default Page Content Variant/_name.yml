@@ -1,0 +1,14 @@
+﻿---
+ID: "c70cbc83-79a2-4c4f-afab-7b611cbca055"
+Parent: "9ce20276-ee4d-4810-932a-f8e8ba759377"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Page Content/Default Page Content Variant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z

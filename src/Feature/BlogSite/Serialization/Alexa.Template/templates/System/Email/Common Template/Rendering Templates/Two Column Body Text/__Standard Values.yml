@@ -1,0 +1,29 @@
+﻿---
+ID: "f00d6574-567f-4aec-b388-2fa72d121750"
+Parent: "f3416748-1631-43e4-9106-2fb5e532cfee"
+Template: "f3416748-1631-43e4-9106-2fb5e532cfee"
+Path: /sitecore/templates/System/Email/Common Template/Rendering Templates/Two Column Body Text/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "069217bf-ffdf-4791-bfff-a8757c87a22a"
+      Hint: Heading
+      Value: Body Text
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200716T084130Z
+    - ID: "36d1455b-9da9-4be1-9b7d-d3cb012dc595"
+      Hint: Content 1
+      Value: |
+        This is your body text area. Use this section to describe the message<br class="em_hide" /> you are looking to covey to&nbsp;your&nbsp;recipient.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "74ed104f-b46f-4c15-912f-b1807f739fe9"
+      Hint: Content 2
+      Value: |
+        This is your body text area. Use this section to describe the message<br class="em_hide" /> you are looking to covey to&nbsp;your&nbsp;recipient.

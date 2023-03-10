@@ -1,0 +1,22 @@
+﻿---
+ID: "cb006ebe-92c6-5869-a68a-65eaee58c3b4"
+Parent: "b2d4c44d-e375-5d6c-ae40-566d85e96e01"
+Template: "b2d4c44d-e375-5d6c-ae40-566d85e96e01"
+Path: "/sitecore/templates/Project/my-alexa-jss-app/Form/__Standard Values"
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T090034Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

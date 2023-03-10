@@ -1,0 +1,18 @@
+﻿---
+ID: "4ab97286-158d-4a43-b231-0ecf5b5d5b63"
+Parent: "803949f2-13a1-4731-a0fa-e435ea0d822e"
+Template: "803949f2-13a1-4731-a0fa-e435ea0d822e"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Marketing category/Marketing category/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: apps/32x32/shop (1).png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180316T134703Z

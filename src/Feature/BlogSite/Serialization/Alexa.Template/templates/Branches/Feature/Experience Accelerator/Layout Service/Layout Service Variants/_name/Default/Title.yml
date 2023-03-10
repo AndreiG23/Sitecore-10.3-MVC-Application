@@ -1,0 +1,18 @@
+﻿---
+ID: "98a4e0e7-f1a0-4ccc-9174-0b6420dbb6cf"
+Parent: "f6186688-a399-40da-9e49-aed0db96a9d7"
+Template: "f69d787d-0ecf-43d3-b9cb-35b303d5233a"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Layout Service/Layout Service Variants/$name/Default/Title
+DB: master
+SharedFields:
+- ID: "3183d84b-d0b9-4e0c-8813-a82465ccbdc8"
+  Hint: Field Name
+  Value: Title
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170424T091820Z

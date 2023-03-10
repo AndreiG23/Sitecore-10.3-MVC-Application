@@ -1,0 +1,25 @@
+﻿---
+ID: "42414c4d-f4a5-4d17-81bf-6a587822d62c"
+Parent: "ed1b1ba7-4267-466f-a57a-8d96d2cb979d"
+Template: "ed1b1ba7-4267-466f-a57a-8d96d2cb979d"
+Path: /sitecore/templates/Feature/Experience Accelerator/Page Structure/Datasource/Roots/IFrame Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {8E1F74DB-15C0-43F3-85F0-86E4651DF912}
+    {ED1B1BA7-4267-466F-A57A-8D96D2CB979D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T091526
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

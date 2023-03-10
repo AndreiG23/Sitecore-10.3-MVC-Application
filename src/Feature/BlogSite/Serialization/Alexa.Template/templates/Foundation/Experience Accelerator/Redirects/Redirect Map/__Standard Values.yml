@@ -1,0 +1,23 @@
+﻿---
+ID: "a2ec79cf-74d3-4345-a548-dbc775e0a231"
+Parent: "f4fb6125-f113-4373-8aa2-4648c2c1960e"
+Template: "f4fb6125-f113-4373-8aa2-4648c2c1960e"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Redirects/Redirect Map/__Standard Values
+DB: master
+SharedFields:
+- ID: "bf5b4f11-4995-4edf-b8db-f436a503e02e"
+  Hint: IncludeVirtualFolder
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201116T102310Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

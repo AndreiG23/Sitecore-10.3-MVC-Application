@@ -1,0 +1,21 @@
+﻿---
+ID: "0c4c1b82-8caf-4c9e-a7aa-07c19b933b11"
+Parent: "acf6932e-cd26-4b56-8a08-12b5d8650974"
+Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Media/Default File List Variant/$name/All Fields/File/$Size
+DB: master
+SharedFields:
+- ID: "3a4dd4df-8d32-405f-831a-39f87a550085"
+  Hint: Token
+  Value: $Size
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160520T112530Z

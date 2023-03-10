@@ -1,0 +1,14 @@
+﻿---
+ID: "19111adf-f869-4f5f-b2b6-e747689aacb8"
+Parent: "0a1f9b39-1822-41fd-9bc0-9da03f80c29a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Email/Global Settings/Tokens/Access token
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T084726Z

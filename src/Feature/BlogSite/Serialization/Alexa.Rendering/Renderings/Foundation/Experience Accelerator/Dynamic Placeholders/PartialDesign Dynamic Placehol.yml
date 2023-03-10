@@ -1,0 +1,27 @@
+﻿---
+ID: "455948a7-9860-4312-b818-994e723e8b9a"
+Parent: "c42b5d47-e770-449c-88d0-de7eefd6a6b6"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Foundation/Experience Accelerator/Dynamic Placeholders/PartialDesign Dynamic Placeholder
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/elements_selection.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: PartialDesignDynamicPlaceholder
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Sitecore.XA.Foundation.DynamicPlaceholders.Controller.DynamicPlaceholdersController,Sitecore.XA.Foundation.DynamicPlaceholders
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150219T091841

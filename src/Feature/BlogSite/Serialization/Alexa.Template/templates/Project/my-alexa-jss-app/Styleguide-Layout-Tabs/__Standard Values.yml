@@ -1,0 +1,22 @@
+﻿---
+ID: "10f8faa6-f32b-56d0-9393-1a3c482c325a"
+Parent: "7b843cf7-2e92-5b85-9fad-c085ad06ecbe"
+Template: "7b843cf7-2e92-5b85-9fad-c085ad06ecbe"
+Path: "/sitecore/templates/Project/my-alexa-jss-app/Styleguide-Layout-Tabs/__Standard Values"
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084805Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

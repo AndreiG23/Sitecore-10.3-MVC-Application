@@ -1,0 +1,21 @@
+﻿---
+ID: "7b974cae-aa54-4603-ae21-1fea567f3eef"
+Parent: "dd4a6200-e68c-4c4d-9cbf-32c0a12b3b60"
+Template: "dd4a6200-e68c-4c4d-9cbf-32c0a12b3b60"
+Path: /sitecore/templates/System/Email/Common Template/Parameter Templates/Basic/Link/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+- ID: "902b134f-ebf0-4eb6-b529-1fba36527a62"
+  Hint: Link Color
+  Value: #232323
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160816T060246Z

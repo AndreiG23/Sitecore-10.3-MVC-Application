@@ -1,0 +1,18 @@
+﻿---
+ID: "5326ea76-4617-4bf9-8579-c70580096d27"
+Parent: "116c31dd-a47a-402e-9a24-e3a8135cfc32"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Experience Accelerator/Analytics/Rendering Parameters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171003T090011Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,26 @@
+﻿---
+ID: "3268ac8c-5119-4ae9-bc68-470656918922"
+Parent: "a12ef6de-1e2a-4d9b-82b4-dffb70189e52"
+Template: "a12ef6de-1e2a-4d9b-82b4-dffb70189e52"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Grid/Grid Definition/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{BCA0E629-150F-41DD-893B-F4B65338C0B7}"
+- ID: "2105078e-c785-4db4-9bbf-ff78f2179a17"
+  Hint: Row Class
+  Value: row
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T080519Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

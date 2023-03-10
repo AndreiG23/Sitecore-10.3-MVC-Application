@@ -1,0 +1,25 @@
+﻿---
+ID: "2e1d7985-0bf1-469b-a00b-4f2ac443940c"
+Parent: "f5ffab16-5e15-448f-a4b9-70b39066d409"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Json Variants/JSON Variant Definition
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/mask.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{CC9C2B37-A5FD-4F6E-B6E0-63BDECE3FF45}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{B444C163-4FCE-4EB2-B167-090965697643}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T113943Z

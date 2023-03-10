@@ -1,0 +1,10 @@
+﻿---
+ID: "25f1a8e5-eb4c-4202-a9f7-a97db52da9af"
+Parent: "8a535969-7e57-4951-86d3-5e12dbff31d3"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Navigation/Default Headless Link List Variant/$name/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

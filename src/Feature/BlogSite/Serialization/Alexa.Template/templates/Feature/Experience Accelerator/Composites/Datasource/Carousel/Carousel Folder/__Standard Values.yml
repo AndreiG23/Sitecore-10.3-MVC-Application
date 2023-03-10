@@ -1,0 +1,25 @@
+﻿---
+ID: "ed89093b-9c68-4a86-a312-d63e8190d0a0"
+Parent: "a13a1b91-fd2b-494b-9086-008852175b0a"
+Template: "a13a1b91-fd2b-494b-9086-008852175b0a"
+Path: /sitecore/templates/Feature/Experience Accelerator/Composites/Datasource/Carousel/Carousel Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {3FA4800D-ECA0-44ED-9B49-7D6DA032C747}
+    {A13A1B91-FD2B-494B-9086-008852175B0A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071502Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,23 @@
+﻿---
+ID: "2932a3dc-4a6f-414a-a6df-6d8cbb0b8bb5"
+Parent: "b3c7d7ef-474b-4447-a138-7894632ce199"
+Template: "b3c7d7ef-474b-4447-a138-7894632ce199"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Managed Range Filter Items/Managed Range Filter/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{958FFBDC-F1E1-4486-8667-C2DD451F5E31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140807T101801
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

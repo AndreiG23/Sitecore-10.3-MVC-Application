@@ -1,0 +1,14 @@
+﻿---
+ID: "b399fe5d-5073-4d64-b00b-ec13cd625882"
+Parent: "a37ff052-48bf-414e-bab8-ab1700d9b5e8"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Workflow/Email action/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130301T153227

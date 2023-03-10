@@ -1,0 +1,25 @@
+﻿---
+ID: "ad2ae874-b76d-4f49-9528-a8861938d2a8"
+Parent: "c2294d82-35a6-452a-94b1-5eb5e543b602"
+Template: "c2294d82-35a6-452a-94b1-5eb5e543b602"
+Path: /sitecore/templates/Feature/Experience Accelerator/Security/Datasource/Logout/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130321T131900Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8a12efae-3cb2-49da-817f-9c8b159ba45a"
+      Hint: DisplayUsername
+      Type: Checkbox
+      Value: 1
+    - ID: "8a83d191-8f06-4ab2-9600-1968bebf0805"
+      Hint: LogoutLinkCaption
+      Value: Logout

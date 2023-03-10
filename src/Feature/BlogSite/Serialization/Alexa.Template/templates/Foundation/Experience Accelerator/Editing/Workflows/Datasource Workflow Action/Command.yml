@@ -1,0 +1,14 @@
+﻿---
+ID: "a2b7fb6a-63fe-4ce2-b136-0332c2fdf373"
+Parent: "def0aa0d-3446-41ae-b307-ec7ba429ce50"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Editing/Workflows/Datasource Workflow Action/Command
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T085914Z

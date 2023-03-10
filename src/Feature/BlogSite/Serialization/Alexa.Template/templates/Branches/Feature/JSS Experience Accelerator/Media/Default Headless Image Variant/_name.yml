@@ -1,0 +1,14 @@
+﻿---
+ID: "22e4ce0c-bbbc-46ec-8f36-773779104491"
+Parent: "ae87ba03-4197-4107-82d5-f8b1cafe3bff"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Media/Default Headless Image Variant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211020T135037Z

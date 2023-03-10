@@ -1,0 +1,28 @@
+﻿---
+ID: "b37c26c5-43fa-5f88-9cd2-1f0aac79ed86"
+Parent: "943bad3a-e2b2-5a18-b8b4-dd7c9bd7a97a"
+Template: "4936eca2-3feb-5906-8af8-76034a989bad"
+Path: "/sitecore/content/my-alexa-jss-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4/styleguide-jss-styleguide-section-B76CB8FB6A660296D91AE50FD7559AF62453A1891C9828A22C84E7E2A9914E7DD8"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11-item-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084816Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "f17dab72-aa6d-5d1c-b8ea-b40b1bcfb7fb"
+      Hint: textField
+      Value: Hello World Item 2

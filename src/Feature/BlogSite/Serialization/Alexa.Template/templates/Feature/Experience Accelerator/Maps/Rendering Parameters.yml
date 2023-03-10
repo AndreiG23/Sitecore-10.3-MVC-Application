@@ -1,0 +1,18 @@
+﻿---
+ID: "718dd470-6287-4475-a835-3268a320ce75"
+Parent: "dc0e9ab5-47ba-4c52-9088-46e311b53b59"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Experience Accelerator/Maps/Rendering Parameters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160517T113052Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,25 @@
+﻿---
+ID: "27c972b7-9491-4391-94e0-81535a3d2e0d"
+Parent: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Navigation/Navigation Filter Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {966B041F-D956-4F71-A40A-68869A7BA6B9}
+    {9C2D0FDF-4DAF-4494-BDE7-F857F1924825}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120821T112722Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

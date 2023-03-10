@@ -1,0 +1,25 @@
+﻿---
+ID: "72cc8ba2-b0ee-464f-a9e4-35c1c4dc2c54"
+Parent: "670a7e82-78a6-4b25-a710-1e2e8f72515a"
+Template: "670a7e82-78a6-4b25-a710-1e2e8f72515a"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Roots/Renderings/Managed Range Filter Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {B3C7D7EF-474B-4447-A138-7894632CE199}
+    {670A7E82-78A6-4B25-A710-1E2E8F72515A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160606T083056Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

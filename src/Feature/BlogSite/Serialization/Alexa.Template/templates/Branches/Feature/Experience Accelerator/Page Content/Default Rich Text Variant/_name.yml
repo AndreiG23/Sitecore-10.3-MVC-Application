@@ -1,0 +1,19 @@
+﻿---
+ID: "6a9c7eae-d59a-4b65-ad3c-7bc183427f6c"
+Parent: "e4acb01a-2a91-4200-b9ce-205b2a5aa488"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Page Content/Default Rich Text Variant/$name
+DB: master
+SharedFields:
+- ID: "087c0553-9162-41f5-98d3-87eb0d80edbb"
+  Hint: Compatible Renderings
+  Type: TreelistEx
+  Value: "{87182F78-4399-4896-8D59-9D6A45282F8A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z

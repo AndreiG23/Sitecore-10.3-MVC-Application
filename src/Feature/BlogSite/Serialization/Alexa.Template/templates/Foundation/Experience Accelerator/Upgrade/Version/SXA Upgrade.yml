@@ -1,0 +1,18 @@
+﻿---
+ID: "02826bd7-34bc-44bf-b925-d07866e7bad5"
+Parent: "95ebc232-0477-4dc3-8ad3-465d5fe8da2f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Upgrade/Version/SXA Upgrade
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150721T113021Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

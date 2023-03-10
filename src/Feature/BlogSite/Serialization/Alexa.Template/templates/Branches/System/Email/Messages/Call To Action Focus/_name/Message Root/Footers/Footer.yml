@@ -1,0 +1,22 @@
+﻿---
+ID: "fbf300cc-139a-44a9-9154-865573a11859"
+Parent: "8c060fbf-f025-4dd1-9875-473582ca4fd3"
+Template: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Path: /sitecore/templates/Branches/System/Email/Messages/Call To Action Focus/$name/Message Root/Footers/Footer
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200309T135317Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

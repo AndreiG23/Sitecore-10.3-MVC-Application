@@ -1,0 +1,30 @@
+﻿---
+ID: "7b22166b-6a23-4e31-8c9e-7aec2cb29225"
+Parent: "f5ffab16-5e15-448f-a4b9-70b39066d409"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Json Variants/JSON Scriban
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/pieces.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {6B1A7B9D-2F58-419D-92B7-3401A61E6F9C}
+    {1E15019A-2934-4F6B-8772-84E8EA77039C}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{4B3FC5FB-9A50-443F-8CD5-FFABF29E2B7C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170123T085228Z

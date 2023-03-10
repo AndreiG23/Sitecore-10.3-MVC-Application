@@ -1,0 +1,68 @@
+﻿---
+ID: "1e3b92c6-8db6-4071-9197-f38c704ea69a"
+Parent: "5a6263cf-997f-41f1-a5e3-304d447e6286"
+Template: "5a6263cf-997f-41f1-a5e3-304d447e6286"
+Path: /sitecore/templates/Alexa/Article/__Standard Values
+DB: master
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Type: Checkbox
+  Value: 1
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{704FE69F-C9D5-4258-A9AA-E142CF4C36E8}">
+        <r
+          id="{87BBF24B-EA1B-44F4-B040-246F9FCCC60E}"
+          ph="phMain"
+          uid="{982E9E1F-E7F2-4C04-BBD9-D2F67F4AB71C}" />
+        <r
+          id="{8F8F2232-369C-4B13-B150-4AC40C341386}"
+          ph="phMain"
+          uid="{0F549DDA-713C-4917-BF5E-3D49836B678E}" />
+        <r
+          id="{5C6A1EC8-F8B0-4571-93D6-EBEC6C550EE6}"
+          ph="phMain"
+          uid="{816A8A0B-7940-4E9D-BF60-892CEE79F4A6}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "123133f3-90d2-4b37-b760-7801774cdcd7"
+      Hint: Description
+      Value: This is $description
+    - ID: "12d6cac4-9ac1-447a-b685-7bc3f11c8503"
+      Hint: Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230228T082004Z
+    - ID: "289802e0-d7e4-4835-acd8-3a33ce65654c"
+      Hint: Author
+      Value: Andrei
+    - ID: "29518b91-1130-40d8-b698-87643c4bce60"
+      Hint: PostedDate
+      Value: $date
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6a94f4f3-bbdc-41b7-a600-a7781ed4562c"
+      Hint: BlogImage
+      Value: |
+        <image mediaid="{79779BFA-CAFE-4E8B-8801-250A52223D30}" />
+    - ID: "832508b9-d188-45ce-a268-ba8010597759"
+      Hint: BlogId
+      Value: $id
+    - ID: "87c1b0f3-c391-472e-aa3a-2d409343505d"
+      Hint: AuthorWikilink
+      Value: |
+        <link text="test link" linktype="external" url="https://sitecore.stackexchange.com/questions/22639/sif-exception-cannot-validate-argument-on-parameter-path" anchor="" target="" />

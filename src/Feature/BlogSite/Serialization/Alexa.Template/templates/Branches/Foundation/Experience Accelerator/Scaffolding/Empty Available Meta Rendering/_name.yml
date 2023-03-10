@@ -1,0 +1,18 @@
+﻿---
+ID: "bc26d26d-eabf-44f0-b300-7f914b3ba10e"
+Parent: "1fbce6f0-7ac9-4d26-8625-a5d65295d8a8"
+Template: "bf70a40b-6d0e-4639-9862-24bb8946094b"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Scaffolding/Empty Available Meta Renderings/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171113T104413Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

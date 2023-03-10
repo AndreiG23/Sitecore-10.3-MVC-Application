@@ -1,0 +1,15 @@
+﻿---
+ID: "998b965e-6ab8-4568-810f-8101d60d0cc3"
+Parent: "0183133e-9e5d-47a4-8b50-8d0a3880f962"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/System/Menus/Menu item
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

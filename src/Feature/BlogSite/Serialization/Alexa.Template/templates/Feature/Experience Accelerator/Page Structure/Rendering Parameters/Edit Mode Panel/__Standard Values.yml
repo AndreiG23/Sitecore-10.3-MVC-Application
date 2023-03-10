@@ -1,0 +1,14 @@
+﻿---
+ID: "cab88be0-7669-4b88-bf4b-398fe16922fc"
+Parent: "254a8dca-4c55-47d8-912d-0609a8009bb3"
+Template: "254a8dca-4c55-47d8-912d-0609a8009bb3"
+Path: /sitecore/templates/Feature/Experience Accelerator/Page Structure/Rendering Parameters/Edit Mode Panel/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20151006T130645Z

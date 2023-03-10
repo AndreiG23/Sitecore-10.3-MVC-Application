@@ -1,0 +1,18 @@
+﻿---
+ID: "afad617b-6245-4953-85c5-47ce8de51e8a"
+Parent: "295c8b5c-13a9-4baf-96ba-d0554d413315"
+Template: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Path: /sitecore/templates/Branches/System/Email/Messages/Three Column Short/$name/Message Root/Footers/Footer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200619T091510Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

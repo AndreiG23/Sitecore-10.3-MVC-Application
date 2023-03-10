@@ -1,0 +1,25 @@
+﻿---
+ID: "2e0df5b5-d51c-4d1c-bc5c-71c6eac75989"
+Parent: "ed133836-964c-4cae-acdc-87eadc8849ef"
+Template: "ed133836-964c-4cae-acdc-87eadc8849ef"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Roots/Renderings/Radius Filter Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {DE3FA58E-EF9D-4544-9F77-DCD1DBB05B64}
+    {5DA3844C-1111-422D-A5AD-FAEF2B22EF2E}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160606T083121Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

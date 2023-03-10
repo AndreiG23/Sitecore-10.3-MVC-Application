@@ -1,0 +1,22 @@
+﻿---
+ID: "3d31398f-c8fc-46a5-b97a-4b3898752d44"
+Parent: "811ab92b-8235-4793-8424-27c53af38917"
+Template: "bb3e6dc9-97aa-47fa-a5ea-7d833a9c4cfc"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/Facets Grouping/$name/Distance
+DB: master
+SharedFields:
+- ID: "2c054663-0478-41ff-8f50-5d5d69cba936"
+  Hint: Unit
+  Value: Kilometers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170308T081602Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

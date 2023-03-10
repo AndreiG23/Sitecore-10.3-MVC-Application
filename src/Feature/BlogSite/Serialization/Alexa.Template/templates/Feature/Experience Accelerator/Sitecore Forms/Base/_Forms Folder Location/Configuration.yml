@@ -1,0 +1,14 @@
+﻿---
+ID: "27cc6925-77b4-4b9d-a1ec-45e0bda691d7"
+Parent: "75a9d420-5f3a-4ed8-9aea-f58debb74786"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Experience Accelerator/Sitecore Forms/Base/_Forms Folder Location/Configuration
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170512T121519Z

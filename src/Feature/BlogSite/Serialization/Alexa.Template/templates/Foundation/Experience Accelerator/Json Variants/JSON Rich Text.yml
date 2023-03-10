@@ -1,0 +1,27 @@
+﻿---
+ID: "2d7eb1ac-9dc7-417f-a61d-43ba1871dd85"
+Parent: "f5ffab16-5e15-448f-a4b9-70b39066d409"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Json Variants/JSON Rich Text
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/text_rich_colored.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {F69D787D-0ECF-43D3-B9CB-35B303D5233A}
+    {1E15019A-2934-4F6B-8772-84E8EA77039C}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{192A8D91-AC21-4CC3-B69F-4BD99E30DC12}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170302T070459Z

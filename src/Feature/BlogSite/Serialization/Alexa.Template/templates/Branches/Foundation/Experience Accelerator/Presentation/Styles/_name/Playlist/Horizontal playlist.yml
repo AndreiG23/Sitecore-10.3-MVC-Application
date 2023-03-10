@@ -1,0 +1,26 @@
+﻿---
+ID: "315a14f5-17ad-4a77-97c3-0b15ad940419"
+Parent: "66afacc3-0660-4f92-aa30-70dd2a69a6e2"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Presentation/Styles/$name/Playlist/Horizontal playlist
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "playlist-horizontal"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: "{F16CE601-EECF-4DFC-B278-DE5F9562551B}"
+- ID: "95579875-484e-41f0-b9c2-804eafaf3ccc"
+  Hint: IsVerifiedStyle
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150306T064114Z

@@ -1,0 +1,43 @@
+﻿@using System.Globalization
+@{
+
+}
+@model IEnumerable<Sitecore.Data.Items.Item>
+<head>
+    <link rel="stylesheet" href="~/Content/bootstrap-themed.min.css" type="text/css" />
+    <link rel="stylesheet" href="~/Content/blogsite.css" type="text/css" />
+</head>
+@RenderPage("BlogHeader.cshtml")
+<body>
+    <main role="main" class="container blog-posts">
+        <div class="main-search">
+            <div class="input-group">
+                <form class="input-group" method="get" action="@Url.Action("DoSearch", "Home")">
+                    <input type="text" name="searchString" />
+                    <button class="btn btn-dark" id="searchButton" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            @foreach (Sitecore.Data.Items.Item item in Model)
+            {
+                var mediaItem = ((Sitecore.Data.Fields.ImageField)item.Fields["Image"]).MediaItem;
+
+                var imageHtml = Sitecore.Resources.Media.MediaManager.GetMediaUrl(mediaItem);
+                var date = DateTime.ParseExact(item.Fields["CreationDate"].Value, "yyyyMMddTHHmmssZ", CultureInfo.InvariantCulture);
+                <div class="blog-post-card card col-lg-4 col-md-6">
+                    <img class="card-img-top" src="@imageHtml" alt="Card image cap" />
+                    <div class="card-body bg-light">
+                        <strong class="d-inline-block mb-2 text-success">@Html.Raw(item.Fields["Category"].Value)</strong>
+                        <h3 class="card-title">@Html.Raw(item.Fields["Title"].Value)</h3>
+                        <div class="mb-1 text-muted">@date.ToString("MMM dd, yyyy")</div>
+                        <p>@Html.Raw(item.Fields["Description"].Value)</p>
+                        <a href="@Url.Action("ReadOn","Home", new { id = item.Fields["ArticleId"].Value })" class="btn btn-warning btn-block">Read on</a>
+                    </div>
+                </div>
+            }
+        </div>
+    </main>
+</body>
+@RenderPage("BlogFooter.cshtml")

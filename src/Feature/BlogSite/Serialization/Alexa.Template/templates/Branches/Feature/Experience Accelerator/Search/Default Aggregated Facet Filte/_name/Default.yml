@@ -1,0 +1,18 @@
+﻿---
+ID: "d7a9339f-0b5e-43fc-918f-8e2527255354"
+Parent: "958cff41-f2a2-431f-af2c-ae2ca3d5d7af"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/Default Aggregated Facet Filter/$name/Default
+DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: horizontal
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160817T085911Z

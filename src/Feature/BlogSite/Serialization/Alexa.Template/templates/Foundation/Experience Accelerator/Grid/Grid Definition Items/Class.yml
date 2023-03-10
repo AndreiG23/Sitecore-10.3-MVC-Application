@@ -1,0 +1,24 @@
+﻿---
+ID: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Parent: "99ba4690-db8b-40bd-8ff2-35e5bf088ce0"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Grid/Grid Definition Items/Class
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/html_tag2.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {7E97E7AC-0C9F-4EBF-B106-CCBFE44985A4}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T081438Z

@@ -1,0 +1,28 @@
+﻿---
+ID: "ed6c1986-0873-502a-b7a3-bc16b89c12ee"
+Parent: "c1050915-b70b-5021-9fc5-8040c4a5fc37"
+Template: "4936eca2-3feb-5906-8af8-76034a989bad"
+Path: "/sitecore/content/my-alexa-jss-app/Content/Styleguide/ContentListField/Item2"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Content List Item 2 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084813Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "f17dab72-aa6d-5d1c-b8ea-b40b1bcfb7fb"
+      Hint: textField
+      Value: ContentList Demo (Shared) Item 2 Text Field

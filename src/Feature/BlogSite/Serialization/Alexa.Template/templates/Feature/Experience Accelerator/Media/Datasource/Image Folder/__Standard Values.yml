@@ -1,0 +1,25 @@
+﻿---
+ID: "e9b40df4-9a4d-4d7d-879d-5b5a84c86240"
+Parent: "861d0715-e397-4114-870a-7fbb1fe8c9d6"
+Template: "861d0715-e397-4114-870a-7fbb1fe8c9d6"
+Path: /sitecore/templates/Feature/Experience Accelerator/Media/Datasource/Image Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {BB8A85AB-1F6D-4518-8772-1C9F4F8DAC18}
+    {861D0715-E397-4114-870A-7FBB1FE8C9D6}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071508Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

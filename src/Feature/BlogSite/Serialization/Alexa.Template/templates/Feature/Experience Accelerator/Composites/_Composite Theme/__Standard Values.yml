@@ -1,0 +1,22 @@
+﻿---
+ID: "c3c7efd3-4f8c-4979-9b9b-9e88797f2d9e"
+Parent: "e34966e9-e83a-4c9c-a191-6b54b8de0254"
+Template: "e34966e9-e83a-4c9c-a191-6b54b8de0254"
+Path: /sitecore/templates/Feature/Experience Accelerator/Composites/_Composite Theme/__Standard Values
+DB: master
+SharedFields:
+- ID: "05e03a40-4b4a-4ad8-8f86-e29da6feadb3"
+  Hint: CompositeTheme
+  Value: "{837FB415-3A7C-41EA-822C-F4D742A840AA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160805T090152Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

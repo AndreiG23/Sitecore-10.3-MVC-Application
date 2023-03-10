@@ -1,0 +1,21 @@
+﻿---
+ID: "2b028690-2fe7-4ed4-8c2e-23441706c4d6"
+Parent: "371d5fbb-5498-4d94-ab2b-e3b70eebe78c"
+Template: "371d5fbb-5498-4d94-ab2b-e3b70eebe78c"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Navigation/_Navigable/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120110T113002
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

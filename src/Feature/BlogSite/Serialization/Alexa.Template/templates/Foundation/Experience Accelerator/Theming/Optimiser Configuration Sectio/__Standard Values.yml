@@ -1,0 +1,22 @@
+﻿---
+ID: "043759b2-9f80-49fe-85dd-30e98b76eed2"
+Parent: "e3ba8ca1-0b54-4e56-9e24-0e2e1d229dc1"
+Template: "e3ba8ca1-0b54-4e56-9e24-0e2e1d229dc1"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Theming/Optimiser Configuration Section/__Standard Values
+DB: master
+SharedFields:
+- ID: "c7497433-25dc-4b54-acdc-18cb68f7969a"
+  Hint: Mode
+  Value: ConcatenateAndMinify
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120123T123629
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,25 @@
+﻿---
+ID: "bb4f7f21-303b-46c1-9cb3-7477509deceb"
+Parent: "e854b5b7-510c-4b65-97f7-d483a9b54398"
+Template: "e854b5b7-510c-4b65-97f7-d483a9b54398"
+Path: /sitecore/templates/Feature/Experience Accelerator/Composites/Datasource/Snippet/Snippets Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {2B35E65C-137A-4641-B683-D223CA7CFAC0}
+    {E854B5B7-510C-4B65-97F7-D483A9B54398}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171003T090254Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

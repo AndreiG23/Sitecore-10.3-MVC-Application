@@ -1,0 +1,18 @@
+﻿---
+ID: "a68af6b3-ad9f-49c8-a6a8-776daa1e7004"
+Parent: "049bc13d-f9cb-4546-9e81-fe86884880cc"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Datasource/Page Size
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160607T162638Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

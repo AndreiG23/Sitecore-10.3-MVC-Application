@@ -1,0 +1,23 @@
+﻿---
+ID: "b553c0c6-bd1f-406b-b891-c160eb8625f4"
+Parent: "b14bab5b-8965-466b-886b-1f93175bcab3"
+Template: "b14bab5b-8965-466b-886b-1f93175bcab3"
+Path: /sitecore/templates/Feature/Experience Accelerator/Social/Settings/Social Media Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{EFAFBBF5-01A0-46D3-9F7B-E71763E7F221}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160923T120103Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

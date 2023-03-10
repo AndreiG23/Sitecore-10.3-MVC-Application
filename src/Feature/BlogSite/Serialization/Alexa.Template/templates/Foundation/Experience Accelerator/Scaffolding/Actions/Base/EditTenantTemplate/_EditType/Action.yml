@@ -1,0 +1,22 @@
+﻿---
+ID: "2f89922b-e73a-495c-9030-6d727511c40d"
+Parent: "ed18e119-680e-489b-9fef-6d8c9cdfa37c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Scaffolding/Actions/Base/EditTenantTemplate/_EditType/Action
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Edit Tenant Item
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181113T100611Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

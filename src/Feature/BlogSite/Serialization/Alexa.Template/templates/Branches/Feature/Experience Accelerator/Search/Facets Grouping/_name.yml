@@ -1,0 +1,18 @@
+﻿---
+ID: "811ab92b-8235-4793-8424-27c53af38917"
+Parent: "110e35f3-fb41-4bec-bcb3-02b7a9cebb15"
+Template: "20ef5e69-b366-4e9e-960b-e451b24dbd46"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/Facets Grouping/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160830T131825Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "319b492a-a519-44b9-ae54-845032434df4"
+Parent: "f83e50fa-251d-4051-b61e-6e2e44bfbe4d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Scaffolding/Actions/Shared/AttachThemeExtension/Extension
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171004T144110Z

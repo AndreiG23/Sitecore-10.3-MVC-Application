@@ -1,0 +1,14 @@
+﻿---
+ID: "5113500e-b4b7-4b92-83b4-c1d2b4a6e824"
+Parent: "a99d8a56-1baf-4e52-bf69-4701821443be"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Theming/HTML Includes/HTML Include/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201028T103029Z

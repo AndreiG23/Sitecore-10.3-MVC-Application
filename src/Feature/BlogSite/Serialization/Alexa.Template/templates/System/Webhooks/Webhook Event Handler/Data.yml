@@ -1,0 +1,18 @@
+﻿---
+ID: "12fd0c0d-a50b-4f5d-84a2-02e4a7fec55c"
+Parent: "f05212ce-30a7-4733-a7f4-ed6e13f26692"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Webhooks/Webhook Event Handler/Data
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210903T105038Z

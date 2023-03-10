@@ -1,0 +1,22 @@
+﻿---
+ID: "5cab521b-e457-4981-9c13-dd59fa16f5f0"
+Parent: "a0f3fefa-d89d-4f5f-9406-e9d1fa7143df"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/templates/Branches/System/Email/Messages/Right Image Block/$name
+DB: master
+SharedFields:
+- ID: "09ad7c00-a8de-46f7-bc54-e7572e38c136"
+  Hint: Body
+  Value: "{4750CE49-8AA9-4698-A52C-50ACA2620A02}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T104128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

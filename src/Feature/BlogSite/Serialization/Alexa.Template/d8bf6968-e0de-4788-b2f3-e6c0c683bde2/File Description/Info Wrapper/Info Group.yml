@@ -1,0 +1,18 @@
+﻿---
+ID: "f2df5b2e-6956-4e63-850f-78b1e0bbe42a"
+Parent: "db9e9f01-564c-483d-9ce8-b7f7f3d89a15"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/templates/Branches/Feature/Experience Accelerator/Media/Default Media Link Variant/$name/Icon-Name-Date and Download link/File Description/Info Wrapper/Info Group"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T134936Z

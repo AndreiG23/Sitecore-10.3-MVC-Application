@@ -1,0 +1,27 @@
+﻿---
+ID: "cc9c2b37-a5fd-4f6e-b6e0-63bdece3ff45"
+Parent: "08e48827-c37c-440a-9f55-a88f9da4c386"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Variants/IVariantDefinition
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/mask.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {C2EB6329-D47F-46B6-9206-2EE96487EB93}
+    {05D3365F-0159-470D-8706-3CE3465DABAD}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170220T114335Z

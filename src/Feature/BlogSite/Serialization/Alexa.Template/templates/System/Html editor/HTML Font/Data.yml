@@ -1,0 +1,14 @@
+﻿---
+ID: "f8081f9b-51f2-4e3b-9cd2-b1eb4243c1ed"
+Parent: "a87c6d3f-d797-4147-9292-899a9db561b3"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Html editor/HTML Font/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130301T153227

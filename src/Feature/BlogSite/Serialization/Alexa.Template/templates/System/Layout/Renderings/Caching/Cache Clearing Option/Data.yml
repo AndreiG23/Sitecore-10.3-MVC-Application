@@ -1,0 +1,14 @@
+﻿---
+ID: "ab7406e2-675a-4690-a076-11a73e0ac62f"
+Parent: "b94ebdb0-e246-4c32-8457-256a1776ac2c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Layout/Renderings/Caching/Cache Clearing Option/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201024T073216Z

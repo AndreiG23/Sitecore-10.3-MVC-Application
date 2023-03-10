@@ -1,0 +1,14 @@
+﻿---
+ID: "2aad9e61-1574-424e-a1bd-b5eb3781383b"
+Parent: "04129321-7708-49c1-801b-aee196e1c0a8"
+Template: "04129321-7708-49c1-801b-aee196e1c0a8"
+Path: /sitecore/templates/Feature/Experience Accelerator/Media/Datasource/File/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140527T092031

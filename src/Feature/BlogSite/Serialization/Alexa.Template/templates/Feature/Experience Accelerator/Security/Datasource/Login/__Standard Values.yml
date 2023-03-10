@@ -1,0 +1,38 @@
+﻿---
+ID: "d1fa3a92-1ed6-4ec9-8c9e-0158363967e9"
+Parent: "abed54dc-4f78-40dd-ac56-2289c9c849d8"
+Template: "abed54dc-4f78-40dd-ac56-2289c9c849d8"
+Path: /sitecore/templates/Feature/Experience Accelerator/Security/Datasource/Login/__Standard Values
+DB: master
+SharedFields:
+- ID: "82d265e1-99d0-4a5f-964f-775a14dace71"
+  Hint: DisplayRememberMe
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "129b54ab-7d51-4c6b-899c-642bb3ee4b85"
+      Hint: RememberMeLabel
+      Value: Remember Me
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130321T102100
+    - ID: "53e213e6-e020-4c32-a559-ec90b5b67179"
+      Hint: UsernameLabel
+      Value: "Username:"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "99c9fdd7-4503-489b-8a21-115b963aa341"
+      Hint: LoginButtonCaption
+      Value: Login
+    - ID: "b80f0331-68e7-4515-8485-903b5c8b2390"
+      Hint: PasswordLabel
+      Value: "Password:"
+    - ID: "bc5cd635-130e-4a03-a5d0-e1afb9ae6055"
+      Hint: FailureText
+      Value: Your login attempt was not successful. Please try again.

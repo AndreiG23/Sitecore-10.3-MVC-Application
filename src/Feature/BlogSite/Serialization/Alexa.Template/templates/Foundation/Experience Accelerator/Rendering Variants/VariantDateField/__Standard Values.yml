@@ -1,0 +1,17 @@
+﻿---
+ID: "3ff31ae2-921c-4d4a-8539-4bf8e5c90a41"
+Parent: "dc4ebc23-a470-4b5d-8df8-4a55fa823bb4"
+Template: "dc4ebc23-a470-4b5d-8df8-4a55fa823bb4"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Rendering Variants/VariantDateField/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00aa3e05-dd03-47a9-aa1b-03a4dfbb3156"
+      Hint: DateFormat
+      Value: "{8020CEEB-0CEC-42CF-BB12-834CFDA20A6D}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20141029T102403Z

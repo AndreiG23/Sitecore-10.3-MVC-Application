@@ -1,0 +1,14 @@
+﻿---
+ID: "2e7f425f-8699-475b-93ca-fbae1d052301"
+Parent: "adde8c79-cee4-41f5-adc0-3886e9d00351"
+Template: "da1cfa5b-8fab-4e8a-baa3-3b1f8d198efd"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/SearchDataFolder/$name/Search Box
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160603T084345Z

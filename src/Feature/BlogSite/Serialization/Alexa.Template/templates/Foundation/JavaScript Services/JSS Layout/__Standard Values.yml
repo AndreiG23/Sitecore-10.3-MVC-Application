@@ -1,0 +1,18 @@
+﻿---
+ID: "793a416d-adf6-4b8c-a3d8-b84e2b87637e"
+Parent: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: /sitecore/templates/Foundation/JavaScript Services/JSS Layout/__Standard Values
+DB: master
+SharedFields:
+- ID: "a036b2bc-ba04-44f6-a75f-bae6cd242abf"
+  Hint: Path
+  Value: /Views/JssApp.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170606T194207Z

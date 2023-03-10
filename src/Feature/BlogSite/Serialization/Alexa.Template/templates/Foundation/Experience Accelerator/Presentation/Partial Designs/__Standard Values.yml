@@ -1,0 +1,18 @@
+﻿---
+ID: "8d19e1db-c2ed-42ea-8700-1917af279887"
+Parent: "3b4f7e7a-9b8b-4dfd-bcdd-6add1df49613"
+Template: "3b4f7e7a-9b8b-4dfd-bcdd-6add1df49613"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Presentation/Partial Designs/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120820T112706Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

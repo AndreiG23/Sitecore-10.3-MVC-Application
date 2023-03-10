@@ -1,0 +1,18 @@
+﻿---
+ID: "63882027-3a71-4213-8f87-eaab8d350259"
+Parent: "c69ed3f6-b8f3-4962-8787-7452fec943cd"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Alexa/Setting/Header Data Section
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230302T092541Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

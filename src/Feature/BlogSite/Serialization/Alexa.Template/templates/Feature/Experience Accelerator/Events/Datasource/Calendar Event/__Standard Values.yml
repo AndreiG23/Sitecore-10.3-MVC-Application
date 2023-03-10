@@ -1,0 +1,27 @@
+﻿---
+ID: "8cc8e24a-8928-4cd0-b8cb-ba009e5c1b4d"
+Parent: "62c2b7d0-1c34-4aa6-b3d3-5d612c0891bd"
+Template: "62c2b7d0-1c34-4aa6-b3d3-5d612c0891bd"
+Path: /sitecore/templates/Feature/Experience Accelerator/Events/Datasource/Calendar Event/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fb9f55d-2c43-49c2-a61d-df8552c88c20"
+      Hint: EventName
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130402T152600
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a746e8b0-b3a9-4918-a3c6-db8977dd0da5"
+      Hint: EndLabel
+      Value: to
+    - ID: "b2acd4da-a306-460b-81dc-fe40d3461a43"
+      Hint: StartLabel
+      Value: from

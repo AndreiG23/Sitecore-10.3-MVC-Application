@@ -1,0 +1,23 @@
+﻿---
+ID: "0b2aaea5-22a7-4312-85e5-bfc67b12f318"
+Parent: "6d39afeb-15c9-4cdb-bd92-844265f8b77e"
+Template: "6d39afeb-15c9-4cdb-bd92-844265f8b77e"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Theming/Component Themes/Component Themes Configuration/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{F56166D0-5938-404F-A455-E3FB814D9EDF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200818T124025Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

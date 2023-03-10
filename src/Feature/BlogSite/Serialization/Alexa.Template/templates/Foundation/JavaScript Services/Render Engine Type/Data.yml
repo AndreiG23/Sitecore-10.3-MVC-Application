@@ -1,0 +1,14 @@
+﻿---
+ID: "b08a66de-1d55-4b7e-8059-3c560e61a942"
+Parent: "7fec3963-0ac6-4743-b02c-35e6971300ed"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/JavaScript Services/Render Engine Type/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190309T211935Z

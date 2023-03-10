@@ -1,0 +1,31 @@
+﻿---
+ID: "d8eee8e0-2f78-5f6b-aef3-e273b9f7847f"
+Parent: "20d1d568-9889-5e99-b75c-162d8866b008"
+Template: "b2644c92-9be3-5f89-a9de-1f36f5d6897f"
+Path: "/sitecore/content/my-alexa-jss-app/home/styleguide/Page Components/styleguide-jss-styleguide-section-66AF8F03-0B52-5425-A6AF-6FB54F2D64D9-0-Styleguide-Multilingual-1"
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Multilingual-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b6822ef-49ba-5072-beb3-b462965417ea"
+      Hint: heading
+      Value: Translation Patterns
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084817Z
+    - ID: "268bb2d1-7d99-58c2-9848-a6de61fa9846"
+      Hint: sample
+      Value: This text can be translated in en.yml
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"

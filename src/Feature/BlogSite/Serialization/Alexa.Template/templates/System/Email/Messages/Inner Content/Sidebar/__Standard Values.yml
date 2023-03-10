@@ -1,0 +1,25 @@
+﻿---
+ID: "a2df6c14-5dd0-4dae-8bac-4e56e66470c9"
+Parent: "05bbc0aa-69c3-4838-94b2-6a1d38961406"
+Template: "05bbc0aa-69c3-4838-94b2-6a1d38961406"
+Path: /sitecore/templates/System/Email/Messages/Inner Content/Sidebar/__Standard Values
+DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20090617T094759
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af7cd188-51b6-4f98-b8a5-7e724bee4a29"
+      Hint: Sidebar
+      Value: "<p>[Enter your sidebar text or image here]</p>"

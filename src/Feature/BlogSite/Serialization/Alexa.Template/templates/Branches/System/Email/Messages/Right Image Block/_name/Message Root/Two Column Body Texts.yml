@@ -1,0 +1,18 @@
+﻿---
+ID: "78a1aee0-0868-4c32-a8eb-9a2f8a8453f0"
+Parent: "4750ce49-8aa9-4698-a52c-50aca2620a02"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Branches/System/Email/Messages/Right Image Block/$name/Message Root/Two Column Body Texts
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 84
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200727T090146Z

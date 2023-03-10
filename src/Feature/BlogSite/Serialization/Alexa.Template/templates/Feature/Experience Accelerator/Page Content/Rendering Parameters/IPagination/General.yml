@@ -1,0 +1,18 @@
+﻿---
+ID: "5b4c97f0-6c52-42f7-a08d-cfd9ee455f19"
+Parent: "5e680478-0705-4452-a14b-42b945eb1ab6"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Experience Accelerator/Page Content/Rendering Parameters/IPagination/General
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150508T130050Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

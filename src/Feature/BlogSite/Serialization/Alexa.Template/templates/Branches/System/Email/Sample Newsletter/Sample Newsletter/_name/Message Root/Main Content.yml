@@ -1,0 +1,21 @@
+﻿---
+ID: "1edee964-f603-4216-8ddd-5e32d284d36f"
+Parent: "74d541f2-6331-442a-8cc1-49ab664f0026"
+Template: "24d19d8f-907b-47b7-9703-6174e760bd91"
+Path: /sitecore/templates/Branches/System/Email/Sample Newsletter/Sample Newsletter/$name/Message Root/Main Content
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: software/32x32/branch_delete.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160817T021853Z

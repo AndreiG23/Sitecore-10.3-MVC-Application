@@ -1,0 +1,14 @@
+﻿---
+ID: "498a0829-f86c-449f-9723-3691cbbf5035"
+Parent: "b2a1ff6c-6b1f-41ef-b2e1-aa598cf7335f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Html editor/Setting group/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130301T153227

@@ -1,0 +1,23 @@
+﻿---
+ID: "9692e382-26f6-4345-a193-6743695be233"
+Parent: "10c95167-16e8-44c3-bf32-92715cc632ce"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/templates/Branches/Foundation/Experience Accelerator/Presentation/Styles/$name/Flip transition/flip-vertical"
+DB: master
+SharedFields:
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: "{00C953FE-D508-4836-96A4-CF60887AE5F1}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Rotate vertically
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150306T064118Z

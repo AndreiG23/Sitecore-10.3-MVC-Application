@@ -1,0 +1,18 @@
+﻿---
+ID: "7dd9ac3d-57e6-4247-a60c-5e5310e81487"
+Parent: "430e92e0-6a2c-42f7-a5f4-51547d31934d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Json Variants/JSON File/Variant details
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/gears.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170302T071034Z

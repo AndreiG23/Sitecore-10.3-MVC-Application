@@ -1,0 +1,22 @@
+﻿---
+ID: "2bb25752-b3bc-4f13-b9cb-38b906d21a33"
+Parent: "be627cf4-3a79-4743-b0c8-3ab88cde1708"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Multisite/Base/_Base Site Definition
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{29E7FF4A-AF05-4BE9-836C-77719E09D039}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181113T131352Z

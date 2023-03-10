@@ -1,0 +1,21 @@
+﻿---
+ID: "125a6c41-19b0-4455-9935-143024074a54"
+Parent: "bd75aff8-0e85-4013-af3b-7187e8b952f0"
+Template: "6042e216-f650-447c-86d1-00fea97454e7"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Taxonomy/Facets Grouping/SxaTags
+DB: master
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: SxaTags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160830T132008Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: SxaTags

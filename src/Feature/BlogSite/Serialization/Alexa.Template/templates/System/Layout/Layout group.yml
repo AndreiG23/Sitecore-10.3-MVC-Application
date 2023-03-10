@@ -1,0 +1,15 @@
+﻿---
+ID: "85b7f5d9-6f3a-4ad1-b218-d9fbe1df8bb3"
+Parent: "fb6b721e-d64d-4392-a1f0-a15194cbfad9"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/System/Layout/Layout group
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

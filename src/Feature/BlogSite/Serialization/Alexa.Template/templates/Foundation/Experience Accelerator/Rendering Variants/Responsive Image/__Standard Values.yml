@@ -1,0 +1,22 @@
+﻿---
+ID: "98eb1c91-3e37-4bbe-a9d4-5b651f8ce9f6"
+Parent: "070a64fa-5f1b-40cc-83cb-3ce05d1895fc"
+Template: "070a64fa-5f1b-40cc-83cb-3ce05d1895fc"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Rendering Variants/Responsive Image/__Standard Values
+DB: master
+SharedFields:
+- ID: "df178dc4-b83d-46ec-8d4f-9de85e2c996c"
+  Hint: FieldName
+  Value: $name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180515T123549Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

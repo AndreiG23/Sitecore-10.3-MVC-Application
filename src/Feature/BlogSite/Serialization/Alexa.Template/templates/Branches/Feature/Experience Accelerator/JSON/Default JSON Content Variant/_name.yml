@@ -1,0 +1,14 @@
+﻿---
+ID: "74e4a451-8104-4479-9e71-2fe0a46e22dd"
+Parent: "1c28cde5-00f2-4392-833f-674b06bc9c67"
+Template: "4c1dc3cf-36d2-4484-ba4e-40af34d01e95"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/JSON/Default JSON Content Variant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170223T085300Z

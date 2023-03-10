@@ -1,0 +1,14 @@
+﻿---
+ID: "46d9552c-e3c8-4fac-8cce-3eb3c55cfb06"
+Parent: "a825775a-f3bb-4c91-9341-5a0d1314131d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Grid/Grid Definition Items/Device children/Checkbox/Grid Parameter
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T083527Z

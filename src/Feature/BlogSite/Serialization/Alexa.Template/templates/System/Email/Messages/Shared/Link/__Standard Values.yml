@@ -1,0 +1,22 @@
+﻿---
+ID: "ab8924ad-f964-4c31-948b-28e24908b7b9"
+Parent: "3a4370c4-fee9-49c9-9014-4d0595d6d721"
+Template: "3a4370c4-fee9-49c9-9014-4d0595d6d721"
+Path: /sitecore/templates/System/Email/Messages/Shared/Link/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/form_blue_delete.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160816T055436Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

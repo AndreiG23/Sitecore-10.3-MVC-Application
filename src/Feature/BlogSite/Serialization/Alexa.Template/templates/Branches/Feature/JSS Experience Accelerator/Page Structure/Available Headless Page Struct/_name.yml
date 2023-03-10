@@ -1,0 +1,23 @@
+﻿---
+ID: "5c3dafa2-8f50-485f-acb1-22e3a492e86d"
+Parent: "7f2cd90a-5812-48f4-a0d2-cbe2f7e5ca25"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Page Structure/Available Headless Page Structure Renderings/$name
+DB: master
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211028T135230Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

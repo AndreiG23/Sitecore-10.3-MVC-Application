@@ -1,0 +1,29 @@
+﻿---
+ID: "f8769c40-6188-46dc-aa90-aa9c0a4565ad"
+Parent: "bab5890a-873a-4eba-82f5-4900f0abb50d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/System/Email/Common Template/Parameter Templates/Call To Action
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {F44C941C-5DED-4C14-860B-B42060EFB99C}
+    {C9EFAB00-E3A8-41F2-94DD-9983AAFA641E}
+    {DD4A6200-E68C-4C4D-9CBF-32C0A12B3B60}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{B9C1A064-BFDE-43AB-A4C9-CA3D544B00E4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200313T093416Z

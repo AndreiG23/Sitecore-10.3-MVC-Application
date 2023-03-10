@@ -1,0 +1,18 @@
+﻿---
+ID: "fd353bd9-a0c2-48f0-bcbb-2996da036089"
+Parent: "e24de305-c60f-47d1-97c0-de121d6831d0"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Presentation/CacheSetting/Caching
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171206T112813Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

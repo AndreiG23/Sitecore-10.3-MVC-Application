@@ -1,0 +1,22 @@
+﻿---
+ID: "c1967a7a-e9f1-5847-b5b8-52f4b2f04ea5"
+Parent: "a23f3d08-22b1-5e2a-95cf-30d99aeeb8b9"
+Template: "a23f3d08-22b1-5e2a-95cf-30d99aeeb8b9"
+Path: "/sitecore/templates/Project/my-alexa-jss-app/Styleguide-FieldUsage-Checkbox/__Standard Values"
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084800Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

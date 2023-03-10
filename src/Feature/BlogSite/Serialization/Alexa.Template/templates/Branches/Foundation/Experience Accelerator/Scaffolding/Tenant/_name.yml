@@ -1,0 +1,14 @@
+﻿---
+ID: "0e06f4b3-cb34-49fb-8c92-3cc8eea14119"
+Parent: "9a4aad67-383b-4504-93b9-d3502be2b59d"
+Template: "215f8c54-68b3-4481-a20b-a5716f06081f"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Scaffolding/Tenant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160628T090431Z

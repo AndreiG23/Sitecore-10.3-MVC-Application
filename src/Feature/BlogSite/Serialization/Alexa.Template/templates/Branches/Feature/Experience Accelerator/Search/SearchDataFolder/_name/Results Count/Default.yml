@@ -1,0 +1,14 @@
+﻿---
+ID: "a3f9e079-4c43-4680-9496-1c610006a6a0"
+Parent: "1ec5cb3e-f19c-4f52-8e99-a48521584c0a"
+Template: "f3c0661e-f9a9-444c-a26d-44bf2a68a186"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/SearchDataFolder/$name/Results Count/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160606T090452Z

@@ -1,0 +1,23 @@
+﻿---
+ID: "52910af4-5d9a-4afa-bfcb-d0b89f62bc7c"
+Parent: "b91811f1-fa8b-47f8-b131-bd2c6d5ec805"
+Template: "b91811f1-fa8b-47f8-b131-bd2c6d5ec805"
+Path: /sitecore/templates/Foundation/JSS Experience Accelerator/Multisite/Headless Tenant/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{CE91FBD6-4D89-42C9-B5BC-2A670439E1FF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181113T120516Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "34e91a5a-de18-4532-bbd4-6f3248a901c4"
+Parent: "56df23c8-35ea-4c41-aba4-2ab7ec2fc80c"
+Template: "56df23c8-35ea-4c41-aba4-2ab7ec2fc80c"
+Path: /sitecore/templates/Feature/Experience Accelerator/Social/Rendering Parameters/Social Media Share/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120809T151900

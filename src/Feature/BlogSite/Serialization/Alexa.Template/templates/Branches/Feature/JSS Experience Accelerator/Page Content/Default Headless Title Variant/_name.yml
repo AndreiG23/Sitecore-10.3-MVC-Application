@@ -1,0 +1,14 @@
+﻿---
+ID: "defc0749-9211-4abd-b0cc-08fc55fd7d0b"
+Parent: "3f7de82f-366f-4708-a1fe-9b0a42862492"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Page Content/Default Headless Title Variant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211020T135004Z

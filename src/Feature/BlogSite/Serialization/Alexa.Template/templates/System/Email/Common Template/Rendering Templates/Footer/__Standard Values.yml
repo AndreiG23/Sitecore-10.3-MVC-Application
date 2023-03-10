@@ -1,0 +1,26 @@
+﻿---
+ID: "e17081f8-0af3-44f4-99af-5f7d677cb636"
+Parent: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Template: "45fa579c-efe8-4a02-b3f0-9da81e6f7aa0"
+Path: /sitecore/templates/System/Email/Common Template/Rendering Templates/Footer/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{F0818351-EED1-453E-8325-684EEB1A827A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06d4c9ad-7ab0-40c8-a73b-3e0685f809c3"
+      Hint: Content
+      Value: Use this area to provide any legal information required by your region’s&nbsp;legislation.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160816T055039Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

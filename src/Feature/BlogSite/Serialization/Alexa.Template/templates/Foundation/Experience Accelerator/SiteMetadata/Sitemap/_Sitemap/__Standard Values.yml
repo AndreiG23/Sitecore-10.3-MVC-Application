@@ -1,0 +1,25 @@
+﻿---
+ID: "44287e81-a266-4168-b20c-57da7c17bdd4"
+Parent: "4414a1f9-826a-4647-8df4-ed6a95e64c43"
+Template: "4414a1f9-826a-4647-8df4-ed6a95e64c43"
+Path: /sitecore/templates/Foundation/Experience Accelerator/SiteMetadata/Sitemap/_Sitemap/__Standard Values
+DB: master
+SharedFields:
+- ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+  Hint: ChangeFrequency
+  Value: "{D23B4654-53A5-4589-8B1B-5665A763D144}"
+- ID: "76fb6ffd-4487-4028-a1cf-705fbe360cba"
+  Hint: Priority
+  Value: "{19F3E919-4991-495F-9207-E1DADFD06F54}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160504T084246Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

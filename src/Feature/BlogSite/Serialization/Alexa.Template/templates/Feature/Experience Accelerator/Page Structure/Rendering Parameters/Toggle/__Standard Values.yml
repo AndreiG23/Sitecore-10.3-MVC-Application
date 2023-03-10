@@ -1,0 +1,21 @@
+﻿---
+ID: "a5eb3e21-c147-4e22-a56e-72861900d70d"
+Parent: "8e4c968e-9fa5-43a8-9ac4-c0baf273ccde"
+Template: "8e4c968e-9fa5-43a8-9ac4-c0baf273ccde"
+Path: /sitecore/templates/Feature/Experience Accelerator/Page Structure/Rendering Parameters/Toggle/__Standard Values
+DB: master
+SharedFields:
+- ID: "024facfd-f2c9-484e-822c-151a71751456"
+  Hint: EasingFunction
+  Value: Swing
+- ID: "a1d8f373-e390-4054-9289-f3a5cc4a51e4"
+  Hint: Speed
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120619T150700

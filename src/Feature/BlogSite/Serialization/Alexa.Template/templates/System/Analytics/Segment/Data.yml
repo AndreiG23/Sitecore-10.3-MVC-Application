@@ -1,0 +1,14 @@
+﻿---
+ID: "5c4fd57d-f6e2-4cc5-8de3-02075a96c0e3"
+Parent: "95d4ed35-1e47-48e9-95db-de0614a0e86c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Analytics/Segment/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170131T105436Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "ca0e321c-b494-41ad-91c1-da48db6eb717"
+Parent: "ddbf2157-9504-4726-a85e-60450b448008"
+Template: "ddbf2157-9504-4726-a85e-60450b448008"
+Path: /sitecore/templates/System/Email/Common Template/Rendering Templates/Basic/Content/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200309T114713Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

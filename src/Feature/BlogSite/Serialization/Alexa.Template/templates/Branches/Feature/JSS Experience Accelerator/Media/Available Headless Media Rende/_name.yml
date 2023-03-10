@@ -1,0 +1,23 @@
+﻿---
+ID: "a2c2e7ad-2885-48fb-be23-052c4c5f5cc4"
+Parent: "80a19fb5-570d-4b16-94cf-6d294ddc78ec"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Media/Available Headless Media Renderings/$name
+DB: master
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211026T075600Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

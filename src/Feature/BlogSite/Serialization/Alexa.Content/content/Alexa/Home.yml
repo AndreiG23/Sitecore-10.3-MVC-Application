@@ -1,0 +1,49 @@
+﻿---
+ID: "e26399f2-94cd-4bbc-8404-0b1cb18c2a12"
+Parent: "f4f6ed72-1cc8-45f8-935b-c431713ecfdf"
+Template: "5a6263cf-997f-41f1-a5e3-304d447e6286"
+Path: /sitecore/content/Alexa/Home
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{53890A4C-9F17-49B8-A451-450AF8D5FDF5}"
+          p:after="r[@uid='{982E9E1F-E7F2-4C04-BBD9-D2F67F4AB71C}']"
+          s:id="{EE075EA4-5E0F-4456-99BA-E6995EE10546}"
+          s:ph="phMain" />
+        <r
+          uid="{9976BA8F-41B9-42D5-856B-27A4046D015B}"
+          p:after="r[@uid='{53890A4C-9F17-49B8-A451-450AF8D5FDF5}']"
+          s:id="{ED88B6EA-2613-498F-8CBC-803F7C48AA95}"
+          s:ph="phMain" />
+        <r
+          uid="{F17D58CF-E69D-482E-B1D1-E28C5F4E6BC0}"
+          p:after="*[1=2]"
+          s:id="{55983873-2EB9-41A5-BC30-81B92C0F9FFB}"
+          s:ph="phMain" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12d6cac4-9ac1-447a-b685-7bc3f11c8503"
+      Hint: Title
+      Value: Home page for Alexa website
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230301T130754Z
+    - ID: "29518b91-1130-40d8-b698-87643c4bce60"
+      Hint: PostedDate
+      Value: 20230301T000000Z
+    - ID: "832508b9-d188-45ce-a268-ba8010597759"
+      Hint: BlogId
+      Value: "{E26399F2-94CD-4BBC-8404-0B1CB18C2A12}"

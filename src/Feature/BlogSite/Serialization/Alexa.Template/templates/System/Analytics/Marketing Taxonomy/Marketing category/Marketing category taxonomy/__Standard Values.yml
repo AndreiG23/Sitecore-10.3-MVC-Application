@@ -1,0 +1,19 @@
+﻿---
+ID: "4d493d37-d061-4488-9c88-102715205eac"
+Parent: "ac2d7b26-4a83-404b-b50a-0292f29a438f"
+Template: "ac2d7b26-4a83-404b-b50a-0292f29a438f"
+Path: /sitecore/templates/System/Analytics/Marketing Taxonomy/Marketing category/Marketing category taxonomy/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{4BF0A7E0-784D-4625-B3C2-234483D34A1A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180316T134657Z

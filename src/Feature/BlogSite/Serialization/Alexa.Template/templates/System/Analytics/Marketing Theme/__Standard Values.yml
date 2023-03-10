@@ -1,0 +1,18 @@
+﻿---
+ID: "ae58ae44-4e29-4d9e-82a1-29ec6a013095"
+Parent: "6231ce44-8c45-47c1-9c82-68d45f9ccde7"
+Template: "6231ce44-8c45-47c1-9c82-68d45f9ccde7"
+Path: /sitecore/templates/System/Analytics/Marketing Theme/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180226T053937Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

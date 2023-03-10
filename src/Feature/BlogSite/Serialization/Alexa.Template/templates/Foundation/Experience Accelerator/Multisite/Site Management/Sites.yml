@@ -1,0 +1,14 @@
+﻿---
+ID: "61d55a3b-201a-4c17-8e94-216c118b561a"
+Parent: "85486be1-a56f-4b9b-aa55-19706e534388"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Multisite/Site Management/Sites
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170525T072122Z

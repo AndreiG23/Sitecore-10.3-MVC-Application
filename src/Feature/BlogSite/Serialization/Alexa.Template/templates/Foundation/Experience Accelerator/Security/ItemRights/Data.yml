@@ -1,0 +1,14 @@
+﻿---
+ID: "591d6589-7d94-4dc8-873e-af8c4eab3cc8"
+Parent: "47946f47-73ff-4531-8e8e-66ae7c0147e3"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Security/ItemRights/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170404T140001Z

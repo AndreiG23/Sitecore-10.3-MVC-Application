@@ -1,0 +1,41 @@
+﻿@using System.Globalization;
+@model Sitecore.Data.Items.Item
+@{
+    var mediaItem = ((Sitecore.Data.Fields.ImageField)Model.Fields["Image"]).MediaItem;
+
+    var imageHtml = Sitecore.Resources.Media.MediaManager.GetMediaUrl(mediaItem);
+
+    var item = Sitecore.Context.Database.GetItem("{54A24FAA-85D1-4157-BD84-9ADEDB81D940}");
+    var url = Sitecore.Links.LinkManager.GetItemUrl(item);
+    var date = DateTime.ParseExact(Model.Fields["CreationDate"].Value, "yyyyMMddTHHmmssZ", CultureInfo.InvariantCulture);
+}
+
+<head>
+    <link rel="stylesheet" href="~/Content/bootstrap-themed.min.css" type="text/css" />
+    <link rel="stylesheet" href="~/Content/blogsite.css" type="text/css" />
+</head>
+<body>
+    @RenderPage("BlogHeader.cshtml")
+    <main role="main" class="container blog-post-detail">
+        <div class="row">
+            <div class="blog-post-detail-card card col-lg-12">
+
+                <img class="card-img-top" src="@imageHtml" alt="Card image cap">
+                <div class="card-body bg-light">
+                    <strong class="d-inline-block mb-2 text-success">@Html.Raw(Model.Fields["Category"].Value)</strong>
+                    <h3 class="card-title">@Html.Raw(Model.Fields["Title"].Value)</h3>
+                    <div class="mb-1 text-muted">@date.ToString("MMM dd, yyyy")</div>
+                    <p>@Html.Raw(Model.Fields["Content"].Value)</p>
+                    <div class="blog-detail-tag-list">
+                        <span class="read-more-heading">Read more: </span>
+                        @foreach (var tag in Model.Fields["Tags"].Value.Split(','))
+                        {
+                            <a class="btn btn-info" href="#" role="button">@tag</a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    @RenderPage("BlogFooter.cshtml")
+</body>

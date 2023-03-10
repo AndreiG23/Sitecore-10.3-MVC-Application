@@ -1,0 +1,14 @@
+﻿---
+ID: "56c0f743-f55c-49a8-8e6c-0d5284969c04"
+Parent: "48fb6b99-2593-46ef-9c46-86e51e434da2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Experience Accelerator/JSON/Rendering Parameters/JSONResults/Search Criteria
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170309T131436Z

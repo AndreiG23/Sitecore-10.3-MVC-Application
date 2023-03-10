@@ -1,0 +1,88 @@
+﻿---
+ID: "91202cf1-2802-4d43-b210-37452263c1d1"
+Parent: "60cafb1c-44c0-4aba-a99e-47a6957a7b85"
+Template: "3f12d78c-b7b7-4157-98fc-da3322ee1a5b"
+Path: /sitecore/templates/Branches/System/Email/Messages/Two Column One CTA/$name/Message Root
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: software/32x32/branch.png
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{7AE92CCA-8C93-491E-92A0-F25222C9746B}">
+        <r
+          ds=""
+          id="{69EB7A6D-ACEF-4D06-A923-804918AA245E}"
+          par=""
+          ph="head-area"
+          uid="{526AFB07-CE11-43CC-A8A1-4B906BC54FE6}" />
+        <r
+          cac="1"
+          ds="{D1E970D4-0BA3-4886-9DD2-3DBB461803D0}"
+          id="{B86B69EC-4AF3-4F92-94F8-8DC2F06CB5FB}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Link Color=%23232323&amp;Align=center&amp;Padding=30px%2020px"
+          ph="preview-area"
+          uid="{F7830882-B123-4DC2-9015-934B5FBDFD08}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{F8D89B3F-F5CC-451F-B974-E9D7F6F58043}"
+          id="{027661AA-FEE2-4401-9D9A-207A3FCED8E8}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Align=center&amp;Padding"
+          ph="header-area"
+          uid="{2DEB425B-B7E2-48A3-8C54-39BCD332A958}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{1423A4B6-8B27-4A85-A284-C7B0D417B5C1}"
+          id="{DABFE2BE-8343-450D-85F4-0C05511ADF71}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Heading Font Color=%23232323&amp;Align=center&amp;Padding=30px%2020px%2030px"
+          ph="header-area"
+          uid="{5B6F31D5-7037-4F47-A976-CAE67BA68076}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{E68A3172-A6A3-4F03-A1D1-93126257F88B}"
+          id="{426365ED-7CB5-4DF3-8CA9-000276E5ACC5}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Heading Font Color=%23232323&amp;Align=center&amp;Padding=0px%2020px%2030px"
+          ph="body-area"
+          uid="{E858E3DF-795B-4DAF-9570-4136085BE5CA}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{0095CEA4-CC92-425D-99CF-A562E4FE6F9C}"
+          id="{2A517EBD-B1B9-4887-9FE5-5D0773F7B2C7}"
+          par="Background Color=%23fff&amp;Content Font Color=%23232323&amp;Link Color=%23999&amp;Button Color=%23232323&amp;Align=center&amp;Padding=0px%2020px%2030px"
+          ph="body-area"
+          uid="{16F634E8-9163-4259-BE1B-B4F48C4DC0C2}"
+          vbd="1"
+          vbp="1" />
+        <r
+          cac="1"
+          ds="{79A0BF63-7963-49C8-9D0D-B032C21A792C}"
+          id="{38788088-93B0-4FB6-A80A-F47BD8D37694}"
+          par="Background Color=%23232323&amp;Content Font Color=%23999&amp;Link Color=%23999&amp;Align=center&amp;Padding"
+          ph="footer-area"
+          uid="{786CC98E-C1C7-41AA-8E4A-685560DE6E41}"
+          vbd="1"
+          vbp="1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T072928Z

@@ -1,0 +1,30 @@
+﻿---
+ID: "a3f0a8ef-d064-4366-84da-c5ad63a68ad5"
+Parent: "26bf5be6-815d-4078-98bf-ab66b82d2171"
+Template: "26bf5be6-815d-4078-98bf-ab66b82d2171"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Presentation/Presentation/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {39A9ED72-407D-4440-BA50-30956834794E}
+    {4A27A071-4D99-408F-B97E-2C9852C8D137}
+    {3B4F7E7A-9B8B-4DFD-BCDD-6ADD1DF49613}
+    {C6DC7393-15BB-4CD7-B798-AB63E77EBAC4}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120820T112600Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

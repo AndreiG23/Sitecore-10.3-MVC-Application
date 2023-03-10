@@ -1,0 +1,14 @@
+﻿---
+ID: "ab83cfa9-a2b0-4533-8727-922eee13dda4"
+Parent: "e83e0792-d9be-49d8-b7e2-80a6cc2d1836"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/List Manager/ListOperation/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170414T143916Z

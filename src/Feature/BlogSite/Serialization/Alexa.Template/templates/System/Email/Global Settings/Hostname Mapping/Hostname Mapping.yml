@@ -1,0 +1,14 @@
+﻿---
+ID: "e0edecef-854f-4d6f-add1-7bee6ac86d8c"
+Parent: "ca1fd6e7-3bb6-4d94-8b25-e888507c99fb"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Email/Global Settings/Hostname Mapping/Hostname Mapping
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170111T122703Z

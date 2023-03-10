@@ -1,0 +1,32 @@
+﻿---
+ID: "e91d6dfd-b8dc-495e-907e-a0f335d5a426"
+Parent: "332ab172-c3a3-4a20-a34c-cdae11057608"
+Template: "332ab172-c3a3-4a20-a34c-cdae11057608"
+Path: /sitecore/templates/System/Email/Messages/Shared/Footer/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{F0818351-EED1-453E-8325-684EEB1A827A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "203ada9f-bb07-4f39-b53c-65301a538423"
+      Hint: Legal Footer Text
+      Value: Copyright (c) Sitecore
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160816T055039Z
+    - ID: "332bbfbb-47b2-4fde-9ea3-db800b586437"
+      Hint: Font Color
+      Value: #000
+    - ID: "4ba95567-e774-48a4-967a-1bdebf71b7e1"
+      Hint: Background Color
+      Value: #FFF
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

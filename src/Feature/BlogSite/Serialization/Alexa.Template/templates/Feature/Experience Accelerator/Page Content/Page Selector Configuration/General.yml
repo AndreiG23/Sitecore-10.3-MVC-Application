@@ -1,0 +1,18 @@
+﻿---
+ID: "af99c4ef-f0ff-4ce1-a6d6-524bafa739ef"
+Parent: "458a37ba-8222-4182-86e5-e086cfcdad5c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Experience Accelerator/Page Content/Page Selector Configuration/General
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/gear.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140818T151531

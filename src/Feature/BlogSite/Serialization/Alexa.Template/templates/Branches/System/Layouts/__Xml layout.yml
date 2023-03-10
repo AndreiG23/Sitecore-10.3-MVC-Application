@@ -1,0 +1,18 @@
+﻿---
+ID: "315ae2f1-4c23-4341-82b7-63df7683162c"
+Parent: "bcd8eb24-4d10-4a47-acf8-64f93a0f3740"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Branches/System/Layouts/__Xml layout
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20070727T110621
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

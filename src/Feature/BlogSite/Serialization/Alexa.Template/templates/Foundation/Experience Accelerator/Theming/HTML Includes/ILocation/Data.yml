@@ -1,0 +1,14 @@
+﻿---
+ID: "f320563b-8038-4a15-93a6-5e721781e128"
+Parent: "85e83b3a-3474-4aed-a6de-a219bd9e39b8"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Theming/HTML Includes/ILocation/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201028T100911Z

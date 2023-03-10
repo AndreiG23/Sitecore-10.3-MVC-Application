@@ -1,0 +1,40 @@
+﻿---
+ID: "f9290b2f-1578-40a3-bbe2-a692bd50d7de"
+Parent: "f7653f31-6f17-4daa-9217-8e116babc927"
+Template: "f7653f31-6f17-4daa-9217-8e116babc927"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Theming/Theme/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {536EF8AE-E6DF-4AED-BD84-1F18DE8CEBF7}
+    {9C0DAC28-08AA-4B44-BC21-53363206F6A5}
+    {0FBEBDBC-55B4-4883-90DF-29906DB4EB47}
+    {FE5DD826-48C6-436D-B87A-7C4210C7413B}
+    {DCE12AF7-5462-45A9-9F70-6D3E2B1A5440}
+- ID: "384c2d3c-3e34-4493-9cb2-ade68caf0da2"
+  Hint: BaseLayout
+  Type: Treelist
+  Value: |
+    {05BFBCDF-4DA5-414A-8651-A221AB3F5F0F}
+    {9C1D66B3-6828-4759-9EEC-D68A7A2CE248}
+- ID: "3dd034f9-d8d7-49c8-8fe7-ff09e18a2be3"
+  Hint: Viewport
+  Value: "width=device-width, initial-scale=1"
+- ID: "4a41457a-841a-4772-b26f-d4b10cd96db4"
+  Hint: PlaceholderSettings
+  Value: "%7b76CE8BD6-2A35-4800-AD50-8668C65426E9%7d%3d%257B549021D8-F27F-4217-805C-20D686E470D9%257D%26%7b862BE8D1-AE2F-40DE-ABF9-43D741C35C32%7d%3d%257B549021D8-F27F-4217-805C-20D686E470D9%257D%26%7bBA2081A2-C749-4B1A-B7A3-84C23283657A%7d%3d%257B549021D8-F27F-4217-805C-20D686E470D9%257D"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160712T080135Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

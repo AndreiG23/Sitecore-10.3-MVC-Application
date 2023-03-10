@@ -1,0 +1,18 @@
+﻿---
+ID: "45c5270e-0cec-4111-9c74-063e18d47c93"
+Parent: "4ac2ec48-5300-4f17-8319-12c350bc1771"
+Template: "4ac2ec48-5300-4f17-8319-12c350bc1771"
+Path: /sitecore/templates/Feature/Experience Accelerator/Search/Rendering Parameters/Range Slider Filter/__Standard Values
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140806T121910

@@ -1,0 +1,28 @@
+﻿---
+ID: "a07ebed0-f3a5-4d78-b879-57c3efb8dc22"
+Parent: "b7f764a3-ad45-4666-a169-0c5a836d8ae2"
+Template: "b7f764a3-ad45-4666-a169-0c5a836d8ae2"
+Path: /sitecore/templates/Feature/Experience Accelerator/Social/Datasource/Feed/__Standard Values
+DB: master
+SharedFields:
+- ID: "ce0fae5a-7e2c-48be-aa15-12f0d55c582f"
+  Hint: ItemsNumber
+  Value: 1
+- ID: "ed0adccf-7ed0-407e-b42a-f3f8766ae53f"
+  Hint: CacheInterval
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120803T095400
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "fefb37df-0883-4714-b7fc-607b5ada8908"
+      Hint: Title
+      Value: $name

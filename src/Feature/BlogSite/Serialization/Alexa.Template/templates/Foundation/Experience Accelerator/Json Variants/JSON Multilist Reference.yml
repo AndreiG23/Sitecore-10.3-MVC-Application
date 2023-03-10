@@ -1,0 +1,25 @@
+﻿---
+ID: "61b57d28-b376-4584-af5f-f55279bce6dd"
+Parent: "f5ffab16-5e15-448f-a4b9-70b39066d409"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Json Variants/JSON Multilist Reference
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/graph_connection_directed.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {C4D4361B-87CE-4640-A2C4-554838E0E417}
+    {1E15019A-2934-4F6B-8772-84E8EA77039C}
+    {F2E87B7C-1567-453C-BE29-8E3C24119070}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170223T135805Z

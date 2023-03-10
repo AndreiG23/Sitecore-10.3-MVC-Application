@@ -1,0 +1,23 @@
+﻿---
+ID: "795e0ddd-d4b2-47ba-90e2-5f1844720f25"
+Parent: "bca87769-ed10-4622-b84d-1c879c8253ee"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Experience Accelerator/JSON/CORS/_CORS/CORS
+DB: master
+SharedFields:
+- ID: "e2e2b75d-a2f7-4075-bde2-d13306e9e350"
+  Hint: Collapsed by Default
+  Type: checkbox
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: CORS
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170505T071528Z

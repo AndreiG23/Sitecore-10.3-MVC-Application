@@ -1,0 +1,21 @@
+﻿---
+ID: "70bb0cec-70e2-48ba-bf04-f2e9b9bb3264"
+Parent: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Template: "37fdae00-3647-421e-88e2-6ca1ef2b5249"
+Path: /sitecore/templates/System/Email/Common Template/Rendering Templates/Preview/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06d4c9ad-7ab0-40c8-a73b-3e0685f809c3"
+      Hint: Content
+      Value: |
+        This is your preview text.<span class="em_mob_block"></span> Add information about your email&nbsp;here.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200309T115629Z
+    - ID: "3248cf8b-967a-4ec8-87c1-c52d9a31206c"
+      Hint: Link text
+      Value: To view this email in a browser, click here

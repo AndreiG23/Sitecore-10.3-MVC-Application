@@ -1,0 +1,23 @@
+﻿---
+ID: "8c2493a2-e658-4fef-91c0-c465cfde7080"
+Parent: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Page Branches/Page Branches Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{FBC802E5-4B9E-480F-93DA-3F2A80CAE5CB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201006T102806Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

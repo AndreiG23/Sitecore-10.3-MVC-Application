@@ -1,0 +1,22 @@
+﻿---
+ID: "d3754833-f903-47fe-a491-dedd1ac66e78"
+Parent: "f2620263-cd63-4013-9cf9-171fdf2d7ecc"
+Template: "f2620263-cd63-4013-9cf9-171fdf2d7ecc"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Theming/Compatibility Mode/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/plug2.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111214T105542
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

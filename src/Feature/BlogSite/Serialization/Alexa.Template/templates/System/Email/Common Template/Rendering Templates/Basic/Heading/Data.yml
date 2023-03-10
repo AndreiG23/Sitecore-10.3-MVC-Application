@@ -1,0 +1,14 @@
+﻿---
+ID: "7753beba-49bd-4024-8b83-0a726c1da362"
+Parent: "a838b154-aa98-428f-9cbc-13cee8baac4f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Email/Common Template/Rendering Templates/Basic/Heading/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200309T112236Z

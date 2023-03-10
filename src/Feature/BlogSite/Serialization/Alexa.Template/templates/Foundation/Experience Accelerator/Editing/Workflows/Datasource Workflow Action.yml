@@ -1,0 +1,25 @@
+﻿---
+ID: "def0aa0d-3446-41ae-b307-ec7ba429ce50"
+Parent: "78ae4196-397c-4807-ab79-d8e2ad888df5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Editing/Workflows/Datasource Workflow Action
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/graph_fork2.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{66882E97-C8AA-4E37-8901-7A8AA35ED2ED}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{CC197E2E-4769-499D-83CF-5C1A81251EFF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T083058Z

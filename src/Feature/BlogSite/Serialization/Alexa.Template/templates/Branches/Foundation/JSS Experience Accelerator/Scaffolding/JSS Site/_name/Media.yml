@@ -1,0 +1,14 @@
+﻿---
+ID: "a7f39ea2-9018-4622-891d-cb65627e5af2"
+Parent: "a0eecf65-09ad-4a10-ae46-7df70106cfe6"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/templates/Branches/Foundation/JSS Experience Accelerator/Scaffolding/JSS Site/$name/Media
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160624T111351Z

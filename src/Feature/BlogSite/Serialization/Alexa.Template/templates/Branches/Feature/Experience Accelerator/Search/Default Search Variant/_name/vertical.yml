@@ -1,0 +1,18 @@
+﻿---
+ID: "05ed7b72-651e-4951-8ec8-0cd9045728b0"
+Parent: "43418da2-b7b0-4f03-8bee-22cac64771d2"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/Default Search Variant/$name/vertical
+DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: vertical
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160817T085911Z

@@ -1,0 +1,23 @@
+﻿---
+ID: "82638fab-a0c8-4549-8a50-6f9001f8bf40"
+Parent: "4f539f2e-9cf9-4453-8e82-3d13ded12ab3"
+Template: "4f539f2e-9cf9-4453-8e82-3d13ded12ab3"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Multisite/Tenant Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{4F539F2E-9CF9-4453-8E82-3D13DED12AB3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150416T124121Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "514f355c-abf7-484e-b589-c8ad2e65e770"
+Parent: "2f0d058f-812e-475b-992b-ecf97933f2a1"
+Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
+Path: "/sitecore/templates/Branches/Feature/Experience Accelerator/Media/Default Media Link Variant/$name/Icon-Name-Date and Download link/File Description/File/FileTypeIcon"
+DB: master
+SharedFields:
+- ID: "3a4dd4df-8d32-405f-831a-39f87a550085"
+  Hint: Token
+  Value: $FileTypeIcon
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161005T103101Z

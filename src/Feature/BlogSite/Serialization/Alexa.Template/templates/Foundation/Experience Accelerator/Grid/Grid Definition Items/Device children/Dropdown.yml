@@ -1,0 +1,28 @@
+﻿---
+ID: "5e32e75f-446a-412c-8ed8-922320ae9031"
+Parent: "3426884a-5cec-4069-b311-b5b7f4c7beb8"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Grid/Grid Definition Items/Device children/Dropdown
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/drop_down_list.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {347FE6B4-F030-4CD7-B93A-DD8CFDA768EB}
+    {EEEBE923-8528-4D0D-B70A-F2132A5A7A4D}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{547D006F-6A3C-44E1-9946-0006459DBE75}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T080143Z

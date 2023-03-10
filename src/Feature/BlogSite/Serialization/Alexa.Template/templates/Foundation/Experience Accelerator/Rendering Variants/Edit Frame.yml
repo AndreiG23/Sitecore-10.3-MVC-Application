@@ -1,0 +1,32 @@
+﻿---
+ID: "98e1c490-65e2-4f23-a4fd-d2d496cb387b"
+Parent: "a4ee048d-2110-4aff-bbe7-855b2ca4f87c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Rendering Variants/Edit Frame
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/tools.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {6B1A7B9D-2F58-419D-92B7-3401A61E6F9C}
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {EB94D770-9923-4A66-9C54-420566368FB2}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{2DAB7DB1-08C2-42F2-8890-4A2D9EA9229C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171023T083954Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

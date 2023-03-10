@@ -1,0 +1,14 @@
+﻿---
+ID: "4345d5fc-fa5a-42b2-99cd-e99975aa3aeb"
+Parent: "78180355-f0a2-4161-a34c-3069a9e17539"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Multisite/Base/_Base Tenant/Configuration
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20181113T103304Z

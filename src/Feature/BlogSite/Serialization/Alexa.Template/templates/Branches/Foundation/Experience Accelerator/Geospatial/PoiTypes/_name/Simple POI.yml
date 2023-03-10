@@ -1,0 +1,26 @@
+﻿---
+ID: "58ec36c2-b3a9-4dde-8ecc-fa8ceab9f958"
+Parent: "3f659530-2328-44a4-95f0-9c8c488011d4"
+Template: "c58ee915-aa14-49bf-bee4-c821cac26913"
+Path: /sitecore/templates/Branches/Foundation/Experience Accelerator/Geospatial/PoiTypes/$name/Simple POI
+DB: master
+SharedFields:
+- ID: "57e50235-ce3e-4f31-846e-2646cbba69f8"
+  Hint: Icon
+  Value: |
+    <image mediaid="{6827739A-87B1-4EDC-95C8-08AE69AE04CA}" alt="pin_red" height="" width="" hspace="" vspace="" />
+- ID: "b348a1bf-27be-4713-915a-4811bc987e37"
+  Hint: FieldNames
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160518T111022Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

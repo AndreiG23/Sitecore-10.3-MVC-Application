@@ -1,0 +1,24 @@
+﻿---
+ID: "5b2d4821-d929-4c5c-b322-c38eb6d60119"
+Parent: "0339bac0-78c1-43c1-b930-f8c26a5fdf80"
+Template: "0339bac0-78c1-43c1-b930-f8c26a5fdf80"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Placeholder Settings/Placeholder Settings Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {1CA0304B-E5B6-4810-8211-54426F1752C2}
+    {0339BAC0-78C1-43C1-B930-F8C26A5FDF80}
+- ID: "30d2a0d2-7a60-4f32-86a9-4aa50bfab87b"
+  Hint: TemplateForCreation
+  Value: "{1CA0304B-E5B6-4810-8211-54426F1752C2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170530T090356Z

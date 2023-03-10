@@ -1,0 +1,18 @@
+﻿---
+ID: "dda6c95b-0081-4f38-8bd4-210d9a8fba77"
+Parent: "edd31000-136d-4019-b941-e57c662599b0"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Branches/System/Email/Messages/Three Column Short/$name/Message Root/Headers
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 87
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200724T101935Z

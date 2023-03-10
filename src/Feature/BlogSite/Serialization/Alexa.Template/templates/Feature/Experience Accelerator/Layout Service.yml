@@ -1,0 +1,18 @@
+﻿---
+ID: "705490e8-4075-4019-9b89-72719a0f3996"
+Parent: "a5d09e5b-67d8-48fd-a468-65670b9498a2"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Experience Accelerator/Layout Service
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170424T081333Z

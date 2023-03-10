@@ -1,0 +1,14 @@
+﻿---
+ID: "042e60a9-88c4-48da-863f-d3cce7f1d376"
+Parent: "165f2cbe-2d8b-4844-85d3-12a2c6fd2cd7"
+Template: "165f2cbe-2d8b-4844-85d3-12a2c6fd2cd7"
+Path: /sitecore/templates/Feature/Experience Accelerator/Context/Rendering Parameters/Site Selector/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111208T101850

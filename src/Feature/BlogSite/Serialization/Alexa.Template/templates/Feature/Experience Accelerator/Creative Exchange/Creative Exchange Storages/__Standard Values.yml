@@ -1,0 +1,25 @@
+﻿---
+ID: "64e605de-3935-4a7a-b65e-a1f16ed3372c"
+Parent: "0d792404-79aa-483d-bb0c-50785f2e295b"
+Template: "0d792404-79aa-483d-bb0c-50785f2e295b"
+Path: /sitecore/templates/Feature/Experience Accelerator/Creative Exchange/Creative Exchange Storages/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {C7109945-BD76-4B3D-B09B-DB80CBF515C0}
+    {BCA27DE4-A869-4282-B3FB-4FBD7BA1B87B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161007T072905Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

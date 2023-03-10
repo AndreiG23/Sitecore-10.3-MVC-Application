@@ -1,0 +1,23 @@
+﻿---
+ID: "893b9732-5d5c-4d3c-b7e8-f81d64573519"
+Parent: "5f86fdad-e33b-4084-8ea9-5ec778d59f13"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: /sitecore/layout/Layouts/Foundation/Headless Services/Form Layout
+DB: master
+SharedFields:
+- ID: "80334869-86dc-4472-aa89-44cf1b2f6c9b"
+  Hint: Placeholders
+  Type: Treelist
+  Value: "{46442EBD-6CCB-4F63-96F8-49B8C2858E9F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220622T064714Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

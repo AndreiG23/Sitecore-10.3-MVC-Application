@@ -1,0 +1,22 @@
+﻿---
+ID: "8adb0f9a-d5b4-54c4-b0a2-85acf38774d7"
+Parent: "47ec3d70-f5f4-53c1-bbd4-b503dc179205"
+Template: "47ec3d70-f5f4-53c1-bbd4-b503dc179205"
+Path: "/sitecore/templates/Project/my-alexa-jss-app/Styleguide-FieldUsage-ItemLink Rendering Parameters/__Standard Values"
+DB: master
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230306T084807Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport

@@ -1,0 +1,31 @@
+﻿---
+ID: "b4f46f58-ac3a-4e24-9557-66a49382e70f"
+Parent: "93d3ffd5-3bfd-429f-aafb-4f8060928ffe"
+Template: "5a6263cf-997f-41f1-a5e3-304d447e6286"
+Path: /sitecore/content/Alexa/Home/Articles/AboutUs
+DB: master
+SharedFields:
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: 
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12d6cac4-9ac1-447a-b685-7bc3f11c8503"
+      Hint: Title
+      Value: AboutUs Title
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230301T131705Z
+    - ID: "29518b91-1130-40d8-b698-87643c4bce60"
+      Hint: PostedDate
+      Value: 20230301T000000Z
+    - ID: "832508b9-d188-45ce-a268-ba8010597759"
+      Hint: BlogId
+      Value: "{B4F46F58-AC3A-4E24-9557-66A49382E70F}"

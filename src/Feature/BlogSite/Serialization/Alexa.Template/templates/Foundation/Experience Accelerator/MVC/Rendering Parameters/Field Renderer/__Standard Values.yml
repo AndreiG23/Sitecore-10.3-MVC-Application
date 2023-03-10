@@ -1,0 +1,18 @@
+﻿---
+ID: "027d75de-94e3-4361-b840-cae0f0ce6e35"
+Parent: "fd22a454-f1a8-4d1b-a46b-eba0c7f7f6c9"
+Template: "fd22a454-f1a8-4d1b-a46b-eba0c7f7f6c9"
+Path: /sitecore/templates/Foundation/Experience Accelerator/MVC/Rendering Parameters/Field Renderer/__Standard Values
+DB: master
+SharedFields:
+- ID: "aab65432-c1ff-4ff2-9fbd-f3d2a0f35d20"
+  Hint: FieldName
+  Value: Title
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130319T143900Z

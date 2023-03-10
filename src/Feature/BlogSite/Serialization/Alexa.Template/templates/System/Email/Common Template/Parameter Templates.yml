@@ -1,0 +1,14 @@
+﻿---
+ID: "bab5890a-873a-4eba-82f5-4900f0abb50d"
+Parent: "768cb2b8-0002-4846-9d3a-470ce1c5d6a1"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/System/Email/Common Template/Parameter Templates
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200304T090516Z

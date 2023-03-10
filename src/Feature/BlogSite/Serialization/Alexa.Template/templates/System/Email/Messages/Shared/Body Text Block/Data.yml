@@ -1,0 +1,18 @@
+﻿---
+ID: "88a158ac-43d4-46d9-8ebf-96230687cc25"
+Parent: "08bbb511-2e9e-4617-a7fd-cfd11bd33677"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Email/Messages/Shared/Body Text Block/Data
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/form_blue_delete.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T124951Z

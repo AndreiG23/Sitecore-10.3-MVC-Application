@@ -1,0 +1,14 @@
+﻿---
+ID: "576b7629-1b35-41b7-9b34-5b2633b16bbe"
+Parent: "6f9c1fd2-bb0d-4797-b30c-4fa5fa4d5074"
+Template: "6f9c1fd2-bb0d-4797-b30c-4fa5fa4d5074"
+Path: /sitecore/templates/Feature/Experience Accelerator/Page Structure/Rendering Parameters/Container/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120803T142734

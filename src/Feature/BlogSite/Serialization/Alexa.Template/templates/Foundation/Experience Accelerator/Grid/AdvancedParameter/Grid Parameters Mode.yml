@@ -1,0 +1,14 @@
+﻿---
+ID: "33c15edf-57d7-4eae-a1d9-8c57dbecf15a"
+Parent: "347fe6b4-f030-4cd7-b93a-dd8cfda768eb"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Grid/AdvancedParameter/Grid Parameters Mode
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170120T124649Z

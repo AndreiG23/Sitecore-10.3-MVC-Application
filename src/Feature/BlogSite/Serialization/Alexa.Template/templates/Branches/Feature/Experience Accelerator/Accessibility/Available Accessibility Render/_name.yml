@@ -1,0 +1,23 @@
+﻿---
+ID: "ccfb1c95-fba1-4191-bace-d025e95248f2"
+Parent: "87ddb07a-fbd2-4fd3-99e0-c0eb7121163d"
+Template: "bf70a40b-6d0e-4639-9862-24bb8946094b"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Accessibility/Available Accessibility Renderings/$name
+DB: master
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{BA1B7D2A-99F1-44FC-A757-AC0737AAECFA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180723T111309Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

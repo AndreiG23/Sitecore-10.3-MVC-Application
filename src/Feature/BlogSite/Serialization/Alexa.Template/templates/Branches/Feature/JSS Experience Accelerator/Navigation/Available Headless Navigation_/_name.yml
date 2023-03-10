@@ -1,0 +1,25 @@
+﻿---
+ID: "3a748197-a45f-4b5c-bc1a-e350f433f9e3"
+Parent: "4e841618-96a7-4761-a5eb-b613cbd6c887"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/templates/Branches/Feature/JSS Experience Accelerator/Navigation/Available Headless Navigation Renderings/$name
+DB: master
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: |
+    {1DEB067F-0BB1-405E-94F5-2ABB537A6160}
+    {4956263D-1195-4D6E-931B-800EA625FF6F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211126T075544Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

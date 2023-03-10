@@ -1,0 +1,23 @@
+﻿---
+ID: "ff987a76-12d0-4b6b-8137-8f079c83c5b8"
+Parent: "a7eb478b-2455-41d2-8454-4694c5de3cb9"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Placeholder Settings/Base/_Base Placeholder
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{5C547D4E-7111-4995-95B0-6B561751BF2E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190121T090510Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

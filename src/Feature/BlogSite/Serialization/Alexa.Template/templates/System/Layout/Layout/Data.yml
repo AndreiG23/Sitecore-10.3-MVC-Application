@@ -1,0 +1,10 @@
+﻿---
+ID: "7de9ee2b-7ce1-483f-b7b2-5f985e88d287"
+Parent: "3a45a723-64ee-4919-9d41-02fd40fd1466"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/System/Layout/Layout/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1

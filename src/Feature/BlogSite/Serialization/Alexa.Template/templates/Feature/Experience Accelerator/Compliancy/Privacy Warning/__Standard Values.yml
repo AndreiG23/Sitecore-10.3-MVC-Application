@@ -1,0 +1,33 @@
+﻿---
+ID: "9a3cbe07-861a-4032-9ec0-c62d2a18b7eb"
+Parent: "dc66d5da-3216-48e6-ae78-bac8445b6a46"
+Template: "dc66d5da-3216-48e6-ae78-bac8445b6a46"
+Path: /sitecore/templates/Feature/Experience Accelerator/Compliancy/Privacy Warning/__Standard Values
+DB: master
+SharedFields:
+- ID: "73501930-26ed-493f-adc9-3ac77fc5ed66"
+  Hint: PrivacyWarningType
+  Value: "{2387430F-6AAB-4C11-81DE-BCB6A68ADDA3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1466c213-7752-427f-a6b8-e4e2cf6e1264"
+      Hint: LearnMoreText
+      Value: Learn More
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150623T130256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6af8dfd6-f541-400a-83c0-2a90a1fe8e6f"
+      Hint: PrivacyWarningButtonText
+      Value: Confirm
+    - ID: "f2ad4c49-ecc4-4d42-a967-2756182705ac"
+      Hint: PrivacyWarningContent
+      Value: |
+        Cookies help us improve your website experience.<br>
+        By using our website, you agree to our use of cookies.

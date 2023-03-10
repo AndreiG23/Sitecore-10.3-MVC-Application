@@ -1,0 +1,14 @@
+﻿---
+ID: "becd2136-596f-4405-9d70-92eafc70a349"
+Parent: "fb6b721e-d64d-4392-a1f0-a15194cbfad9"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/System/Layout/Layout Preset
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20061214T171847

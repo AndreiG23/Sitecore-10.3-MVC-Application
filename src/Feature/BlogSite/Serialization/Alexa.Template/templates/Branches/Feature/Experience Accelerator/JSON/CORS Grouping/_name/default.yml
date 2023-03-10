@@ -1,0 +1,14 @@
+﻿---
+ID: "10670d11-ad0b-4e03-9118-872819cba6b2"
+Parent: "b6dab7a0-4f89-4ff1-a1f8-683c1077162a"
+Template: "5203732f-9512-4ade-8e02-0cb085c10454"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/JSON/CORS Grouping/$name/default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170511T161758Z

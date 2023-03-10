@@ -1,0 +1,25 @@
+﻿---
+ID: "eb12522d-1041-4db3-9f9b-315bd8bd1f77"
+Parent: "8178b44e-b2bb-4635-85ba-b807ce420858"
+Template: "8178b44e-b2bb-4635-85ba-b807ce420858"
+Path: /sitecore/templates/Feature/Experience Accelerator/Page Structure/Datasource/Roots/Toggle Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A2CB73C7-0054-4461-AAB8-0969FDD2E094}
+    {8178B44E-B2BB-4635-85BA-B807CE420858}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T091628
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

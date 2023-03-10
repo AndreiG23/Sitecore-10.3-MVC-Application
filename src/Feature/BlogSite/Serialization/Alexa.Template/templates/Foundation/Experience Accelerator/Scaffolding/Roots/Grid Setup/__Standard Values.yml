@@ -1,0 +1,28 @@
+﻿---
+ID: "43f06192-c40e-426c-b3d2-b45f5aebe6fd"
+Parent: "dbdf5dfd-f79b-4766-99b9-e29775d97328"
+Template: "dbdf5dfd-f79b-4766-99b9-e29775d97328"
+Path: /sitecore/templates/Foundation/Experience Accelerator/Scaffolding/Roots/Grid Setup/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {EA8A3F26-9CCD-443A-95F5-71B868A94BD0}
+    {1773ECCE-3F78-4201-8095-CAE3574E8EDE}
+    {B06460C2-8B7B-47A5-9E2C-F966F689B6CA}
+    {5AE7EE87-FBEB-4648-818F-9B17E13B4C89}
+    {37397CC6-D9E3-4F3E-B320-1EF5CC76CC2E}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160627T072319Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

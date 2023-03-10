@@ -1,0 +1,14 @@
+﻿---
+ID: "c42b5d47-e770-449c-88d0-de7eefd6a6b6"
+Parent: "b82c4291-df80-46de-bb0e-5b4346ef88cb"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Foundation/Experience Accelerator/Dynamic Placeholders
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160415T080423Z

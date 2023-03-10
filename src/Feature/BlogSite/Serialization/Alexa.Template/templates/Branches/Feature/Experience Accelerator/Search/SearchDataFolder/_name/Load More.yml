@@ -1,0 +1,14 @@
+﻿---
+ID: "afcb1730-fa8a-4301-ab3c-3c019d6ef9b2"
+Parent: "adde8c79-cee4-41f5-adc0-3886e9d00351"
+Template: "59aa313d-90c3-4813-976d-ce440e1c9b10"
+Path: /sitecore/templates/Branches/Feature/Experience Accelerator/Search/SearchDataFolder/$name/Load More
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160606T083956Z

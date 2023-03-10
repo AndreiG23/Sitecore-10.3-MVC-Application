@@ -1,0 +1,14 @@
+﻿---
+ID: "ae18578e-c309-4c2d-9ce1-2840912cc2c4"
+Parent: "ea62ec50-a510-41b6-9526-bd149b00b469"
+Template: "7dfbcf4b-4f57-4c02-bc5f-d87256e7c4a7"
+Path: /sitecore/templates/Branches/System/Email/Messages/Three Column Long/$name/Message Root/Body Texts/Body Text
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200616T084728Z

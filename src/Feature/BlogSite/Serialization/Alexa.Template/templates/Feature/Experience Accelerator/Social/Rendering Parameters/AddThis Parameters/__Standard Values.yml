@@ -1,0 +1,18 @@
+﻿---
+ID: "849ad2b8-e34f-4701-922e-f1ac5f5979a4"
+Parent: "88a5fe1f-28fa-4e38-8070-9fcfbd272094"
+Template: "88a5fe1f-28fa-4e38-8070-9fcfbd272094"
+Path: /sitecore/templates/Feature/Experience Accelerator/Social/Rendering Parameters/AddThis Parameters/__Standard Values
+DB: master
+SharedFields:
+- ID: "e42027f4-766d-45a7-8cf4-29e5c94326f7"
+  Hint: Placeholder
+  Value: main
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130828T090731
